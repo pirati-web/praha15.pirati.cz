@@ -1,1 +1,1 @@
-# praha15.pirati.cz
+# praha10.pirati.cz
