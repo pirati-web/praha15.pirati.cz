@@ -1,5 +1,5 @@
 ---
-uid: vojta-ondrej
+uid: nepejchal.jakub
 name: Jakub Nepejchal
 titles:
   before: Bc.
