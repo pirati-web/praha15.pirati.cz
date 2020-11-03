@@ -11,7 +11,7 @@ description: Ekonom, Finance a majetek, územní rozvoj a životní prostředí,
 img: people/danickova-radka.jpg
 mail:
   - Radka.Danickova@pirati.cz
-phone:  + 420 728 453 911
+mob: +420 728 453 911
 profiles:
   facebook: https://www.facebook.com/radka.danickova.3/
   #calendar: 
