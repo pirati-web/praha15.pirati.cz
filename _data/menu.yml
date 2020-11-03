@@ -5,9 +5,6 @@ top:
   - link: "wiki.pirati.cz"
     url:  "https://wiki.pirati.cz"
     icon: "fa fa-home"
-  - link: "Pirátské listy"
-    url:  "https://praha11.pirati.cz/piratske-listy"
-    icon: "fa fa-newspaper-o"
 
 main:
   - link: /
