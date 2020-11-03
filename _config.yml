@@ -86,11 +86,11 @@ defaults:   # defaults values for collection scope
       keywords: program, volby, 2018, komunální volby
 
 organization:
-  name: Místní sdružení Pirátů Prahy 15
-  shortName: Piráti Praha 15
+  name: Praha 15 a Petrovice
+  shortName: Praha 15 a Petrovice
   email: praha15@pirati.cz
-  contactUid: 
-  phone: +420 
+  contactUid: danickova.radka
+  phone: +420 728 453 911
   address: |
     Na Moráni 3
     120 00 Praha 2
