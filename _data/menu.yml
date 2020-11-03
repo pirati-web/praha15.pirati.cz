@@ -22,9 +22,6 @@ main:
   - link: /lide/
     name: Lidé
     match: lide
-  - link: /komunalni-volby/
-    name: Program
-    match: komunalni-volby
   - link: /podporte-nas/
     name: Podpořte nás
     match: podporte-nas
@@ -36,14 +33,7 @@ bottom:
       - link: https://nalodeni.pirati.cz
         name: Naloďte se na palubu !
       - link: /kontakt/
-        name: Dej nám vědět
-  - class: small-12 medium-4
-    title: Volby 2018
-    links:
-      - link: /komunalni-volby/
-        name: Program
-      - link: /lide/
-        name: Lidé     
+        name: Dej nám vědět   
   - class: small-12 medium-4
     title: Otevřenost
     links:
