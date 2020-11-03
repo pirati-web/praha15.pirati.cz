@@ -21,3 +21,8 @@ Stejná developerská společnost má zálusk obytně zastavět také pozemky na
 
 Myslíme si, že zapojovat do územního plánování a urbanismu volná rekreační prostranství a veřejnou zeleň, chránit přírodní hodnoty v městské krajině je pro stávající i nové obyvatele rozrůstající Prahy jednou z největších kvalit v jejich životech, kterou pro ně můžeme uchovat!
 *"Z prospektu i propagačního videa je patrné, že developer dokáže velmi dobře „prodat“ přírodní krásy, dědictví minulých století, ale i lesopark či přehradu, které pro rekreaci pracujících vznikly díky velkorysému plánování a investicím minulého režimu."*
+
+
+![Meandry Botiče](/assets/img/articles/2020/2020-10-29-trojmezi-2.jpg)
+![Meandry Botiče](/assets/img/articles/2020/2020-10-29-trojmezi-3.jpg)
+![Meandry Botiče](/assets/img/articles/2020/2020-10-29-trojmezi-4.jpg)
