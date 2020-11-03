@@ -5,7 +5,10 @@ top:
   - link: "wiki.pirati.cz"
     url:  "https://wiki.pirati.cz"
     icon: "fa fa-home"
-
+  - link: "https://praha.pirati.cz/piratske-listy/2020-jaro/#plisty/page7"
+    url:  "Pirátské listy"
+    icon: "fa fa-home"    
+    
 main:
   - link: /
     name: Úvod
