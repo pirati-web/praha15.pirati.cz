@@ -2,7 +2,7 @@
 uid: vojta-ondrej
 name: Jakub Nepejchal
 titles:
-  before: 
+  before: Bc.
 category:
   - clenove
   - kandidat-obec
