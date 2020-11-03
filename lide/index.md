@@ -7,7 +7,10 @@ viewMode: grouped # or alltogether
 redirect_from:
   - /clenove/
 groups:  
-  - name: Členové
+  - name: Přípravný team
     category: clenove
     sort: ordPce
+  - name: Příznivci
+    category: priznivci
+    sort: ordPce  
 ---
