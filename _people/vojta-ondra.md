@@ -7,7 +7,7 @@ category:
   - clenove
   - kandidat-obec
 ordpms: 1
-description: 
+description: Kreativec, dobrovolný hasič, Bezpečnost, volný čas, Petrovice
 img: people/vojta-ondrej.jpg
 mob: + 420 736 726 061
 mail:
