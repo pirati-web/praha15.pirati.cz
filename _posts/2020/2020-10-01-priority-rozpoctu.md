@@ -1,9 +1,8 @@
 ---
-date: 2020-01-16
+date: 2020-10-01
 category: blog
 tags: 
   - rozpočet
-
 layout: post
 author: Radka Daníčková
 authorId: radka.danickova
