@@ -25,7 +25,9 @@ main:
   - link: /podporte-nas/
     name: Podpořte nás
     match: podporte-nas
-
+  - link: https://nalodeni.pirati.cz
+    name: Připoj se
+    
 bottom:
   - class: small-12 medium-4
     title: Připoj se
