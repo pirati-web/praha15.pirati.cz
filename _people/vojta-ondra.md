@@ -9,7 +9,7 @@ category:
 ordpms: 1
 description: 
 img: people/vojta-ondrej.jpg
-phone: + 420 736 726 061
+mob: + 420 736 726 061
 mail:
   - Ondrej.Vojta@pirati.cz 
 profiles:
