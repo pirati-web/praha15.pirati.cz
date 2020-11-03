@@ -123,9 +123,9 @@ facebook:
   loadSDK: true
   appId: 1526197851008996
 
-twitter:
-  profile: piratipraha10
-  loadSDK: true
+#twitter:
+#  profile: 
+#  loadSDK: true
 
 instagram:
   profilePage: https://www.instagram.com/piratipraha15/
