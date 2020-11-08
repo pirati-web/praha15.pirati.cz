@@ -7,9 +7,7 @@ category:
   - clenove
   - kandidat-obec
 ordpms: 1
-description: Ekonom
-Finance a majetek, územní rozvoj a životní prostředí
-Hostivař
+description: Ekonom, Finance a majetek, územní rozvoj a životní prostředí, Hostivař
 img: people/danickova-radka.jpg
 mail:
   - Radka.Danickova@pirati.cz
