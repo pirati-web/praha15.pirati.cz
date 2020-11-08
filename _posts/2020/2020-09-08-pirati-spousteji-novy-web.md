@@ -5,7 +5,7 @@ tags:
   - web
 layout: post
 author: Ondřej Vojta, Radka Daníčková
-authorId: vojta-ondrej, danickova.radka
+authorId: vojta.ondrej, danickova.radka
 title: Spouštíme nové webové stránky!
 image: articles/2020/2020-09-08-pirati-spousteji-novy-web.jpg
 ---
