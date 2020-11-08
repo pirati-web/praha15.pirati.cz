@@ -5,7 +5,7 @@ tags:
   - rozpočet
 layout: post
 author: Radka Daníčková
-authorId: radka.danickova
+authorId: danickova.radka
 title: Jaké mají být priority rozpočtu Prahy 15 v roce 2021?
 image: articles/2020/2020-10-01-priority-rozpoctu.jpg
 ---
