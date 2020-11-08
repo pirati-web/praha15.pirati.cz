@@ -13,7 +13,7 @@ mob: + 420 736 726 061
 mail:
   - Ondrej.Vojta@pirati.cz 
 profiles:
-  facebook: https://www.facebook.com/profile.php?id=100005663928125
+  facebook: https://www.facebook.com/OndrejVojta.Pirati.Petrovice
   #calendar: 
 ---
 
