@@ -4,8 +4,8 @@ category: blog
 tags: 
   - web
 layout: post
-author: Radka Daníčková
-authorId: radka.danickova
+author:
+authorId: 
 title: Spouštíme nové webové stránky!
 image: articles/2020/2020-09-08-pirati-spousteji-novy-web.jpg
 ---
