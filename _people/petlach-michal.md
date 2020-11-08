@@ -1,5 +1,5 @@
 ---
-uid: petla.michal
+uid: petlach.michal
 name: Michal Petlach
 titles:
   before: Mgr.
