@@ -5,8 +5,8 @@ tags:
   - výstavba
   - meandry Botiče
 layout: post
-author: Radka Daníčková
-authorId: radka.danickova
+author: Radka Daníčková, Michal Petlach
+authorId: danickova.radka, petlach.michal
 title: Meandry Botiče
 image: articles/2020/2020-10-29-trojmezi-1.jpg
 ---
