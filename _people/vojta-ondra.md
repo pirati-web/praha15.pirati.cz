@@ -1,5 +1,5 @@
 ---
-uid: vojta-ondrej
+uid: vojta.ondrej
 name: Ondřej Vojta
 titles:
   before: 
