@@ -20,6 +20,4 @@ Pro finanční podporu v mnohem větší míře využívejme vyhlášené dotač
 
 energetických úspor, podpory sociálních služeb a komunitního života, infrastrukturních projektů.
 
-Přeji pěkný podzim hlavně ve zdraví
-
-Radka Daníčková
+Přejeme pěkný podzim hlavně ve zdraví.
