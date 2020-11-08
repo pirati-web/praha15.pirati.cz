@@ -6,6 +6,7 @@ titles:
 category:
   - clenove
   - kandidat-obec
+  - zastupitel
 ordpms: 1
 description: Ekonom, Finance a majetek, územní rozvoj a životní prostředí, Hostivař
 img: people/danickova-radka.jpg
