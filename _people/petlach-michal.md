@@ -13,7 +13,7 @@ mail:
   - Michal.Petlach@seznam.cz
 mob: +420 773 893 717
 profiles:
-  facebook: https://www.facebook.com/messages/t/2075889909108238
+  facebook:
   #calendar: 
 ---
 
