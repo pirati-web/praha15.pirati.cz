@@ -33,3 +33,4 @@ Ve volném čase - pokud nějaký zbývá - se Ondřej věnuje svým nejoblíben
 - Člen Expertních týmů Bezpečnost a Sport
 - od 10/2018 člen Komise životního prostředí a povodňové MČ Praha-Petrovice
 - od 12/2018 člen Komise prevence kriminality Rady hl. m. Prahy
+- od 4/2020 předsedající KF Praha
