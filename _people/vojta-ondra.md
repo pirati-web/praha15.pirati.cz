@@ -17,12 +17,17 @@ profiles:
   #calendar: 
 ---
 
-Ondřej Vojta (* 2000), člen České pirátské strany, žije v Petrovicích a působí v akčním týmu Pirátů na Praze 15.
+Ondřej Vojta (*2000) je člen Pirátské strany žijící v pražských Petrovicích.
 
-Je členem nejen Komise prevence kriminality rady hl. m. Prahy, ale také Komise povodňové a životního prostředí v MČ Praha-Petrovice. V rámci strany se Ondřej aktivně zapojuje do fungování pražského pirátského resortního týmu Bezpečnost, zajímá se taktéž o témata volného času mládeže a o sport.
-V r. 2018 kandidoval v komunálních volbách hl. m. Prahy ze 43. místa.
+Vystudoval Filmovou a televizní tvorbu na SPŠ ST Panská Praha. V současnosti studuje obor marketing na Vysoké škole ekonomie a managementu. Nejvíce času věnuje dobrovolnému hasičstvu. Pro Sdružení hasičů ČMS pracuje jako kreativec a zapojuje se do organizace celorepublikových akcí, na kterých se většinou věnuje jejich medializaci. Stejně tak působí v jednotce požární ochrany a pracuje jako vedoucí s družstvem mladých hasičů v SDH Dolní Měcholupy.
 
-Vystudoval a odmaturoval na SPŠ ST Panská, obor Multimediální tvorba. V současnosti studuje Marketing na VŠEM. Největší prací a koníčkem zároveň mu je práce pro dobrovolné hasiče. Pro Sdružení hasičů ČMS pracuje jako kreativec. V rámci „hasičiny” se zapojuje do organizace celorepublikových akcí, na kterých se stará především o jejich medializaci. Stejně tak působí v jednotce požární ochrany a v SDH Dolní Měcholupy, a také ho lze zastihnout jako požární dohled v divadlech či při fotbalových utkáních. Drží osvědčení Vedoucího mládeže SH ČMS i Rozhodčího SH ČMS.
+V listopadu 2020 byl SH ČMS nominován a následně zvolen do Představenstva České rady dětí a mládeže, která sdružuje 97 mládežnických organizací čítající přibližně 200 tisíc dětí a mládeže. Rada poskytuje servis členským organizacím a artikuluje jejich potřeby zástupcům samosprávy a správy.
+
+Piráty zastupuje v Komisi prevence kriminality Rady hl. m. Prahy a v Komisi životního prostředí a povodňové RMČ Praha-Petrovice. Odborně se Ondřej zajímá zejména o gesce bezpečnosti a sportu a volného času, je členem těchto pražských expertních týmů. Od roku 2020 předsedá vybraným jednáním Krajského fóra pražského sdružení.
+
+V roce 2018 kandidoval v komunálních volbách hl. m. Prahy ze 43. místa, Piráti v těchto volbách získali 13 mandátů.
+
+Ve volném čase - pokud nějaký zbývá - se Ondřej věnuje svým nejoblíbenějším aktivitám: fotbalové i hokejové Slavii Praha, filmu a jeho dějinám (nejvýše řadí tvorbu Q. Tarantina, poetiku J. Tattiho a fenomén Star Wars) a četbě.
 
 ## Aktivity:
 - Člen Expertních týmů Bezpečnost a Sport
