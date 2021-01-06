@@ -1,7 +1,7 @@
 ---
 date: 2020-11-28
 category: blog
-tags: praha 15
+tags: revitalizace
 layout: post
 author: Radka Daníčková
 authorId: danickova.radka
