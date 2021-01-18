@@ -10,8 +10,8 @@ ordpms: 1
 description: 
 img: 
 mob: 
-mail:
-  - 
+#mail:
+
 profiles:
   facebook: 
   #calendar: 
