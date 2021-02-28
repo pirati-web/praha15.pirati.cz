@@ -19,3 +19,5 @@ Tato cesta bude znamenat výrazné omezení kvality života obyvatel celého Ko�
 Naskýtá se otázka, proč bylo zapotřebí, aby těžká technika byla přivedena z Košíku, když stavba probíhá na území Prahy 11 a daleko snazší cesta by byla z Chodovce a okolí? K této otázce jsme dostali odpověď od starosty Prahy 11, který potvrdil, že díky odporu obyvatel k původní navržené variantě přístupové cesty z ulice Klapálkova a Blažimská, kde bydlí i starosta Prahy 11, byla tato varianta zrušena. Došlo zde tudíž k situaci, kterou bychom mohli nazvat jako ,,Trojmezní Paradox,, což znamená, že cesta ke stavbě rozléhájicí se na hranici Prahy 10 a 11 byla odmítnuta občany Prahy 11 a proto povede přes Prahu 15, která jak známo, je v posledních letech vůči stavbám benevolentnější. 
 
 Proto se ptáme, jak je možné, že vedení Prahy 15 variantu vybudování přístupové cesty z ulice Doupovská odsouhlasilo a kde existuje záznam o možnosti obyvatelů Košíku a ulice Doupovské se k této variantě vyjádřit?
+
+![Meandry Botiče](/assets/img/articles/2020/2021-02-28-Terenni-prace-v-Trojmezi.jpg)
