@@ -6,7 +6,7 @@ tags:
   - Košík
 layout: post
 author: Michal Petlach
-authorId: petlach.michal
+authorId:
 title: Terénní práce v Trojmezí
 image: articles/2020/2021-02-28-Terenni-prace-v-Trojmezi.jpg
 ---
