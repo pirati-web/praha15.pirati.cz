@@ -3,7 +3,6 @@ date: 2021-02-28
 category: blog
 tags: 
   - výstavba
-  - Košík
 layout: post
 author: Michal Petlach
 authorId:
