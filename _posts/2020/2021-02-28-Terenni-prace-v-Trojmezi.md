@@ -8,7 +8,7 @@ layout: post
 author: Michal Petlach
 authorId: petlach.michal
 title: Terénní práce v Trojmezí
-image: 2021-02-28-Terenni-prace-v-Trojmezi.jpg
+image: articles/2020/2021-02-28-Terenni-prace-v-Trojmezi.jpg
 ---
 
 Jistě si již většina obyvatel a návštěvníků Košíku a okolí všimla, že v polích podél ulice Doupovská na území, které je součástí tzv. Trojmezí, probíhají terénní a výkopové práce, které do velké míry mění charakter celého pole a okolí. Nejedná se o žádnou bezvýznamnou úpravu.
