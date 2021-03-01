@@ -5,7 +5,7 @@ tags:
   - výstavba
 layout: post
 author: Michal Petlach
-authorId:
+authorId: petlach.michal
 title: Terénní práce v Trojmezí
 image: articles/2020/2021-02-28-Terenni-prace-v-Trojmezi.jpg
 ---
