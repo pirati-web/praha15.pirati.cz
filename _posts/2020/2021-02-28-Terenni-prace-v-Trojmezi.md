@@ -7,7 +7,7 @@ tags:
 layout: post
 author: Michal Petlach
 authorId: petlach.michal
-title: TERÉNNÍ PRÁCE V TROJMEZÍ
+title: Terénní práce v Trojmezí
 image: 2021-02-28-Terenni-prace-v-Trojmezi.jpg
 ---
 
