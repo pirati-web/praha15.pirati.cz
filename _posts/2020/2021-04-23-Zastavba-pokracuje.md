@@ -2,7 +2,7 @@
 date: 2021-04-23
 category: blog
 tags: 
-  - vystavba
+  - výstavba
 layout: post
 author: Radka Daníčková
 authorId: danickova.radka
