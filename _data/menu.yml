@@ -1,41 +1,40 @@
 top:
   - link: "pirati.cz"
     url:  "https://www.pirati.cz"
-    icon: "fa fa-home"
-  - link: "Pirátské listy"
-    url:  "https://praha.pirati.cz/piratske-listy/2020-jaro/#plisty/page7"
-    icon: "fa fa-newspaper-o"
-  - link: "Obchod"
+    icon: "ico--home"
+  - link: "piratskyobchod.cz"
     url:  "https://piratskyobchod.cz"
-    icon: "fa fa-shopping-basket"
-  - link: "Nalodění"
-    url:  "https://nalodeni.pirati.cz"
-    icon: "fa fa-user-plus"
+    icon: "ico--cart"
+  - link: "Pirátské listy"
+    url:  "http://www.piratskelisty.cz"
+    icon: "ico--newspaper"
+
 
 main:
-  - link: /
-    name: Úvod
-    class: hide-for-medium
   - link: /aktuality/
     name: Aktuality
-    match: aktuality         
   - link: /lide/
     name: Lidé
-    match: lide
-  - link: /podporte-nas/
-    name: Podpořte nás
-    match: podporte-nas
-  - link: https://nalodeni.pirati.cz
-    name: Připoj se
-    
+  - link: https://www.piratiastarostove.cz/kandidati/kraj/praha/
+    name: Volby 2021  
+  - link: /kontakt/
+    name: Kontakt
+
 bottom:
   - class: small-12 medium-4
     title: Připoj se
     links:
-      - link: https://nalodeni.pirati.cz
-        name: Naloďte se na palubu !
       - link: /kontakt/
-        name: Dej nám vědět   
+        name: Dej nám vědět
+      - link: "https://nalodeni.pirati.cz"
+        name:  Nalodění
+  - class: small-12 medium-4
+    title: Makáme
+    links:
+      - link: /lide/
+        name: Lidé
+      - link: /aktuality/
+        name: Aktuality
   - class: small-12 medium-4
     title: Otevřenost
     links:
@@ -45,3 +44,11 @@ bottom:
         name: Registr smluv
       - link: https://wiki.pirati.cz/fo/otevrene_ucetnictvi
         name: Otevřené účetnictví
+
+
+# Display transparency section in the footer?
+transparencySection: false
+
+contact:
+  - danickova.radka
+  - vojta.ondrej
