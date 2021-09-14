@@ -9,6 +9,7 @@ category:
 ordpms: 1
 description: Klinické hodnocení léčiv, Doprava, územní rozvoj a životní prostředí, Hostivař – Košík
 img: people/petlach-michal.jpg
+heroImg: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Prague_from_air_2016_Horn%C3%AD_M%C4%9Bcholupy.jpg/1920px-Prague_from_air_2016_Horn%C3%AD_M%C4%9Bcholupy.jpg
 mail:
   - Michal.Petlach@seznam.cz
 mob: +420 773 893 717

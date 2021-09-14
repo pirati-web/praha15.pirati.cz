@@ -9,6 +9,7 @@ category:
 ordpms: 1
 description: Učitel fyziky a matematiky na gymnáziu, Školství, Horní Měcholupy
 img: people/petrasek-pavel.jpg
+heroImg: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Prague_from_air_2016_Horn%C3%AD_M%C4%9Bcholupy.jpg/1920px-Prague_from_air_2016_Horn%C3%AD_M%C4%9Bcholupy.jpg
 mob: +420 723 716 541
 mail:
   - pavel.petrasek@atlas.cz 

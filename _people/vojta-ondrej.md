@@ -9,6 +9,7 @@ category:
 ordpms: 1
 description: Kreativec, dobrovolný hasič, Bezpečnost, volný čas, Petrovice
 img: people/vojta-ondrej.jpg
+heroImg: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Prague_from_air_2016_Horn%C3%AD_M%C4%9Bcholupy.jpg/1920px-Prague_from_air_2016_Horn%C3%AD_M%C4%9Bcholupy.jpg
 mob: + 420 736 726 061
 mail:
   - Ondrej.Vojta@pirati.cz 
