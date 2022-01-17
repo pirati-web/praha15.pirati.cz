@@ -5,6 +5,7 @@ titles:
   before: Mgr.
 category:
   - clenove
+  - predseda
   - kandidat-obec
 ordpms: 1
 description: Učitel fyziky a matematiky na gymnáziu, Školství, Horní Měcholupy
