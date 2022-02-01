@@ -10,7 +10,7 @@ title: Sloupek v únorovém Hlasateli
 image: people/danickova-radka.jpg
 ---
 
-Praha, 20. prosince 2021 –⁠ Přinášíme vám přepis sloupku zastupitelky Radky Daníčkové v únorovém čísle radničního zpravodaje Hlasatel.
+Praha, 20. prosince 2021 –⁠ Přinášíme vám přepis sloupku zastupitelky Radky Daníčkové (Piráti/Patnáctka náš domov) v únorovém čísle radničního zpravodaje Hlasatel.
 
 V Praze 15 je krásně.
 A většina z nás si ji vybrala za svůj domov pro její pestrost, blízkost přírody i staleté stopy historie. 
