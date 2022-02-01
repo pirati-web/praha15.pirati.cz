@@ -26,4 +26,3 @@ Vyjadřujete se v petici a podali jste spolu s námi připomínky. Obrátili jsm
 u Fio banky. Děkujeme!
 
 Radka Daníčková
-(sloupek zastupitelky za PND v únorovém Hlasateli)
