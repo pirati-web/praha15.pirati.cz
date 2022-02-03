@@ -1,5 +1,5 @@
 ---
-date: 2022-01-17
+date: 2022-02-01
 category: blog
 tags: 
   - clanek
