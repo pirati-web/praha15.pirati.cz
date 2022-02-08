@@ -29,4 +29,4 @@ u Fio banky. Děkujeme!
 
 Radka Daníčková
 
-![Sloupek Hlasatel](https://mrak.pirati.cz/core/preview?fileId=3092350&x=2560&y=1600&a=true)
+![Sloupek Hlasatel](https://a.pirati.cz/praha15/img/articles/2022/sloupek-hlasatel-1.jpg)
