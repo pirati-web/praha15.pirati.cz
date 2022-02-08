@@ -12,6 +12,8 @@ image: people/danickova-radka.jpg
 
 Praha, 20. prosince 2021 –⁠ Přinášíme vám přepis sloupku zastupitelky Radky Daníčkové (Piráti/Patnáctka náš domov) v únorovém čísle radničního zpravodaje Hlasatel.
 
+
+
 V Praze 15 je krásně.
 A většina z nás si ji vybrala za svůj domov pro její pestrost, blízkost přírody i staleté stopy historie. 
 Už máte v domácí knihovně knihu „Toulky Prahou 15 – Hostivař a Horní Měcholupy“ od L. Berného vydanou u příležitosti 950letého výročí od první doložené zmínky o Hostivaři nebo knihu „Chráněná území ČR XII. – Praha“, k jejíž koupi jsem se inspirovala na přednášce „O zajímavých přírodních zákoutích v Hostivaři a Praze 15“ v komunitním centru Farní dvůr?
@@ -26,3 +28,5 @@ Vyjadřujete se v petici a podali jste spolu s námi připomínky. Obrátili jsm
 u Fio banky. Děkujeme!
 
 Radka Daníčková
+
+![Sloupek Hlasatel](https://a.pirati.cz/praha15/img/2022/sloupek-hlasatel-1.jpg)
