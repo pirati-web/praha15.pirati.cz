@@ -36,4 +36,4 @@ Pirátský klub v zastupitelstvu Prahy má aktuálně 13 členů v 65členném s
 13. David Bodeček
 
 
-![Čelní kandidáti](https://a.pirati.cz/praha15/img/articles/2020/Celni-kandidati-Praha.png)
+![Čelní kandidáti](articles/2020/Celni-kandidati-Praha.png)
