@@ -9,6 +9,8 @@ authorId: danickova.radka
 title: Jaké mají být priority rozpočtu Prahy 15 v roce 2021?
 image: articles/2020/2020-10-01-priority-rozpoctu.jpg
 ---
+**Přinášíme vám přepis sloupku pirátské zastupitelky Radky Daníčkové pro obecní zpravodaj Hlasatel.**
+
 Městská část jako součást územní samosprávy má dva hlavní úkoly, a to pečovat o blaho svých občanů a o rozvoj spravovaného území. Nezbytným nástrojem jí k tomu je rozpočet, tj. každoročně sestavovaný finanční plán příjmů a výdajů. V rozpočtu se tak odráží představy, směrování, hospodaření a vize vládnoucí koalice, nejlépe v krátkodobém i v dlouhodobém horizontu, tedy i překračující čas vymezený čtyřletým volebním obdobím.
 
 
