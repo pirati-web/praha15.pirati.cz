@@ -10,7 +10,7 @@ title: Praha podpoří rozvoj komunitních služeb pro seniory, vznikne 110 nov�
 image: articles/2020/2020-09-15-Praha-podpori-rozvoj.jpg
 ---
 
-Pražští radní schválili financování tří investičních akcí městských částí Praha 11, Praha 15 a Praha–Petrovice. Jde o první ze série projektů, které jsou připravovány v těsné spolupráci hlavního města a městských částí a budou financovány z Fondu rozvoje dostupného bydlení. Cílem spolupráce je systémové řešení historického deficitu lůžkové dlouhodobé péče a také rozvoj služeb přímo v místě bydliště seniorů, kteří tak odchodem do zařízení nebudou muset zpřetrhávat své vazby. Tři městské části dostanou dotace v celkové výši 121,9 milionu Kč.
+**Pražští radní schválili financování tří investičních akcí městských částí Praha 11, Praha 15 a Praha–Petrovice. Jde o první ze série projektů, které jsou připravovány v těsné spolupráci hlavního města a městských částí a budou financovány z Fondu rozvoje dostupného bydlení. Cílem spolupráce je systémové řešení historického deficitu lůžkové dlouhodobé péče a také rozvoj služeb přímo v místě bydliště seniorů, kteří tak odchodem do zařízení nebudou muset zpřetrhávat své vazby. Tři městské části dostanou dotace v celkové výši 121,9 milionu Kč.**
 
 Hlavní město vychází z vývoje demografické situace do roku 2030 a systémově nastavuje potřebné kapacity terénních a ambulantních služeb, které lidem umožní zůstat co nejdéle v přirozeném prostředí, stejně jako kapacity lůžek dlouhodobé péče, zejména v domovech pro seniory a domovech se zvláštním režimem.
 
