@@ -11,8 +11,8 @@ title: Meandry Botiče
 image: articles/2020/2020-10-29-trojmezi-1.jpg
 ---
 
-Na Kulatý Chodovec (Praha 11) dohlédnete ze sídliště na Slunečném Vršku a Košíku (Praha 15) přes tzv. Trojmezí - dosud volnou krajinu s poli, sady, remízem a s meandrujícím tokem Botiče částečně zasahující do tří městských částí a katastrálních území: Praha 10 - Záběhlice, Praha 11 - Chodov a Praha 15 - Hostivař.
-Starostové tří městských částí Petr Štěpánek (Praha 4), Petr Jirava (Praha 11) a Milan Wenzl (Praha 15) uzavřeli dne 12. září 2018 Memorandum za ochranu Trojmezí, jeho přírodně-krajinných hodnot a rekreačního potenciálu pro obyvatele příslušných městských částí.
+**Na Kulatý Chodovec (Praha 11) dohlédnete ze sídliště na Slunečném Vršku a Košíku (Praha 15) přes tzv. Trojmezí - dosud volnou krajinu s poli, sady, remízem a s meandrujícím tokem Botiče částečně zasahující do tří městských částí a katastrálních území: Praha 10 - Záběhlice, Praha 11 - Chodov a Praha 15 - Hostivař.
+Starostové tří městských částí Petr Štěpánek (Praha 4), Petr Jirava (Praha 11) a Milan Wenzl (Praha 15) uzavřeli dne 12. září 2018 Memorandum za ochranu Trojmezí, jeho přírodně-krajinných hodnot a rekreačního potenciálu pro obyvatele příslušných městských částí.**
 
 V současně platném územním plánu je Trojmezí určeno využití částečně jako sady, zahrady a vinice, louky a pastviny, částečně jako orná půda, sloužící rekreaci a oddechu, pro stavby vodního hospodářství a zahradnictví, pěších komunikací, jezdeckých a cyklistických stezek ... 
 
