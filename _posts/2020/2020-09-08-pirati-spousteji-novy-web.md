@@ -10,7 +10,7 @@ title: Spouštíme nové webové stránky!
 image: articles/2020/2020-09-08-pirati-spousteji-novy-web.jpg
 ---
 
-Piráti na Praze 15 v měsíci září oficiálně představili nové webové stránky. Ty budou sloužit pro informování, prezentování odvedené práce i pro glosy členů z Městské části Praha 15 a sousedících městských částí.
+**Piráti na Praze 15 v měsíci září oficiálně představili nové webové stránky. Ty budou sloužit pro informování, prezentování odvedené práce i pro glosy členů z Městské části Praha 15 a sousedících městských částí.**
 
 Pirátská strana na Praze 15 a v sousedních městských částech pomalu roste. Do našich aktivit na místní úrovni se zapojuje čím dál větší množství členů, příznivců i politicky neaktivních občanů, kteří se zajímají o své okolí a veřejné dění.
 
