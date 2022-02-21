@@ -9,7 +9,7 @@ title: Drážní promenáda
 image: articles/2020/2020-11-27-drazni-promenada.jpg
 ---
 
-Proměna nevyužívaných železničních staveb a pozůstatků – potenciál pro nové rekreační plochy a bezpečnou bezmotorovou prostupnost územím.
+**Proměna nevyužívaných železničních staveb a pozůstatků – potenciál pro nové rekreační plochy a bezpečnou bezmotorovou prostupnost územím.**
 
 V rámci dopravní stavby nazvané „Optimalizace traťového úseku Praha Hostivař – Praha hl. n.“ spěje vše k tomu, aby se již v prosinci převedl provoz ze stávající trati Hostivař – Vršovice do nového přímějšího a rychlejšího koridoru, který představuje vybudování nové žst. Zahradní Město spolu s moderním přestupním terminálem na jiné druhy MHD, nové zastávky Eden a nových nástupišť žst. Vršovice vč. oboustranného podchodu i do Bartoškovy ul. směrem do Nuslí.
 Již roku 2017 vznikly v městské části Praha 10 první technické plány přeměnit trasu současného kolejiště obsahující také žst. Strašnice na souvislý veřejný rekreační prostor se zelení a s oddělenými pásy pro pěší a cyklisty či bruslaře s možností napojení na okolní městské části, též např. do oblasti mokřadu Triangl – U Forstů – ul. Za Drahou v Praze 15 v Hostivaři. Zachovány by měly být původní drobné stavby připomínající drážní minulost. 
