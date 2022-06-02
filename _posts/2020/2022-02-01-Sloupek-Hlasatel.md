@@ -7,7 +7,7 @@ layout: post
 author: Radka Daníčková
 authorId: danickova.radka
 title: Sloupek v únorovém Hlasateli
-image: people/danickova-radka.jpg
+image: articles/2022/danickova-radka-2a.jpg
 ---
 
 Praha, 20. prosince 2021 –⁠ Přinášíme vám přepis sloupku zastupitelky Radky Daníčkové (Piráti/Patnáctka náš domov) v únorovém čísle radničního zpravodaje Hlasatel.
