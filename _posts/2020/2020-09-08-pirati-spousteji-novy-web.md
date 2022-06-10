@@ -2,7 +2,7 @@
 date: 2020-09-08
 category: blog
 tags: 
-  - web
+  - Začínáme!
 layout: post
 author: Piráti Praha 15
 authorId: 
