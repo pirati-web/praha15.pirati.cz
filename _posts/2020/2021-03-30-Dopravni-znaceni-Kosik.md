@@ -2,7 +2,7 @@
 date: 2021-03-30
 category: blog
 tags: 
-  - doprava
+  - Doprava
 layout: post
 author: Michal Petlach
 authorId: petlach.michal
