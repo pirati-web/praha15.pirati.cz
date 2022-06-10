@@ -2,7 +2,8 @@
 date: 2020-10-01
 category: blog
 tags: 
-  - rozpočet
+  - Článek
+  - Finance
 layout: post
 author: Radka Daníčková
 authorId: danickova.radka
