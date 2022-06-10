@@ -2,7 +2,7 @@
 date: 2021-02-28
 category: blog
 tags: 
-  - výstavba
+  - Trojmezí
 layout: post
 author: Michal Petlach
 authorId: petlach.michal
@@ -11,7 +11,7 @@ image: articles/2020/2021-02-28-Terenni-prace-v-Trojmezi.jpg
 ---
 
 Jistě si již většina obyvatel a návštěvníků Košíku a okolí všimla, že v polích podél ulice Doupovská na území, které je součástí tzv. Trojmezí, probíhají terénní a výkopové práce, které do velké míry mění charakter celého pole a okolí. Nejedná se o žádnou bezvýznamnou úpravu.
-Jedná se o budování přístupové cesty pro těžkou techniku, která se bude podílet na výstavbě připravovaného obytného komplexu společnosti Central Group - Výhledy Chodovec, o kterém jsme vás již informovali zde: https://www.facebook.com/586684735079506/posts/1108333992914575/
+Jedná se o budování přístupové cesty pro těžkou techniku, která se bude podílet na výstavbě připravovaného obytného komplexu společnosti Central Group - Výhledy Chodovec, o kterém jsme vás již informovali zde: [Trojmezí](https://www.facebook.com/586684735079506/posts/1108333992914575/)
 
 Tato cesta bude znamenat výrazné omezení kvality života obyvatel celého Košíku a hlavně ulice Doupovská, která bude zasažena prachem, znečištěním a hlukem po dobu měsíců či možná let (dokončení první etapy plánováno na rok 2023), nemluvě o dopadu na životní prostředí celého Trojmezí.
 
