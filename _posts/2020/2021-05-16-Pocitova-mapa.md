@@ -2,10 +2,10 @@
 date: 2021-05-16
 category: blog
 tags: 
-  - web
+  - Participace
 layout: post
-author: MHMP
-authorId: 
+author: Praha
+authorId: petrasek.pavel
 title: Pocitová mapa hl. m. Prahy ukáže, jak se lidé cítí v metropoli. Pomůže komunitnímu plánování i městským organizacím
 image: articles/2020/2021-05-16-pocitova-mapa.jpg
 ---
