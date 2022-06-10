@@ -6,7 +6,7 @@ tags:
   - Ochrana přírody
 layout: post
 author: Radka Daníčková
-authorId: radka.danickova
+authorId: danickova.radka
 title: Živý a hojně využívaný chodník za OC VIVO! 
 image: articles/2022/2022-02-28-Zivy-a-hojne-vyuzivany-chodnik-za-OC-VIVO.jpg
 ---
