@@ -2,6 +2,7 @@
 date:         2022-02-13
 tags:        
 - Volby 2022
+- Praha
 title:        Piráti zvolili čelo kandidátky pro volby do pražského zastupitelstva. Zdeňka Hřiba doplní Jana Komrsková či Adam Zábranský
 image: 	      articles/2022/2022-05-31-zahajeni-vitkov.jpg
 author:       Praha
