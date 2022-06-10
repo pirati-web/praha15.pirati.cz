@@ -5,7 +5,7 @@ tags:
   - Volby 2022
   - Praha
 layout: post
-author: MHMP
+author: Praha
 authorId: 
 title: Zdeněk Hřib zvítězil v primárkách a povede opět Piráty do komunálních voleb v Praze
 image: articles/2022/2022-01-17-Lidr-magistrat.jpg
