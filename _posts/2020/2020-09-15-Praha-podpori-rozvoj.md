@@ -2,9 +2,9 @@
 date: 2020-09-15
 category: blog
 tags: 
-  - mhmp
+  - Dostupné bydlení
 layout: post
-author: MHMP
+author: Praha
 authorId: 
 title: Praha podpoří rozvoj komunitních služeb pro seniory, vznikne 110 nových lůžek
 image: articles/2020/2020-09-15-Praha-podpori-rozvoj.jpg
