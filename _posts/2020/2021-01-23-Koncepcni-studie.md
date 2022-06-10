@@ -7,7 +7,7 @@ layout: post
 author: Radka Daníčková
 authorId: danickova.radka
 title: Koncepční studie - vyjádřete svůj postoj ke stavební záměrům!
-image: articles/2020/2021-01-23-Koncepcni-studie.jpg
+image: articles/2020/2021-01-23-Koncepcni-studie.JPG
 ---
 
 
