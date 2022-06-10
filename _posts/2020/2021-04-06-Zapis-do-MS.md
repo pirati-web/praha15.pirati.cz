@@ -2,7 +2,7 @@
 date: 2021-04-06
 category: blog
 tags: 
-  - školství
+  - Školství
 layout: post
 author: Pavel Petrášek
 authorId: petrasek.pavel
@@ -11,9 +11,8 @@ image: articles/2020/2021_04_06_Skolka.png
 ---
 
 
-Ode dneška až do tohoto pátku (9.4.) můžete vyplnit elektronický zápis vašeho dítěte do školky. Slouží k tomu google formulář (!?), který naleznete na stránkách každé naší mateřské školy.
-Zde je:
-https://forms.gle/geybrbqagPv8hgUA9
+Nastal opět čas zápisů do předškolních zařízení. Pro elektronický zápis vašeho dítěte slouží v naší městské části google formulář (!?), který naleznete na stránkách každé místní mateřské školy.
+
 Připravili jsme pro vás pár důležitých informací, jak tím vším proplout.
 
 Nejprve vyberete, do které MŠ chcete dítě přihlásit. Vybrat bohužel můžete pouze jednu jedinou MŠ. Pokud chcete pro jistotu poslat více přihlášek, musíte formulář vyplnit několikrát.
@@ -33,5 +32,4 @@ Výsledky toho všeho se dozvíte 28.5.
 
 Pak se můžete začít připravovat na nástup do práce, nebo dáte výpověď. Míst pro děti totiž bohužel není dostatek.
 
-Ještě jsem udělal orientační mapku rozmístění MŠ na Praze 15. Třeba se bude hodit:
-https://frame.mapy.cz/zakladni?moje-mapy&cat=mista-trasy&mid=606c29f3f1684151920a6a08&ol=1&
+Zde pro vás máme [orientační mapku](https://frame.mapy.cz/zakladni?moje-mapy&cat=mista-trasy&mid=606c29f3f1684151920a6a08&ol=1&) rozmístění mateřských škol v Praze 15. 
