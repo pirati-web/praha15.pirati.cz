@@ -1,7 +1,8 @@
 ---
 date: 2020-11-28
 category: blog
-tags: revitalizace
+tags: 
+- Veřejný prostor
 layout: post
 author: Radka Daníčková
 authorId: danickova.radka
@@ -16,4 +17,4 @@ Již roku 2017 vznikly v městské části Praha 10 první technické plány př
 Od samého počátku při řešení projektu stojí Ing. arch. Tomáš Cach. Samotná výstavba by měla probíhat v letech 2022–2024.
 
 Někteří jste již možná měli příležitost obdivovat podobné revitalizační projekty jako vyvýšenou zelenou promenádu „High Line“ napříč obydleným Manhattanem v New Yorku či cyklostezku a běžkařskou trasu v místě zaniklého železničního spojení na německé straně Haidmühle – Frauenberg od Nového Údolí na Šumavě. 
-Psali jsme také zde: https://www.facebook.com/piratipraha15/posts/670983316649647
+Psali jsme také zde: [Nová zastávka Praha - Zahradní město](https://www.facebook.com/piratipraha15/posts/670983316649647)
