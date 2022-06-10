@@ -2,16 +2,16 @@
 date: 2021-01-23
 category: blog
 tags: 
-  - výstavba
+  - Územní rozvoj
 layout: post
 author: Radka Daníčková
 authorId: danickova.radka
-title: Koncepční studie - vyjádřete svůj postoj ke stavebním záměrům!
-image: articles/2020/2020-10-29-trojmezi-1.jpg
+title: Koncepční studie - vyjádřete svůj postoj ke stavební záměrům!
+image: articles/2020/2021-01-23-Koncepcni-studie.jpg
 ---
 
 
-Využijte vyvolané diskuse a alespoň v rámci nastolených možností se vyjádřete ke stavebním záměrům a popsaným vztahům v lokalitách v blízkosti vašeho bydliště
+Využijte vyvolané diskuse a alespoň v rámci nastolených možností se vyjádřete ke stavebním záměrům a popsaným vztahům v lokalitách v blízkosti vašeho bydliště:
 
 1) Nové centrum Hostivař – zpracovaná Hlaváček partner, s.r.o. za cenu 1 682 tis. Kč vč. DPH (usnesení RMČ č. R-672 ze dne 13.5.2020), řeší území mezi Vladyckou ulicí a tzv. Maratova náměstí (křižovatky Švehlova x Hostivařská), železničním koridorem až po stávající parkoviště při ul. Bělinského pod plaveckým bazénem, obsahuje smyčku tramvaje a komunikační uzel Průmyslová x Plukovníka Mráze i Sídliště Hornoměcholupská.
 
@@ -32,12 +32,8 @@ nebo
 vyberte si, jaké vlastně požadavky studie splňují a k čemu bychom dané studie tedy využily?  
 Odpovědi na základní otázku nás nutí klást další a další otázky, jak účelné bylo vynaložení finančních prostředků, proč se nevedla nebo nečeká až se budou moci vést nebo neuzpůsobila situaci participativní setkání s občany nad zadáním a nad průběžnými výstupy, proč nejsme seznamováni s dalšími odbornými posouzeními, jsou-li a měly by být k dispozici, mají studie ambici řešit též vztahy a souvislosti v lokalitách pro lepší podmínky k žití zdejších občanů nebo pouze posuzují maximálně možnou kapacitu obytného zastavění na vybraných pozemcích, v součinnosti s jejich vlastníky? 
 
-Do 31. ledna máte možnost zaslat připomínky ke koncepčním studiím. Materiál k prostudování je to obsáhlý, zaměřte se jenom na vámi dobře známou oblast a připojte se svými názory zde:
+Do 31. ledna máte možnost zaslat připomínky ke koncepčním studiím. Materiál k prostudování je to obsáhlý, zaměřte se jenom na vámi dobře známou oblast a připojte se svými názory [zde](https://www.praha15.cz/vismo/osnova.asp?id_org=80115&id_osnovy=4671&n=koncepcni%2Dstudie&p1=1855)
 
-✅ prostřednictvím námi – Patnáctkou náš domov – připravených stručných výtažků z prezentací studií a připojeného formuláře, připomínky od vás nás zajímají a můžeme je následně zastávat při projednávání na zastupitelstvu městské části:
-https://www.15nasdomov.cz/koncepcni-studie-koalice 
+Připomínky od vás nás zajímají a můžeme je následně zastávat při projednávání na zastupitelstvu městské části.
 
-✅ prostřednictvím webu městské části prezentované studie a možnost připojit k nim vaše připomínky: 
-https://www.praha15.cz/vismo/osnova.asp?id_org=80115&id_osnovy=4671&n=koncepcni%2Dstudie&p1=1855 
-
-👉 Psali jsme také zde https://www.facebook.com/piratipraha15/posts/935019180246058
+Psali jsme také zde [Snaha o dobrý základ tvorby a rozvoje území?](https://www.facebook.com/piratipraha15/posts/935019180246058)
