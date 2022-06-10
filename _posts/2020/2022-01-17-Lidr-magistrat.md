@@ -2,12 +2,13 @@
 date: 2022-01-17
 category: blog
 tags: 
-  - volby
+  - Volby 2022
+  - Praha
 layout: post
 author: MHMP
 authorId: 
 title: Zdeněk Hřib zvítězil v primárkách a povede opět Piráty do komunálních voleb v Praze
-image: articles/2020/2022-01-17-hrib.jpg
+image: articles/2022/2022-01-17-Lidr-magistrat.jpg
 ---
 
 Praha, 20. prosince 2021 –⁠ Současný primátor Zdeněk Hřib po čtyřech letech obhájil svou pozici pražského lídra pirátské kandidátky. Povede tak Piráty znovu do voleb, které proběhnou na podzim příštího roku. Ve finálovém klání získal důvěru pražské členské základny před Janou Komrskovou, místostarostkou městské části Praha 10. V lednu pak bude zvolen zbytek čela kandidátní listiny, o nichž bude v primárních volbách opět hlasovat na 271 členů a členek Pirátské strany s hlasovacím právem v hlavním městě. Zdeněk Hřib zvítězil v poměru 116:85.
