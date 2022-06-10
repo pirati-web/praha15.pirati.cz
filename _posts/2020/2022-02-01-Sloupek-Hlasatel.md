@@ -2,7 +2,7 @@
 date: 2022-02-01
 category: blog
 tags: 
-  - clanek
+  - Článek
 layout: post
 author: Radka Daníčková
 authorId: danickova.radka
