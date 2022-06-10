@@ -5,7 +5,7 @@ tags:
   - Źivotní prostředí
 layout: post
 author: Radka Daníčková
-authorId: radka.danickova
+authorId: danickova.radka
 title: Oblast za drahou v Hostivaři
 image: articles/2022/2022-03-25-Oblast-za-drahou-v-Hostivari.jpg
 ---
