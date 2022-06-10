@@ -7,7 +7,7 @@ layout: post
 author: Michal Petlach
 authorId: petlach.michal
 title: Úpravy dopravního značení na Košíku
-image: articles/2020/2021-03-30-Dopravni-znaceni-Kosik.jpg
+image: articles/2020/2021-03-30-Dopravni-znaceni-Kosik.JPG
 ---
 
 
