@@ -1,10 +1,10 @@
 ---
 date:         2022-02-13
 tags:        
-- volby
+- Volby 2022
 title:        Piráti zvolili čelo kandidátky pro volby do pražského zastupitelstva. Zdeňka Hřiba doplní Jana Komrsková či Adam Zábranský
-image: 	      articles/2020/2022-02-01-primarky-magistrat.jpg
-author:       MHMP
+image: 	      articles/2022/2022-05-31-zahajeni-vitkov.jpg
+author:       Praha
 ---
  
 Praha, 13. února 2022 – Piráti během víkendu rozhodli o podobě čela kandidátky pro podzimní volby do Zastupitelstva hlavního města Prahy. Lídra kandidátky Pirátů, kterým je současný pražský primátor Zdeněk Hřib, doplní na druhém místě Jana Komrsková. Na třetím pak Adam Zábranský. Jana Komrsková nyní zastává pozici první místostarostky Městské části Praha 10, Adam Zábranský je radním ZHMP za Piráty pro oblast bydlení a transparentnosti. Navolena byla i další místa pražské kandidátky.
