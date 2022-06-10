@@ -2,7 +2,9 @@
 date: 2021-04-23
 category: blog
 tags: 
-  - výstavba
+  - Územní rozvoj
+  - Trojmezí
+  - Výstavba
 layout: post
 author: Radka Daníčková
 authorId: danickova.radka
@@ -21,6 +23,6 @@ Vyjímá tak tyto pozemky spolu ještě s pozemkem při ul. Doupovská (za úče
 *„Na rozdíl od současného vedení radnice MČ Praha 15 my aktivně pracujeme již od roku 2015 přesně v opačném zájmu, ve prospěch obyvatel, proti změně územního plánu a pro zachování zeleně i rekreačního využití,"* říká Radka Daníčková, opoziční zastupitelka (Piráti/15ND).
 
 Takto jsme Vám o tématu psali dříve: 
-https://www.facebook.com/piratipraha15/posts/923757474705562
-https://www.facebook.com/piratipraha15/posts/762466917501286
-https://www.facebook.com/piratipraha15/posts/652890721792240
+[Jak chce koalice zabírat zeleň a stavět v Trojmezí](https://www.facebook.com/piratipraha15/posts/923757474705562)
+[S jídlem roste chuť](https://www.facebook.com/piratipraha15/posts/762466917501286)
+[Změna územního plánu opět pro obytné využití](https://www.facebook.com/piratipraha15/posts/652890721792240)
