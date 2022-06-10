@@ -8,7 +8,7 @@ layout: post
 author: Michal Petlach
 authorId: petlach.michal
 title: Co nového se děje v Trojmezí?
-image: articles/2020/2022-02-21-trojmezi.jpg
+image: articles/2022/2022-02-21-trojmezi.jpg
 ---
 
 **Mnozí z nás mohli od začátku roku pozorovat v Trojmezí zvýšenou aktivitu stavební techniky, ubývání porostů, vykácení celých ploch a zvyšující se počet věží jeřábů. Zaznamenali jsme spoustu otázek a teorií, co všechno se vlastně v poslední době v Trojmezí děje a proto bychom rádi do toho zmatku vnesli trochu vysvětlení.**
