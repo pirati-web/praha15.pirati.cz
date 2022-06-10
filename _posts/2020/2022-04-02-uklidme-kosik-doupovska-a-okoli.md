@@ -8,7 +8,7 @@ layout: post
 author: Michal Petlach
 authorId: petlach.michal
 title: Ukliďme Košík – Doupovská a okolí
-image: articles/2022/2022-04-02-Uklidme-Kosik---Doupovska-a-okoli.jpg
+image: articles/2022/2022-04-02-Uklidme-Kosik-Doupovska-a-okoli.jpg
 ---
 
 Vše dnes začalo nálezem kočárku, kterým si někdo do remízku v Trojmezí zavezl odložit železné součástky, pokračovalo úklidem v okolí bus zastávky Přeštická, podél ul. Doupovská až po lesík u hostivařského hřbitova a dokonáno bylo vyčištěním černých skládek v Sadech zahradnické mládeže. 
