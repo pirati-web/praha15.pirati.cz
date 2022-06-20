@@ -6,7 +6,7 @@ titles:
 category:
   - priznivci
 ordpms: 1
-description: Manažer obchodního týmu
+description: Manažer obchodního týmu, Hostivař
 img: 
 heroImg: praha-15.jpg
 mail:
