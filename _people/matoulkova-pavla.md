@@ -11,7 +11,7 @@ img:
 heroImg: praha-15.jpg
 mail:
   - pavla.matoulkova@seznam.cz
-mob: +420 723 205 614
+mob:
 ---
 
 Pavla Matoulková (*1988), roz. Ouběchová, je rodačkou z Prahy 15, která je stále jejím bydlištěm. Je absolventkou ČZU v Praze, obor ekonomie a management, zúčastnila se Erasmu ve Skotsku a už od studií pracuje v oblasti marketingu a obchodu. Má za sebou pracovní zkušenosti z několika mezinárodních společností.
