@@ -7,7 +7,7 @@ category:
   - priznivci
 ordpms: 1
 description: Manažer obchodního týmu, Hostivař
-img: 
+img: people/matoulkova-pavla.jpg 
 heroImg: praha-15.jpg
 mail:
   - pavla.matoulkova@seznam.cz
