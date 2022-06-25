@@ -23,7 +23,7 @@ Radka Daníčková (* 2. září 1971) působí v rámci týmu Pirátů v Praze 
 
 Svůj volný čas věnuje rodině a přátelům, ráda jej vyplňuje sportem, nejlépe v přírodě. Spolupořádá letní amatérský volejbal, po celý rok ji můžete potkat při procházkách a na cyklistických vyjížďkách, v zimě na běžkařských tratích. Ráda též relaxuje při různých kulturních příležitostech, četbě a poznávacích cestách.
 
-*„Přála bych si, aby Piráti jako nováček na místní politické scéně byli sebevědomým a kompetentním partnerem, zároveň také tmelícím elementem občanské - politické kultury v Praze 15, a to prostřednictvím naplňování pirátských tezí: rovnoprávné a svobodné konání, sdílení informací a informační otevřenost, transparentní hospodaření i jednání.“*
+*„Přála bych si, aby Piráti jako nováček na místní politické scéně byli sebevědomým a kompetentním partnerem, zároveň také tmelícím elementem občansko - politické kultury v Praze 15, a to prostřednictvím naplňování pirátských tezí: rovnoprávné a svobodné konání, sdílení informací a informační otevřenost, transparentní hospodaření i jednání.“*
 
 ## Aktivity:
 - od 10/2017 členka Patnáctka – náš domov, z.s. 
