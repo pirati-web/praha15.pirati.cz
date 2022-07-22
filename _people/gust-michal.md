@@ -4,13 +4,13 @@ name: Michal Gust
 titles:
   before: Ing.
 category:
+  - clenove
   - kandidat-obec
 ordpms: 1
 description: Doprava a Infrastruktura, Horní Měcholupy
 img: people/gust-michal.jpg
 heroImg: praha-15.jpg
 mail:
-
 mob: +420 603 551 104
 profiles:
   twitter: https://twitter.com/MichalGust
