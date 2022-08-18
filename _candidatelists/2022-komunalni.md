@@ -5,13 +5,13 @@ uid: 2022-komunalni
 leader:
   uid: danickova.radka
   age: 51
-  profession: Ekonomka
+  profession: ekonomka v soukromé i veřejné sféře
   partyUid: pirati
 head:
 # 2.
   - uid: petlach.michal
-    age: 
-    profession: 
+    age: 38
+    profession: specialista v oboru klinického hodnocení léčiv, fotograf
     partyUid: bezpp
     
 note: 
