@@ -1,7 +1,7 @@
 ---
 title: Kandidáti do Zastupitelstva MČ Praha 15
 uid: 2022-komunalni
-# number: 16
+# number: 9
 leader:
   uid: danickova.radka
   age: 51
@@ -12,7 +12,7 @@ head:
   - uid: petlach.michal
     age: 
     profession: 
-    partyUid: bezpp
+    partyUid: pirati
     
 note: 
 # poznámka pod kandidátku
