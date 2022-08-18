@@ -6,7 +6,7 @@ titles:
 category:
   - priznivci
 ordpms: 1
-description: Manažer obchodního týmu, Hostivař
+description: Manažer obchodního týmu, školství, sociální služby, Hostivař
 img: people/matoulkova-pavla2.jpg 
 heroImg: praha-15.jpg
 mail:
