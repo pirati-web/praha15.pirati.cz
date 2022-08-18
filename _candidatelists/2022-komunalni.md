@@ -5,7 +5,7 @@ uid: 2022-komunalni
 leader:
   uid: danickova.radka
   age: 51
-  profession: 
+  profession: Ekonomka
   partyUid: pirati
 head:
 # 2.
