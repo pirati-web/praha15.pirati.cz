@@ -12,7 +12,7 @@ head:
   - uid: petlach.michal
     age: 
     profession: 
-    partyUid: pirati
+    partyUid: bezpp
     
 note: 
 # poznámka pod kandidátku
