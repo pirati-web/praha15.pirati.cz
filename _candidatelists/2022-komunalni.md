@@ -35,130 +35,130 @@ head:
     partyUid: bezpp   
 
 tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete vynechat  # věk se uvádí k poslednímu dni voleb
-# 07.
-  - name: Bc. Marta Patáková
+# 7.
+  - name:  Bc. Marta Patáková
     age: 41
     profession: lektorka v rodinném centru, pedagog MŠ
     partyUid: bezpp
-# 08.
-  - name: Jiří Bauer
+# 8.
+  - name:  Jiří Bauer
     age: 26
     profession: student psychologie, softwarový tester
     partyUid: bezpp
-# 09.
-  - name: Bc. Marta Patáková
-    age: 41
-    profession: lektorka v rodinném centru, pedagog MŠ
+# 9.
+  - name:  Ing. Adéla Šplíchalová
+    age: 28
+    profession: projektová manažerka v bankovnictví
     partyUid: bezpp
 # 10.
-  - name: Bc. Marta Patáková
-    age: 41
-    profession: lektorka v rodinném centru, pedagog MŠ
+  - name: Sabina Bergmanová
+    age: 48
+    profession: podnikatelka
     partyUid: bezpp
 # 11.
-  - name: Bc. Marta Patáková
-    age: 41
-    profession: lektorka v rodinném centru, pedagog MŠ
+  - name: Viktor Kašák
+    age: 21
+    profession: specialista, operátor skladu
     partyUid: bezpp
 # 12.
-  - name: Bc. Marta Patáková
-    age: 41
-    profession: lektorka v rodinném centru, pedagog MŠ
+  - name: Mgr. Jan Prančl, Ph. D.
+    age: 36
+    profession: pracovník ve výzkumu, botanik
     partyUid: bezpp
 # 13.
-  - name: Bc. Marta Patáková
-    age: 41
-    profession: lektorka v rodinném centru, pedagog MŠ
+  - name: Kristýna Smetanová
+    age: 26
+    profession: studentka Právnické fakulty UK
     partyUid: bezpp
 # 14.
-  - name: Bc. Marta Patáková
-    age: 41
-    profession: lektorka v rodinném centru, pedagog MŠ
+  - name: Mgr. Alexandra Ošťádalová
+    age: 42
+    profession: IT project manažer
     partyUid: bezpp
 # 15.
-  - name: Bc. Marta Patáková
-    age: 41
-    profession: lektorka v rodinném centru, pedagog MŠ
+  - name: Martin Bauer
+    age: 27
+    profession: programátor
     partyUid: bezpp
 # 16.
-  - name: Bc. Marta Patáková
-    age: 41
-    profession: lektorka v rodinném centru, pedagog MŠ
+  - name: Jana Bortlová
+    age: 43
+    profession: administrativa
     partyUid: bezpp
 # 17.
-  - name: Bc. Marta Patáková
-    age: 41
-    profession: lektorka v rodinném centru, pedagog MŠ
+  - name: Alena Kašpárková
+    age: 20
+    profession: studentka
     partyUid: bezpp
 # 18.
-  - name: Bc. Marta Patáková
-    age: 41
-    profession: lektorka v rodinném centru, pedagog MŠ
+  - name: Petra Žílová
+    age: 46
+    profession: účetní
     partyUid: bezpp
 # 19.
-  - name: Bc. Marta Patáková
-    age: 41
-    profession: lektorka v rodinném centru, pedagog MŠ
+  - name: Ing. Tomáš Daníček
+    age: 56
+    profession: projektový manažer
     partyUid: bezpp
 # 20.
-  - name: Bc. Marta Patáková
-    age: 41
-    profession: lektorka v rodinném centru, pedagog MŠ
+  - name: Mgr. Jana Podhorská
+    age: 39
+    profession: odborný pracovník statistiky
     partyUid: bezpp
 # 21.
-  - name: Bc. Marta Patáková
-    age: 41
-    profession: lektorka v rodinném centru, pedagog MŠ
+  - name: Ing. Pavel Ouběch
+    age: 67
+    profession: technik
     partyUid: bezpp
 # 22.
-  - name: Bc. Marta Patáková
-    age: 41
-    profession: lektorka v rodinném centru, pedagog MŠ
+  - name: Mgr. Lenka Petrášková
+    age: 36
+    profession: fyzioterapeutka
     partyUid: bezpp
 # 23.
-  - name: Bc. Marta Patáková
-    age: 41
-    profession: lektorka v rodinném centru, pedagog MŠ
+  - name: Mgr. Adam Duraj
+    age: 29
+    profession: datový analytik
     partyUid: bezpp
 # 24.
-  - name: Bc. Marta Patáková
-    age: 41
-    profession: lektorka v rodinném centru, pedagog MŠ
+  - name: JUDr. Sylvie Laušmanová
+    age: 53
+    profession: advokátka
     partyUid: bezpp
 # 25.
-  - name: Bc. Marta Patáková
-    age: 41
-    profession: lektorka v rodinném centru, pedagog MŠ
+  - name: Miloš Soukup
+    age: 56
+    profession: obchodní manažer
     partyUid: bezpp
 # 26.
-  - name: Bc. Marta Patáková
-    age: 41
-    profession: lektorka v rodinném centru, pedagog MŠ
+  - name: David Zavadil
+    age: 48
+    profession: číšník
     partyUid: bezpp
 # 27.
-  - name: Bc. Marta Patáková
-    age: 41
-    profession: lektorka v rodinném centru, pedagog MŠ
+  - name: Jaroslava Ducková
+    age: 76
+    profession: důchodkyně
     partyUid: bezpp
 # 28.
-  - name: Bc. Marta Patáková
-    age: 41
-    profession: lektorka v rodinném centru, pedagog MŠ
+  - name: Svatopluk Adámek
+    age: 37
+    profession: manažer pro klíčové zákazníky
     partyUid: bezpp
 # 29.
-  - name: Bc. Marta Patáková
-    age: 41
-    profession: lektorka v rodinném centru, pedagog MŠ
+  - name: Mgr. Bc. Jan Drvota
+    age: 33
+    profession: právník
     partyUid: bezpp
 # 30.
-  - name: Bc. Marta Patáková
-    age: 41
-    profession: lektorka v rodinném centru, pedagog MŠ
+  - name: Mgr. Lukáš Hermanovský
+    age: 42
+    profession: právník
     partyUid: bezpp
 # 31.
-  - name: Bc. Marta Patáková
-    age: 41
-    profession: lektorka v rodinném centru, pedagog MŠ
+  - name: Lucie Hajduová
+    age: 21
+    profession: studentka
     partyUid: bezpp
     
 note: 
