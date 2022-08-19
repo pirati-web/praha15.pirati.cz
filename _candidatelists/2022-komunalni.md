@@ -35,17 +35,17 @@ head:
     partyUid: bezpp   
 
 tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete vynechat  # věk se uvádí k poslednímu dni voleb
-# 7.
+# 07.
   - name: Bc. Marta Patáková
     age: 41
     profession: lektorka v rodinném centru, pedagog MŠ
     partyUid: bezpp
-# 8.
+# 08.
   - name: Jiří Bauer
     age: 26
     profession: student psychologie, softwarový tester
     partyUid: bezpp
-# 9.
+# 09.
   - name: Bc. Marta Patáková
     age: 41
     profession: lektorka v rodinném centru, pedagog MŠ
