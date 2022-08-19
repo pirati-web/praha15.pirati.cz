@@ -8,7 +8,7 @@ category:
   - kandidat-obec
 ordpms: 1
 description: Klinické hodnocení léčiv, Doprava, územní rozvoj a životní prostředí, Hostivař – Košík
-img: people/petlach-michal.jpg
+img: people/petlach-michal.png
 heroImg: praha-15.jpg
 mail:
   - Michal.Petlach@seznam.cz
