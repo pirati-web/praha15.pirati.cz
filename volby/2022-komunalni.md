@@ -8,7 +8,7 @@ customizeHeader: true
 ---
 
 {% capture mainContent %}
-  <h1 class="head-alt-lg md:head-alt-xl text-center">Máme odvahu řídit Prahu 15 správně</h1>
+  <h1 class="head-alt-lg md:head-alt-xl text-center">Máme odvahu dělat, co je správné</h1>
 {% endcapture %}
 
 {% capture subContent %}
