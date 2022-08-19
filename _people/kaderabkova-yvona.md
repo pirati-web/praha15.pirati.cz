@@ -7,7 +7,7 @@ category:
   - priznivci
 ordpms: 1
 description: Průvodkyně v cestovním ruchu, podolog, Životní prostředí a komunitní život, Horní Měcholupy
-img: people/kaderabkova-yvona.jpg
+img: people/kaderabkova-yvona.png
 heroImg: praha-15.jpg
 mail:
   - KYvona@seznam.cz
