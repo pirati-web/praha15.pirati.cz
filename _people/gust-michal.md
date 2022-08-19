@@ -8,7 +8,7 @@ category:
   - kandidat-obec
 ordpms: 1
 description: Doprava a Infrastruktura, Horní Měcholupy
-img: people/gust-michal.jpg
+img: people/gust-michal.png
 heroImg: praha-15.jpg
 mail:
 mob: +420 603 551 104
