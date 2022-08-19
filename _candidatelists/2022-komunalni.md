@@ -13,6 +13,11 @@ head:
     age: 38
     profession: specialista v oboru klinického hodnocení léčiv, fotograf
     partyUid: bezpp
+# 3.
+  - uid: petrasek.pavel
+    age: 40
+    profession: učitel fyziky a matematiky na gymnáziu
+    partyUid: bezpp
     
 note: 
 # poznámka pod kandidátku
