@@ -40,7 +40,127 @@ tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete v
     age: 41
     profession: lektorka v rodinném centru, pedagog MŠ
     partyUid: bezpp
-
+# 8.
+  - name: Jiří Bauer
+    age: 26
+    profession: student psychologie, softwarový tester
+    partyUid: bezpp
+# 9.
+  - name: Bc. Marta Patáková
+    age: 41
+    profession: lektorka v rodinném centru, pedagog MŠ
+    partyUid: bezpp
+# 10.
+  - name: Bc. Marta Patáková
+    age: 41
+    profession: lektorka v rodinném centru, pedagog MŠ
+    partyUid: bezpp
+# 11.
+  - name: Bc. Marta Patáková
+    age: 41
+    profession: lektorka v rodinném centru, pedagog MŠ
+    partyUid: bezpp
+# 12.
+  - name: Bc. Marta Patáková
+    age: 41
+    profession: lektorka v rodinném centru, pedagog MŠ
+    partyUid: bezpp
+# 13.
+  - name: Bc. Marta Patáková
+    age: 41
+    profession: lektorka v rodinném centru, pedagog MŠ
+    partyUid: bezpp
+# 14.
+  - name: Bc. Marta Patáková
+    age: 41
+    profession: lektorka v rodinném centru, pedagog MŠ
+    partyUid: bezpp
+# 15.
+  - name: Bc. Marta Patáková
+    age: 41
+    profession: lektorka v rodinném centru, pedagog MŠ
+    partyUid: bezpp
+# 16.
+  - name: Bc. Marta Patáková
+    age: 41
+    profession: lektorka v rodinném centru, pedagog MŠ
+    partyUid: bezpp
+# 17.
+  - name: Bc. Marta Patáková
+    age: 41
+    profession: lektorka v rodinném centru, pedagog MŠ
+    partyUid: bezpp
+# 18.
+  - name: Bc. Marta Patáková
+    age: 41
+    profession: lektorka v rodinném centru, pedagog MŠ
+    partyUid: bezpp
+# 19.
+  - name: Bc. Marta Patáková
+    age: 41
+    profession: lektorka v rodinném centru, pedagog MŠ
+    partyUid: bezpp
+# 20.
+  - name: Bc. Marta Patáková
+    age: 41
+    profession: lektorka v rodinném centru, pedagog MŠ
+    partyUid: bezpp
+# 21.
+  - name: Bc. Marta Patáková
+    age: 41
+    profession: lektorka v rodinném centru, pedagog MŠ
+    partyUid: bezpp
+# 22.
+  - name: Bc. Marta Patáková
+    age: 41
+    profession: lektorka v rodinném centru, pedagog MŠ
+    partyUid: bezpp
+# 23.
+  - name: Bc. Marta Patáková
+    age: 41
+    profession: lektorka v rodinném centru, pedagog MŠ
+    partyUid: bezpp
+# 24.
+  - name: Bc. Marta Patáková
+    age: 41
+    profession: lektorka v rodinném centru, pedagog MŠ
+    partyUid: bezpp
+# 25.
+  - name: Bc. Marta Patáková
+    age: 41
+    profession: lektorka v rodinném centru, pedagog MŠ
+    partyUid: bezpp
+# 26.
+  - name: Bc. Marta Patáková
+    age: 41
+    profession: lektorka v rodinném centru, pedagog MŠ
+    partyUid: bezpp
+# 27.
+  - name: Bc. Marta Patáková
+    age: 41
+    profession: lektorka v rodinném centru, pedagog MŠ
+    partyUid: bezpp
+# 28.
+  - name: Bc. Marta Patáková
+    age: 41
+    profession: lektorka v rodinném centru, pedagog MŠ
+    partyUid: bezpp
+# 29.
+  - name: Bc. Marta Patáková
+    age: 41
+    profession: lektorka v rodinném centru, pedagog MŠ
+    partyUid: bezpp
+# 30.
+  - name: Bc. Marta Patáková
+    age: 41
+    profession: lektorka v rodinném centru, pedagog MŠ
+    partyUid: bezpp
+# 31.
+  - name: Bc. Marta Patáková
+    age: 41
+    profession: lektorka v rodinném centru, pedagog MŠ
+    partyUid: bezpp
+    
 note: 
 # poznámka pod kandidátku
 
