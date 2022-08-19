@@ -28,7 +28,11 @@ head:
     age: 34
     profession: manažer obchodního týmu
     partyUid: bezpp
-    
+# 6.
+  - uid: kaderabkova.yvona
+    age: 58
+    profession: OSVČ - průvodce v cestovním ruchu, podolog
+    partyUid: bezpp   
     
 note: 
 # poznámka pod kandidátku
