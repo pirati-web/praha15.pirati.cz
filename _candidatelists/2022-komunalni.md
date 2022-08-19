@@ -18,6 +18,11 @@ head:
     age: 40
     profession: učitel fyziky a matematiky na gymnáziu
     partyUid: bezpp
+# 4.
+  - uid: gust.michal
+    age: 47
+    profession: IT architekt, kouč
+    partyUid: bezpp
     
 note: 
 # poznámka pod kandidátku
