@@ -23,6 +23,12 @@ head:
     age: 47
     profession: IT architekt, kouč
     partyUid: bezpp
+# 5.
+  - uid: matoulkova.pavla
+    age: 34
+    profession: manažer obchodního týmu
+    partyUid: bezpp
+    
     
 note: 
 # poznámka pod kandidátku
