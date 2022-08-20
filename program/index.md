@@ -1,5 +1,5 @@
 ---
-layout: program-post
+layout: page
 title: Program do voleb v září 2022
 campaignCategoryUid: 2022-komunalni
 customizeHeader: true
