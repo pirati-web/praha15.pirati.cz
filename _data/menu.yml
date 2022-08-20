@@ -11,15 +11,21 @@ top:
 
 
 main:
-  - link: /aktuality/
-    name: Aktuality
-  - link: /lide/
-    name: Lidé 
+  - name: Aktuality
+    link: /aktuality/
+  - name: Lidé
+    link: /lide/
+  - name: Komunální volby 2022
+    submenu:
+      - name: Kandidáti
+        link: /volby/2022-komunalni.html
+      - name: Program
+        link: /program/
 # - link: /volby/2022-komunalni.html
 #   name: Komunální volby 2022
-  - link: /kontakt/
-    name: Kontakt
-
+  - name: Kontakt
+    link: /kontakt/
+   
 bottom:
   - class: small-12 medium-4
     title: Připoj se
