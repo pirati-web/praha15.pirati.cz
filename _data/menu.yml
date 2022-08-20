@@ -17,10 +17,10 @@ main:
     link: /lide/
   - name: Komunální volby 2022
     submenu:
-      - name: Kandidáti
+      - name: Kandidátní listina do ZMČ Praha 15
         link: /volby/2022-komunalni.html
-      - name: Program
-        link: /program/
+#     - name: Program
+#       link: /program/
 # - link: /volby/2022-komunalni.html
 #   name: Komunální volby 2022
   - name: Kontakt
