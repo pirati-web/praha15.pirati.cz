@@ -61,7 +61,7 @@ tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete v
     profession: specialista, operátor skladu
     partyUid: bezpp
 # 12.
-  - name: Mgr. Jan Prančl, Ph. D.
+  - name: Mgr. Jan Prančl, Ph.D.
     age: 36
     profession: pracovník ve výzkumu, botanik
     partyUid: bezpp
