@@ -36,7 +36,7 @@ head:
 
 tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete vynechat  # věk se uvádí k poslednímu dni voleb
 # 7.
-  - name:  Bc. Marta Patáková
+  - uid: patakova.marta
     age: 41
     profession: lektorka v rodinném centru, pedagog MŠ
     partyUid: bezpp
