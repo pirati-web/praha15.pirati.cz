@@ -1,9 +1,13 @@
 ---
 layout: program-post
-title: Program do voleb v září 2022
+title: Patnáctka pro život
 campaignCategoryUid: 2022-komunalni
 customizeHeader: true
 ---
+Patnáctka má na víc a jsou před námi mnohé výzvy
+* Pirátská politika
+* Zdravý život ve městě
+* Efektivní hospodaření
 
 ## ![](/program/img//prog04_zp.png) Životní prostředí 
 **PÉČE O KVALITNÍ ŽIVOTNÍ PROSTŘEDÍ ZAČÍNÁ TAM, KDE ŽIJEME**
