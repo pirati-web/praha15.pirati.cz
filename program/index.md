@@ -18,3 +18,8 @@ Chceme, aby Patnáctka zůstala zelená, a byla tak příjemným místem pro ži
 **DOSTUPNÉ BYDLENÍ PRO SPOKOJENÝ ŽIVOT**
 
 Domov je zárukou spokojenosti. Bydlet potřebuje každý a obecní bydlení může poskytnout zázemí od znevýhodněných rodin a jednotlivců, přes seniory až po potřebná povolání. Budeme pečovat o stávající bytový fond. Naší prioritou v jeho rozšiřování bude získávat nové obecní byty v developerských projektech. Vytvoříme kontaktní centrum pro bydlení a sociální služby, kterým propojíme dvě služby i činnost příslušných odborů úřadu.
+
+## ![](/program/img//mhd.jpg)
+**USNADŇUJÍCÍ, NIKOLIV ZATĚŽUJÍCÍ, DOPRAVA**
+
+Moderní doprava je plynulá, rychlá, bezpečná a ekologická, taková přispívá ke zkvalitnění života a životního prostředí. Proto je třeba odvést dopravu z hustě obydlených oblastí, inteligentní řízení dopravy a promyšlený systém parkování. Podpoříme významnější zapojení nízkoemisních a tišších vozidel MHD, zejména parciálních trolejbusů. Budeme prosazovat prodloužení metra A až do Petrovic nejen pro místní obyvatele, ale i pro větší integraci s městskou a příměstskou dopravou. Chceme totiž, aby lidé měli MHD rádi a častěji ji využívali. Budeme zlepšovat podmínky pro chodce a usnadňovat pohyb i pro cyklisty. Prioritou je pro nás bezbariérovost chodníků, přechodů a bezpečnost všech účastníků provozu. Prosazujeme **koncept města krátkých vzdáleností**, který zlepšuje podmínky pro život díky dostupnosti všech potřeb (drobné obchody, služby, zdravotní péče, školy, sportoviště…) co nejblíže místu bydliště. Tím pomáhá řešit i dopravní problémy města.
