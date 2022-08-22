@@ -19,8 +19,8 @@ main:
     submenu:
       - name: Kandidátní listina Prahy 15
         link: /volby/2022-komunalni.html
-      - name: Program Prahy 15
-        link: /program/
+#     - name: Program Prahy 15
+#       link: /program/
 # - link: /volby/2022-komunalni.html
 #   name: Komunální volby 2022
   - name: Kontakt
