@@ -1,5 +1,5 @@
 ---
-title: Na3i Kandidáti do Zastupitelstva MČ Praha 15
+title: Naši Kandidáti do Zastupitelstva MČ Praha 15
 uid: 2022-komunalni
 # number: 9
 leader:
