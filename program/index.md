@@ -28,3 +28,8 @@ Moderní doprava je plynulá, rychlá, bezpečná a ekologická, taková přisp�
 **MODERNÍ A OTEVŘENÁ RADNICE, KTERÁ HÁJÍ ZÁJMY OBČANŮ**
 
 Přívětivý úřad je pro nás dostupným, informovaným a komunikativním partnerem. Budeme zlepšovat a zefektivňovat jeho služby i průběžnou komunikaci s občany. Rozšíříme možnosti elektronické komunikace. Budeme hájit a respektovat zájmy občanů, věnovat pozornost jejich podnětům, obsahu petic a stížností – nikoliv je pouze brát na vědomí. Jednání s partnery povedeme odpovědně, transparentně a profesionálně. Co nejvíce otevřeme výběrová řízení všem potenciálním zájemcům. Zprůhledníme hospodaření městské části a nakládání s majetkem. Na projekty městské části budeme vypisovat architektonické soutěže. Nepřipustíme nekalá jednání, střet zájmů a korupci zastupitelů či úředníků.
+
+## ![](/program/img//uzemni_planovani.jpg)
+**ZDRAVÝ SOUSEDSKÝ PROSTOR**
+
+Vyčleníme vyšší částku participativního rozpočtu pro nápady samotných občanů a občany zapojíme i do zadání, hodnocení a rozhodování o nových projektech městské části. Zaměříme se na vybudování komunitního centra, které by nabídlo prostor ke společenským aktivitám různých věkových kategorií – pro dětské skupiny, zájmové kroužky, rodinné oslavy či seniorské dýchánky a mezigenerační setkávání. Budeme podporovat vznik a provoz komunitních zahrad, zahradničení a samopěstitelství. Pokusíme se oživit projekt farmářských trhů.
