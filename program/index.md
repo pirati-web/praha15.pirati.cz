@@ -5,7 +5,7 @@ campaignCategoryUid: 2022-komunalni
 customizeHeader: true
 ---
 ## Patnáctka má na víc a jsou před námi mnohé výzvy!
-* Pirátská politika
+* **Pirátská politika**
 povedeme veřejné věci poctivě, slušně a správně, měníme tak politickou kulturu v otevřenou a důvěryhodnou, bez poskvrny
 * Zdravý život ve městě
 chceme rozumný a udržitelný rozvoj městské části, který vedle bydlení přináší také ochranu přírody a životního prostředí, živá veřejná prostranství, rekreaci i odpočinek, kulturní a sportovní vyžití, podnikání, a také systém, který nezapomíná ani na naše seniory a spoluobčany s potřebou naší podpory z důvodu zdravotního či sociálního znevýhodnění
