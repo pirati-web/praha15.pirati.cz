@@ -12,7 +12,7 @@ customizeHeader: true
 {% endcapture %}
 
 {% capture subContent %}
-  <h2 class="head-xs md:head-base mt-2 text-center"><strong>Přijďte k volbám 23. - 24. 9. 2022!</strong></h2>
+  <h2 class="head-xs md:head-base mt-2 text-center"><strong>Přijďte k volbám 23. - 24. 9. 2022</strong></h2>
   <h2 class="head-xs md:head-base mt-2 text-center"><strong>a volte celou naší kandidátní listinu číslo 5!</strong></h2>
 {% endcapture %}
 
