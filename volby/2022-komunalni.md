@@ -8,14 +8,14 @@ customizeHeader: true
 ---
 
 {% capture mainContent %}
-  <h1 class="head-alt-lg md:head-alt-xl text-center">Máme odvahu dělat, co je správné</h1>
+  <h1 class="head-alt-lg md:head-alt-xl text-center">Odvaha dělat, co je správné</h1>
 {% endcapture %}
 
 {% capture subContent %}
-  <h2 class="head-xs md:head-base mt-2 text-center"><strong>Přijďte k volbám: 23.-24.9.2022!</strong></h2>
-  <h2 class="head-xs md:head-base mt-2 text-center"><strong>Naše kandidátní listina má číslo 5!</strong></h2>
+  <h2 class="head-xs md:head-base mt-2 text-center"><strong>Přijďte k volbám 23. - 24. 9. 2022!</strong></h2>
+  <h2 class="head-xs md:head-base mt-2 text-center"><strong>a volte celou naší kandidátní listinu číslo 5!</strong></h2>
 {% endcapture %}
 
-{% assign candidates = site.candidatelists | where: "uid", page.candidateListUid | first %}
+#{% assign candidates = site.candidatelists | where: "uid", page.candidateListUid | first %}
 
-{% include elections-header.html img=page.img bgImg=page.heroBgImg mainContent=mainContent subContent=subContent candidateListNumber=candidates.number %}
+#{% include elections-header.html img=page.img bgImg=page.heroBgImg mainContent=mainContent subContent=subContent candidateListNumber=candidates.number %}
