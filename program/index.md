@@ -43,3 +43,8 @@ Sázíme na tvořivost a svobodné myšlení. Proto podpoříme školy, aby vytv
 **SOCIÁLNÍ A RODINNÁ POLITIKA**
 
 Budeme pomáhat a podporovat všechny, kteří se ocitli v nepříznivé sociální situaci, ať už z důvodu věku, ztíženého zdravotního stavu nebo životní krize. Preventivně budeme řešit stavy sociálního vyloučení. Budeme využívat dotační programy k příspěvkům dětem na školní výlety, kroužky, kulturní představení a školy v přírodě. Zajímají nás všechny možnosti seniorských aktivit a mezigeneračního setkávání. Vytvoříme kontaktní a poradenské centrum pro bydlení a sociální služby. Zaměříme se také na dostupnost a rozvoj sítě odlehčovacích služeb všech forem, aby byly v co největší míře poskytovány v domácím prostředí a místní komunitě. Pracovat budeme s lidmi bez domova, pro jejich co nejčasnější návrat k běžnému způsobu života.
+
+## ![](/program/img//zdravotnictvi.jpg)
+**PREVENCE A DOSTUPNÁ ZDRAVOTNÍ PÉČE**
+
+Předcházet nemocem, to je nejúčinnější a nejlevnější cesta, jak zefektivnit zdravotní péči. Ať už jde o prevenci civilizačních onemocnění nebo otázky duševního zdraví či dopady závislostí (návykové látky, alkohol, dětská obezita). Proto budeme školy a neziskové organizace zapojovat do preventivních a informativních programů. Budeme aktivně vyhledávat příležitosti, jak rozvíjet a udržovat kvalitu i dostupnost zdravotní péče, zejména vznik dalších dětských ordinací, které v Praze 15 chybí.
