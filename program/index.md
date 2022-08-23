@@ -33,3 +33,9 @@ Přívětivý úřad je pro nás dostupným, informovaným a komunikativním par
 **ZDRAVÝ SOUSEDSKÝ PROSTOR**
 
 Vyčleníme vyšší částku participativního rozpočtu pro nápady samotných občanů a občany zapojíme i do zadání, hodnocení a rozhodování o nových projektech městské části. Zaměříme se na vybudování komunitního centra, které by nabídlo prostor ke společenským aktivitám různých věkových kategorií – pro dětské skupiny, zájmové kroužky, rodinné oslavy či seniorské dýchánky a mezigenerační setkávání. Budeme podporovat vznik a provoz komunitních zahrad, zahradničení a samopěstitelství. Pokusíme se oživit projekt farmářských trhů.
+
+## ![](/program/img//vzdelavani_a_skolstvi.jpg)
+**KVALITNÍ ŠKOLSTVÍ A VZDĚLÁVÁNÍ**
+
+Sázíme na tvořivost a svobodné myšlení. Proto podpoříme školy, aby vytvářely přátelské a inspirující prostředí, kde mohou děti naplno rozvíjet svůj potenciál a učit se spolupracovat v týmu. Nastartujeme investice do nových mateřských škol a iniciujeme výstavbu nové základní i střední školy. Naším cílem je, aby do nich děti mohly chodit co nejblíže domovu. Rozšíříme prázdninový provoz školek. Budeme maximálně informovat o dění ve školách a posílíme spolupráci, komunikaci i důvěru mezi vedením škol, samosprávou, učiteli a rodiči.
+
