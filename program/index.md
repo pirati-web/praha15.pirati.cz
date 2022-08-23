@@ -48,3 +48,8 @@ Budeme pomáhat a podporovat všechny, kteří se ocitli v nepříznivé sociál
 **PREVENCE A DOSTUPNÁ ZDRAVOTNÍ PÉČE**
 
 Předcházet nemocem, to je nejúčinnější a nejlevnější cesta, jak zefektivnit zdravotní péči. Ať už jde o prevenci civilizačních onemocnění nebo otázky duševního zdraví či dopady závislostí (návykové látky, alkohol, dětská obezita). Proto budeme školy a neziskové organizace zapojovat do preventivních a informativních programů. Budeme aktivně vyhledávat příležitosti, jak rozvíjet a udržovat kvalitu i dostupnost zdravotní péče, zejména vznik dalších dětských ordinací, které v Praze 15 chybí.
+
+## ![](/program/img//kultura.jpg)
+**ŽIVÁ KULTURA**
+
+Uchování kulturních tradic zásadně přispívá k poznání místní historie. Živou kulturu ve městě vnímáme jako důležitý životodárný prvek. Budeme rozvíjet dotační programy pro kulturu a podporovat pořádání společenských i kulturních akcí. Vytvoříme moderní propagační platformu pro kulturní život. Budeme hledat možnosti pro vybudování kulturního centra a také pro pomoc se zabezpečením či sdílením technického vybavení k zajištění akcí.
