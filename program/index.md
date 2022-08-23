@@ -59,8 +59,7 @@ Uchování kulturních tradic zásadně přispívá k poznání místní histori
 
 Sportovní vyžití má být dostupné pro každého. Podpora pohybových aktivit a zdravého životního stylu je pro nás důležitá, naší prioritou je vytvoření včasných návyků a pozitivního vztahu ke sportování u dětí a mládeže. Proto se zaměříme na vylepšování a rozšiřování sportovišť, také na jejich bezpečnou pěší nebo dopravní dostupnost. Otevřeme pro veřejnost také školní hřiště. Budeme rozvíjet dotační programy pro sport a podpoříme sportovní akce pro širokou veřejnost.
 
-
-
+##
 **MĚSTO KRÁTKÝCH VZDÁLENOSTí**
 
 Konec čtvrtím jako noclehárnám odkud musíte za prací, vzděláním, obchody, službami, zdravotní péčí, kulturou a sportem dojíždět, někdy i několikrát denně. Prosazujeme koncept města krátkých vzdáleností, který zlepšuje podmínky pro život díky dostupnosti všech potřeb co nejblíže místa bydliště. Tím pomáhá řešit i dopravní problémy města. Budeme motivovat developery, aby v jejich projektech vznikal dostatek prostorů určených pro drobné obchody, služby či ordinace. Zasadíme se o zajištění potřebné občanské vybavenosti jako jsou střední školy, sportoviště, zdravotní péče a další v dostupné vzdálenosti přímo na Praze 15. Budeme hledat příležitosti, jak přilákat zaměstnavatele.
