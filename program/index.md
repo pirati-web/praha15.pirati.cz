@@ -39,3 +39,7 @@ Vyčleníme vyšší částku participativního rozpočtu pro nápady samotných
 
 Sázíme na tvořivost a svobodné myšlení. Proto podpoříme školy, aby vytvářely přátelské a inspirující prostředí, kde mohou děti naplno rozvíjet svůj potenciál a učit se spolupracovat v týmu. Nastartujeme investice do nových mateřských škol a iniciujeme výstavbu nové základní i střední školy. Naším cílem je, aby do nich děti mohly chodit co nejblíže domovu. Rozšíříme prázdninový provoz školek. Budeme maximálně informovat o dění ve školách a posílíme spolupráci, komunikaci i důvěru mezi vedením škol, samosprávou, učiteli a rodiči.
 
+## ![](/program/img//pece_a_rodina.jpg)
+**SOCIÁLNÍ A RODINNÁ POLITIKA**
+
+Budeme pomáhat a podporovat všechny, kteří se ocitli v nepříznivé sociální situaci, ať už z důvodu věku, ztíženého zdravotního stavu nebo životní krize. Preventivně budeme řešit stavy sociálního vyloučení. Budeme využívat dotační programy k příspěvkům dětem na školní výlety, kroužky, kulturní představení a školy v přírodě. Zajímají nás všechny možnosti seniorských aktivit a mezigeneračního setkávání. Vytvoříme kontaktní a poradenské centrum pro bydlení a sociální služby. Zaměříme se také na dostupnost a rozvoj sítě odlehčovacích služeb všech forem, aby byly v co největší míře poskytovány v domácím prostředí a místní komunitě. Pracovat budeme s lidmi bez domova, pro jejich co nejčasnější návrat k běžnému způsobu života.
