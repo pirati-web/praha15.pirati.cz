@@ -83,7 +83,7 @@ tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete v
 # 16.
   - name: Jana Bortlová
     age: 43
-    profession: administrativa
+    profession: pracovnice v administrativě
     partyUid: bezpp
 # 17.
   - name: Alena Kašpárková
