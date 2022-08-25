@@ -14,13 +14,13 @@ customizeHeader: true
 ## ![](/program/img//zivotni_prostredi.jpg)
 **PÉČE O KVALITNÍ ŽIVOTNÍ PROSTŘEDÍ ZAČÍNÁ TAM, KDE ŽIJEME**
 
-Chceme, aby Patnáctka zůstala zelená, a byla tak příjemným místem pro život. Kvalita života je totiž neoddělitelná od kvality prostoru, ve kterém se pohybujeme. 
+**Chceme, aby Patnáctka zůstala zelená**, a byla tak příjemným místem pro život. Kvalita života je totiž neoddělitelná od kvality prostoru, ve kterém se pohybujeme. 
 
-Budeme proto chránit stávající přírodu a zeleň. Zakládat nová uliční stromořadí, ozeleňovat veřejný prostor, střechy a fasády objektů městské části. Budeme usilovat o revitalizaci potoků, dobré hospodaření se srážkovými vodami a prostranství osvěžovat mlžítky i pítky. Vše tolik potřebné pro klima, ale také pro svoji estetickou, rekreační a ozdravnou funkci. 
+**Budeme chránit stávající přírodu a zeleň.** Zakládat nová uliční stromořadí, ozeleňovat veřejný prostor, střechy a fasády objektů městské části. Budeme usilovat o revitalizaci potoků, dobré hospodaření se srážkovými vodami a prostranství osvěžovat mlžítky i pítky. Vše tolik potřebné pro klima, ale také pro svoji estetickou, rekreační a ozdravnou funkci. 
 
-Zasadíme se o přechod na cirkulární ekonomiku, tj. efektivnější využívání existujících zdrojů, osvětu v zodpovědné spotřebě a snižování tvorby odpadů. Budeme zavádět úsporná opatření a alternativní zdroje energií k energetické soběstačnosti. 
+**Zasadíme se o přechod na cirkulární ekonomiku**, tj. efektivnější využívání existujících zdrojů, osvětu v zodpovědné spotřebě a snižování tvorby odpadů. Budeme zavádět úsporná opatření a alternativní zdroje energií k energetické soběstačnosti. 
 
-Ke stejnému udržitelnému chování k našemu životnímu prostředí budeme motivovat i developery.
+**K udržitelnému chování** k našemu životnímu prostředí budeme motivovat i developery.
 
 ## ![](/program/img//bydleni.jpg)
 **DOSTUPNÉ BYDLENÍ PRO SPOKOJENÝ ŽIVOT**
