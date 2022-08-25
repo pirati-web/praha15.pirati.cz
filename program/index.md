@@ -9,20 +9,34 @@ customizeHeader: true
 * **Zdravý život ve městě** - chceme rozumný a udržitelný rozvoj městské části, který vedle bydlení přináší také ochranu přírody a životního prostředí, živá veřejná prostranství, rekreaci i odpočinek, kulturní a sportovní vyžití, podnikání, a také systém, který nezapomíná ani na naše seniory a spoluobčany s potřebou naší podpory z důvodu zdravotního či sociálního znevýhodnění
 * **Efektivní hospodaření** - budeme důsledně a hospodárně spravovat obecní majetek a veřejná prostranství, kontrolovat hospodaření a investovat do rozvoje za využití dotačních titulů
 
+*Napříč naším programem rozvíjíme koncept města krátkých vzdáleností, který zlepšuje podmínky pro život díky dostupnosti všech potřeb jako jsou pracovní příležitosti, drobné obchody, služby, zdravotní péče, školská zařízení, sportovní nebo rekreční možnosti co nejblíže místu bydliště. Budeme vyjednávat s developery, aby se na takové občanské vybavenosti také podíleli. Bbudeme hledat příležitosti, jak do Prahy 15 přilákat více podnikatelů a zaměstnavatelů.*
+
 ## ![](/program/img//zivotni_prostredi.jpg)
 **PÉČE O KVALITNÍ ŽIVOTNÍ PROSTŘEDÍ ZAČÍNÁ TAM, KDE ŽIJEME**
 
-Chceme, aby Patnáctka zůstala zelená, a byla tak příjemným místem pro život. Kvalita života je totiž neoddělitelná od kvality prostoru, ve kterém se pohybujeme. Budeme proto chránit stávající přírodu a zeleň, zakládat nová uliční stromořadí, ozeleňovat veřejný prostor, střechy a fasády objektů městské části. Budeme usilovat o revitalizaci potoků, dobré hospodaření se srážkovými vodami a prostranství osvěžovat mlžítky i pítky. Vše tolik potřebné pro klima, ale také pro svoji estetickou, rekreační a ozdravnou funkci. Zasadíme se o přechod na cirkulární ekonomiku, tj. efektivnější využívání existujících zdrojů, osvětu v zodpovědné spotřebě a snižování tvorby odpadů. Budeme zavádět úsporná opatření a alternativní zdroje energií k energetické soběstačnosti. Ke stejnému chování budeme motivovat i developery.
+Chceme, aby Patnáctka zůstala zelená, a byla tak příjemným místem pro život. Kvalita života je totiž neoddělitelná od kvality prostoru, ve kterém se pohybujeme. 
+
+Budeme proto chránit stávající přírodu a zeleň. Zakládat nová uliční stromořadí, ozeleňovat veřejný prostor, střechy a fasády objektů městské části. Budeme usilovat o revitalizaci potoků, dobré hospodaření se srážkovými vodami a prostranství osvěžovat mlžítky i pítky. Vše tolik potřebné pro klima, ale také pro svoji estetickou, rekreační a ozdravnou funkci. 
+
+Zasadíme se o přechod na cirkulární ekonomiku, tj. efektivnější využívání existujících zdrojů, osvětu v zodpovědné spotřebě a snižování tvorby odpadů. Budeme zavádět úsporná opatření a alternativní zdroje energií k energetické soběstačnosti. 
+
+Ke stejnému udržitelnému chování k našemu životnímu prostředí budeme motivovat i developery.
 
 ## ![](/program/img//bydleni.jpg)
 **DOSTUPNÉ BYDLENÍ PRO SPOKOJENÝ ŽIVOT**
 
-Domov je zárukou spokojenosti. Bydlet potřebuje každý a obecní bydlení může poskytnout zázemí od znevýhodněných rodin a jednotlivců, přes seniory až po potřebná povolání. Budeme pečovat o stávající bytový fond. Naší prioritou v jeho rozšiřování bude získávat nové obecní byty v developerských projektech. Vytvoříme kontaktní centrum pro bydlení a sociální služby, kterým propojíme dvě služby i činnost příslušných odborů úřadu.
+Domov je zárukou spokojenosti. Bydlet potřebuje každý a obecní bydlení může poskytnout zázemí od znevýhodněných rodin a jednotlivců, přes rodiny se středními příjmy, seniory až po potřebná povolání. 
+
+Zpřehledníme pravidla pro nakládání s bytovým fondem, aby pomoc při zajištění odpovídajícího bydlení byla maximálně adresná a sociálně citlivá.
+
+Budeme pečovat o stávající bytový fond a půjdeme vstříc příležitostem k jeho rozšiřování i rozvíjení. Posílíme vyjednávací pozici ve vztahu k developerům, naší prioritou bude v developerských projektech získávat nové obecní byty a prostory pro drobné obchody, služby či lékařské ordinace. 
+
+Vytvoříme kontaktní centrum pro bydlení a sociální služby, kterým propojíme dvě veřejné služby i činnost příslušných odborů úřadu městské části, úřadu práce a poskytovatelů sociálních služeb. Zprostředkujeme pomoc občanům v jejich problematické bytové či sociální situaci, se speciálním zaměřením na rodiny s dětmi. 
 
 ## ![](/program/img//mhd.jpg)
 **USNADŇUJÍCÍ, NIKOLIV ZATĚŽUJÍCÍ, DOPRAVA**
 
-Moderní doprava je plynulá, rychlá, bezpečná a ekologická, taková přispívá ke zkvalitnění života a životního prostředí. Proto je třeba odvést dopravu z hustě obydlených oblastí, inteligentní řízení dopravy a promyšlený systém parkování. Podpoříme významnější zapojení nízkoemisních a tišších vozidel MHD, zejména parciálních trolejbusů. Budeme prosazovat prodloužení metra A až do Petrovic nejen pro místní obyvatele, ale i pro větší integraci s městskou a příměstskou dopravou. Chceme totiž, aby lidé měli MHD rádi a častěji ji využívali. Budeme zlepšovat podmínky pro chodce a usnadňovat pohyb i pro cyklisty. Prioritou je pro nás bezbariérovost chodníků, přechodů a bezpečnost všech účastníků provozu. Prosazujeme **koncept města krátkých vzdáleností**, který zlepšuje podmínky pro život díky dostupnosti všech potřeb (drobné obchody, služby, zdravotní péče, školy, sportoviště…) co nejblíže místu bydliště. Tím pomáhá řešit i dopravní problémy města.
+Moderní doprava je plynulá, rychlá, bezpečná a ekologická, taková přispívá ke zkvalitnění života a životního prostředí. Proto je třeba odvést dopravu z hustě obydlených oblastí, inteligentní řízení dopravy a promyšlený systém parkování. Podpoříme významnější zapojení nízkoemisních a tišších vozidel MHD, zejména parciálních trolejbusů. Budeme prosazovat prodloužení metra A až do Petrovic nejen pro místní obyvatele, ale i pro větší integraci s městskou a příměstskou dopravou. Chceme totiž, aby lidé měli MHD rádi a častěji ji využívali. Budeme zlepšovat podmínky pro chodce a usnadňovat pohyb i pro cyklisty. Prioritou je pro nás bezbariérovost chodníků, přechodů a bezpečnost všech účastníků provozu. 
 
 ## ![](/program/img//otevrena_radnice.jpg)
 **MODERNÍ A OTEVŘENÁ RADNICE, KTERÁ HÁJÍ ZÁJMY OBČANŮ**
@@ -58,9 +72,3 @@ Uchování kulturních tradic zásadně přispívá k poznání místní histori
 **PODPORA SPORTU A ZDRAVÉHO ŽIVOTNÍHO STYLU**
 
 Sportovní vyžití má být dostupné pro každého. Podpora pohybových aktivit a zdravého životního stylu je pro nás důležitá, naší prioritou je vytvoření včasných návyků a pozitivního vztahu ke sportování u dětí a mládeže. Proto se zaměříme na vylepšování a rozšiřování sportovišť, také na jejich bezpečnou pěší nebo dopravní dostupnost. Otevřeme pro veřejnost také školní hřiště. Budeme rozvíjet dotační programy pro sport a podpoříme sportovní akce pro širokou veřejnost.
-
-## ![](/program/img//nic.jpg)
-**MĚSTO KRÁTKÝCH VZDÁLENOSTí**
-
-Konec čtvrtím jako noclehárnám odkud musíte za prací, vzděláním, obchody, službami, zdravotní péčí, kulturou a sportem dojíždět, někdy i několikrát denně. Prosazujeme koncept města krátkých vzdáleností, který zlepšuje podmínky pro život díky dostupnosti všech potřeb co nejblíže místa bydliště. Tím pomáhá řešit i dopravní problémy města. Budeme motivovat developery, aby v jejich projektech vznikal dostatek prostorů určených pro drobné obchody, služby či ordinace. Zasadíme se o zajištění potřebné občanské vybavenosti jako jsou střední školy, sportoviště, zdravotní péče a další v dostupné vzdálenosti přímo na Praze 15. Budeme hledat příležitosti, jak přilákat zaměstnavatele.
-
