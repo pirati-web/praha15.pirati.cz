@@ -15,7 +15,7 @@ Chceme rozumný a udržitelný rozvoj městské části, který vedle bydlení p
 
 Budeme důsledně a hospodárně spravovat obecní majetek a veřejná prostranství, kontrolovat hospodaření a investovat do rozvoje za využití dotačních titulů.
 
-***Koncept města krátkých vzdáleností** rozvíjíme napříč celým naším programem, který zlepšuje podmínky pro život díky dostupnosti všech potřeb jako jsou pracovní příležitosti, drobné obchody, služby, zdravotní péče, školská zařízení, sportovní nebo rekreční možnosti co nejblíže místu bydliště. Budeme vyjednávat s developery, aby se na takové občanské vybavenosti také podíleli. Budeme hledat příležitosti, jak do Prahy 15 přilákat více podnikatelů a zaměstnavatelů.*
+***Koncept města krátkých vzdáleností** rozvíjíme napříč celým naším programem. Zlepšuje podmínky pro život díky dostupnosti všech potřeb jako jsou pracovní příležitosti, drobné obchody, služby, zdravotní péče, školská zařízení, sportovní nebo rekreční možnosti co nejblíže místu bydliště. Budeme vyjednávat s developery, aby se na takové občanské vybavenosti také podíleli. Budeme hledat příležitosti, jak do Prahy 15 přilákat více podnikatelů a zaměstnavatelů.*
 
 ## ![](/program/img//zivotni_prostredi.jpg)
 **PÉČE O KVALITNÍ ŽIVOTNÍ PROSTŘEDÍ ZAČÍNÁ TAM, KDE ŽIJEME**
