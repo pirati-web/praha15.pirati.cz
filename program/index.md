@@ -6,10 +6,13 @@ customizeHeader: true
 ---
 ## Patnáctka má na víc a jsou před námi mnohé výzvy!
 * **Pirátská politika**
+
 Povedeme veřejné věci poctivě, slušně a správně, měníme tak politickou kulturu v otevřenou a důvěryhodnou, bez poskvrny.
 * **Zdravý život ve městě**
+
 Chceme rozumný a udržitelný rozvoj městské části, který vedle bydlení přináší také ochranu přírody a životního prostředí, živá veřejná prostranství, rekreaci i odpočinek, kulturní a sportovní vyžití, podnikání, a také systém, který nezapomíná ani na naše seniory a spoluobčany s potřebou naší podpory z důvodu zdravotního či sociálního znevýhodnění.
 * **Efektivní hospodaření**
+
 Budeme důsledně a hospodárně spravovat obecní majetek a veřejná prostranství, kontrolovat hospodaření a investovat do rozvoje za využití dotačních titulů.
 
 *Napříč naším programem rozvíjíme koncept města krátkých vzdáleností, který zlepšuje podmínky pro život díky dostupnosti všech potřeb jako jsou pracovní příležitosti, drobné obchody, služby, zdravotní péče, školská zařízení, sportovní nebo rekreční možnosti co nejblíže místu bydliště. Budeme vyjednávat s developery, aby se na takové občanské vybavenosti také podíleli. Bbudeme hledat příležitosti, jak do Prahy 15 přilákat více podnikatelů a zaměstnavatelů.*
