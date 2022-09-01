@@ -101,7 +101,7 @@ tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete v
     profession: projektový manažer
     partyUid: bezpp
 # 20.
-  - name: Mgr. Jana Podhorská
+  - uid: podhorska.jana
     age: 39
     profession: odborný pracovník statistiky
     partyUid: bezpp
