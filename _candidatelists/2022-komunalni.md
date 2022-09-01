@@ -66,7 +66,7 @@ tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete v
     profession: pracovník ve výzkumu, botanik
     partyUid: bezpp
 # 13.
-  - name: Kristýna Smetanová
+  - uid: smetanova.kristyna
     age: 26
     profession: studentka Právnické fakulty UK
     partyUid: bezpp
