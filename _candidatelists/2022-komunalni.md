@@ -71,7 +71,7 @@ tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete v
     profession: studentka Právnické fakulty UK
     partyUid: bezpp
 # 14.
-  - name: Mgr. Alexandra Ošťádalová
+  - uid: ostadalova.alexandra
     age: 42
     profession: IT project manažer
     partyUid: bezpp
