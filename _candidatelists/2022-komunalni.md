@@ -56,7 +56,7 @@ tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete v
     profession: podnikatelka
     partyUid: bezpp
 # 11.
-  - name: Viktor Kašák
+  - uid: kasak.viktor
     age: 21
     profession: specialista, operátor skladu
     partyUid: bezpp
