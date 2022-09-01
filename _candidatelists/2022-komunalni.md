@@ -51,7 +51,7 @@ tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete v
     profession: projektová manažerka v bankovnictví
     partyUid: bezpp
 # 10.
-  - name: Sabina Bergmanová
+  - uid: bergmanova.sabina
     age: 48
     profession: podnikatelka
     partyUid: bezpp
