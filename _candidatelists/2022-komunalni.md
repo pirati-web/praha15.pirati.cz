@@ -141,7 +141,7 @@ tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete v
     profession: důchodkyně
     partyUid: bezpp
 # 28.
-  - name: Svatopluk Adámek
+  - uid: adamek.svatopluk
     age: 37
     profession: manažer pro klíčové zákazníky
     partyUid: bezpp
