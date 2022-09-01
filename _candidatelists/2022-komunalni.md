@@ -136,7 +136,7 @@ tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete v
     profession: číšník
     partyUid: bezpp
 # 27.
-  - name: Jaroslava Ducková
+  - uid: duckova.jaroslava
     age: 76
     profession: důchodkyně
     partyUid: bezpp
