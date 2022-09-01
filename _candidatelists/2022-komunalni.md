@@ -81,7 +81,7 @@ tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete v
     profession: programátor
     partyUid: bezpp
 # 16.
-  - name: Jana Bortlová
+  - uid: bortlova.jana
     age: 43
     profession: pracovnice v administrativě
     partyUid: bezpp
