@@ -106,7 +106,7 @@ tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete v
     profession: odborný pracovník statistiky
     partyUid: bezpp
 # 21.
-  - name: Ing. Pavel Ouběch
+  - uid: oubech.pavel
     age: 67
     profession: technik
     partyUid: bezpp
