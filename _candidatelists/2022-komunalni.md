@@ -96,7 +96,7 @@ tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete v
     profession: účetní
     partyUid: bezpp
 # 19.
-  - name: Ing. Tomáš Daníček
+  - uid: danicek.tomas
     age: 56
     profession: projektový manažer
     partyUid: bezpp
