@@ -131,7 +131,7 @@ tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete v
     profession: obchodní manažer
     partyUid: bezpp
 # 26.
-  - name: David Zavadil
+  - uid: zavadil.david
     age: 48
     profession: číšník
     partyUid: bezpp
