@@ -35,17 +35,17 @@ head:
     partyUid: bezpp   
 
 tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete vynechat  # věk se uvádí k poslednímu dni voleb
-# 7.
+ # 7.
   - uid: patakova.marta
     age: 41
     profession: lektorka v rodinném centru, pedagog MŠ
     partyUid: bezpp
-# 8.
+ # 8.
   - uid: bauer.jiri
     age: 26
     profession: student psychologie, softwarový tester
     partyUid: bezpp
-# 9.
+ # 9.
   - uid: splichalova.adela
     age: 28
     profession: projektová manažerka v bankovnictví
