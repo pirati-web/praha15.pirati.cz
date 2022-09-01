@@ -46,7 +46,7 @@ tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete v
     profession: student psychologie, softwarový tester
     partyUid: bezpp
 # 9.
-  - name:  Ing. Adéla Šplíchalová
+  - uid: splichalova.adela
     age: 28
     profession: projektová manažerka v bankovnictví
     partyUid: bezpp
