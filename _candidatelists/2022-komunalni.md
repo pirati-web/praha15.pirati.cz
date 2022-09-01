@@ -41,7 +41,7 @@ tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete v
     profession: lektorka v rodinném centru, pedagog MŠ
     partyUid: bezpp
 # 8.
-  - name:  Jiří Bauer
+  - uid: bauer.jiri
     age: 26
     profession: student psychologie, softwarový tester
     partyUid: bezpp
