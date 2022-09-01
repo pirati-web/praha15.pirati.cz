@@ -91,7 +91,7 @@ tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete v
     profession: studentka
     partyUid: bezpp
 # 18.
-  - name: Petra Žílová
+  - uid: zilova.petra
     age: 46
     profession: účetní
     partyUid: bezpp
