@@ -126,7 +126,7 @@ tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete v
     profession: advokátka
     partyUid: bezpp
 # 25.
-  - name: Miloš Soukup
+  - uid: soukup.milos
     age: 56
     profession: obchodní manažer
     partyUid: bezpp
