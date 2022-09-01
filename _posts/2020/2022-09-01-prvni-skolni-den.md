@@ -7,7 +7,7 @@ tags:
 layout: post
 author: Pavel Petrášek
 authorId: petrasek.pavel
-title: 1. ZÁŘÍ - PRVNÍ ŠKOLNÍ DEN
+title: 1. září - první školní den
 image: articles/2022/2022-09-01-prvniho-zari-prvni-skolni-den.jpg
 ---
 
@@ -19,7 +19,7 @@ I tak čeká naše pedagogy, ředitelky a ředitele překonávání nových prac
 
 Vážíme si vaší práci a děkujeme za ni. Posíláme hodně pozitivní energie a pracovní pohody do vašich tříd.
 
-Při správě městské části a spolupráci s vedením příspěvkových organizací - mateřských a základních škol se chceme věnovat: 
+Při správě městské části a za spolupráce s vedením příspěvkových organizací - mateřských a základních škol - se chceme věnovat: 
 -	strategickému plánování rozvoje vzdělávání
 -	zjednodušení procesu přihlášek a zápisů do MŠ a ZŠ
 -	chytrému řízení školských kapacit, úsporné správě všech objektů a rozšíření prázdninových provozů pro rodiče
