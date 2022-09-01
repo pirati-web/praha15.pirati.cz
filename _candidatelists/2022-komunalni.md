@@ -111,7 +111,7 @@ tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete v
     profession: technik
     partyUid: bezpp
 # 22.
-  - name: Mgr. Lenka Petrášková
+  - uid: petraskova.lenka
     age: 36
     profession: fyzioterapeutka
     partyUid: bezpp
