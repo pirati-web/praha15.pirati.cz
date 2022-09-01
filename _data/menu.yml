@@ -21,8 +21,8 @@ main:
         link: /volby/2022-komunalni.html
 #     - name: Volební program pro Prahu 15
 #       link: /program/
-# - link: /volby/2022-komunalni.html
-#   name: Komunální volby 2022
+  - name: Pirátské listy
+    link: https://a.pirati.cz/praha15/plisty-2022-leto/#plisty/page1
   - name: Kontakt
     link: /kontakt/
    
