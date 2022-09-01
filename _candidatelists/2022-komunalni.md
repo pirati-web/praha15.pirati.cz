@@ -121,7 +121,7 @@ tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete v
     profession: datový analytik
     partyUid: bezpp
 # 24.
-  - name: JUDr. Sylvie Laušmanová
+  - uid: lausmanova.sylvie
     age: 53
     profession: advokátka
     partyUid: bezpp
