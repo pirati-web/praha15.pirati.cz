@@ -146,7 +146,7 @@ tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete v
     profession: manažer pro klíčové zákazníky
     partyUid: bezpp
 # 29.
-  - name: Mgr. Bc. Jan Drvota
+  - uid: drvota.jan
     age: 33
     profession: právník
     partyUid: bezpp
