@@ -5,7 +5,7 @@ titles:
   before: Mgr.
 category:
 ordpms: 1
-description: student psychologie, softwarový tester
+description: právník
 img: people/bily.png
 heroImg: praha-15.jpg
 mail:
