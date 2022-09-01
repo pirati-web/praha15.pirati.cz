@@ -76,7 +76,7 @@ tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete v
     profession: IT project manažer
     partyUid: bezpp
 # 15.
-  - name: Martin Bauer
+  - uid: bauer.martin
     age: 27
     profession: programátor
     partyUid: bezpp
