@@ -151,12 +151,12 @@ tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete v
     profession: právník
     partyUid: bezpp
 # 30.
-  - name: Mgr. Lukáš Hermanovský
+  - uid: hermanovsky.lukas
     age: 42
     profession: právník
     partyUid: bezpp
 # 31.
-  - name: Lucie Hajduová
+  - uid: hajduova.lucie
     age: 21
     profession: studentka
     partyUid: bezpp
