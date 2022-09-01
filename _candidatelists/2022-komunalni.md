@@ -86,7 +86,7 @@ tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete v
     profession: pracovnice v administrativě
     partyUid: bezpp
 # 17.
-  - name: Alena Kašpárková
+  - uid: kasparkova.alena
     age: 20
     profession: studentka
     partyUid: bezpp
