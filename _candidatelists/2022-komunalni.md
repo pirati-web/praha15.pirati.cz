@@ -116,7 +116,7 @@ tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete v
     profession: fyzioterapeutka
     partyUid: bezpp
 # 23.
-  - name: Mgr. Adam Duraj
+  - uid: duraj.adam
     age: 29
     profession: datový analytik
     partyUid: bezpp
