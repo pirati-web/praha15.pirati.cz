@@ -10,7 +10,7 @@ category:
 ordpms: 1
 description: Ekonom, Finance a majetek, územní rozvoj a životní prostředí, Hostivař
 img: people/danickova-radka.png
-heroImg: praha-15.jpg
+heroImg: spolecna_fotka_se_jmeny_val.png
 mail:
   - Radka.Danickova@pirati.cz
 mob: +420 728 453 911
