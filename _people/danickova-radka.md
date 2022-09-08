@@ -26,10 +26,10 @@ V roce 2018 kandidovala do zastupitelstva městské části Praha 15 v rámci vo
 Svůj volný čas věnuje rodině a přátelům. Ráda jej vyplňuje poznáváním a sportem, nejlépe v přírodě. Spoluorganizuje amatérský volejbal. Po celý rok ji můžete potkat při procházkách a na cyklistických vyjížďkách, v zimě na běžkařských tratích. Ráda též relaxuje při různých kulturních příležitostech, tanci a četbě.
 
 ## Aktivity:
-- 10/2017 členka Patnáctka – náš domov, z.s. 
-- 04/2018 registrovaný příznivec Pirátů
-- 10/2018 zastupitelka městské části Praha 15 a členka finančního výboru Zastupitelstva městské části Praha 15
-- 12/2018 členka majetkové komise Rady městské části Praha 15
 - 12/2019 členka České pirátské strany (Rezortní tým pro finance, majetek a majetkové podíly, územní rozvoj a plánování, životní prostředí) 
+- 12/2018 členka majetkové komise Rady městské části Praha 15
+- 10/2018 zastupitelka městské části Praha 15 a členka finančního výboru Zastupitelstva městské části Praha 15
+- 04/2018 registrovaný příznivec Pirátů
+- 10/2017 členka Patnáctka – náš domov, z.s. 
 
 *„Přála bych si, aby Piráti jako nováček na místní politické scéně byli sebevědomým a kompetentním partnerem, zároveň také tmelícím elementem občansko - politické kultury v Praze 15, a to prostřednictvím naplňování pirátských tezí: rovnoprávné a svobodné konání, sdílení informací a informační otevřenost, transparentní hospodaření i jednání.“ (2018)*
