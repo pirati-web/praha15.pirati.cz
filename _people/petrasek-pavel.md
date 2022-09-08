@@ -8,9 +8,7 @@ category:
   - predseda
   - kandidat-obec
 ordpms: 1
-description: Učitel fyziky a matematiky na gymnáziu, 
-Školství, 
-Horní Měcholupy
+description: Učitel fyziky a matematiky na gymnáziu, Školství, Horní Měcholupy
 img: people/petrasek-pavel2.png
 heroImg: praha-15.jpg
 mob: +420 723 716 541
