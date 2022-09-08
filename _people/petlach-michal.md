@@ -18,9 +18,14 @@ profiles:
   #calendar: 
 ---
 
-*„Přál bych si, aby se Piráti na místní politické scéně stali nepostradatelným subjektem a partnerem pro ostatní podobně smýšlející politické subjekty a stali se symbolem strany plnící funkci dohledu nad spravedlivým a transparentním vedením státu.“*
+Michal Petlach (* 1984) pochází z Krnova, kde absolvoval osmileté gymnázium. Vystudoval přírodovědeckou fakultu Univerzity Karlovy v Praze, obor Molekulární biologie a genetika. Od roku 2015 zakotvil v oblasti klinického hodnocení léčiv, kde se podílí na zahajování testování nově vyvinutých léků v různých nemocnicích v České republice. Jako svůj domov si vybral Slunečný Vršek. 
+
+Věnuje se tématům územního rozvoje a dopravy.
+Za nejdůležitější považuje komunikaci s občany i napříč politickým spektrem a transparentnost, obojí přinášející opravdovou kontrolu činnosti politiků, zastavení možné korupce, rozvoj společnosti a pochopení skutečných potřeb obyvatel městské části. 
 
 ## Aktivity:
-- Přiznivec Pirátů
-- Od r. 2018 jeden ze zakládajících členů pirátské buňky na Praze 15
-- Podpora pirátské kampaně do celostátních a krajských voleb
+- 10/2018 registrovaný příznivec Pirátů (Rezortní tým pro územní rozvoj)
+- 08/2018 zakládající člen místní skupiny Pirátů
+- podpora pirátské kampaně do celostátních a krajských voleb
+
+*„Přál bych si, aby se Piráti na místní politické scéně stali nepostradatelným subjektem a partnerem pro ostatní podobně smýšlející politické subjekty, symbolem strany plnící funkci dohledu nad spravedlivým a transparentním vedením státu.“ (2018)*
