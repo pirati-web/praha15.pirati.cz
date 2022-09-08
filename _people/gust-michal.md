@@ -25,5 +25,4 @@ Zajímá se o všechny palčivé problémy dnešní doby, které se ho dotýkaj�
 
 
 ## Aktivity:
-- Registrovaný příznivec KS Praha 
-- Člen KET Doprava a infrastruktura  
+- 2/2021 registrovaný příznivec Pirátů (Rezortní tým pro Dopravu a infrastrukturu)  
