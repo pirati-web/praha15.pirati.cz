@@ -21,7 +21,7 @@ profiles:
   #calendar: 
 ---
 
-Pavel Petrášek je učitel fyziky a matematiky. Pro tuto práci se rozhodl v závěrečných ročnících základní školy a během studia na gymnáziu v Uherském Hradišti inspirován svými skvělými učiteli. Studoval na matematicko-fyzikální fakultě Univerzity Karlovy v Praze a v hlavním městě už zůstal. Od roku 2005 působí na pražských středních školách. 
+Pavel Petrášek (* 1982) je učitel fyziky a matematiky. Pro tuto práci se rozhodl v závěrečných ročnících základní školy a během studia na gymnáziu v Uherském Hradišti inspirován svými skvělými učiteli. Studoval na matematicko-fyzikální fakultě Univerzity Karlovy v Praze a v hlavním městě už zůstal. Od roku 2005 působí na pražských středních školách. 
 
 Od roku 2002 do roku 2019 byl fotbalovým rozhodčím. V současné době je jeho největším koníčkem dcera Anna (*2018). Ve svém volném čase rád cestuje s rodinou po Česku. Nejraději má rozhledny ukryté v lesích. 
 
