@@ -19,14 +19,15 @@ profiles:
   #calendar: 
 ---
 
-Radka Daníčková (* 2. září 1971) působí v rámci týmu Pirátů v Praze 15 (Hostivař a Horní Měcholupy). Pochází z východočeského Letohradu a od dob vysokoškolských studií žije i pracuje v Praze. Je vystudovanou ekonomkou s praxí hlavní účetní obchodně – výrobní společnosti. Ve vedení účetnictví tak trošku změnila kurs, z účetnictví pro podnikatele na účetnictví samosprávy.
+Radka Daníčková (* 1971) pochází z východočeského Letohradu a od dob vysokoškolských studií žije i pracuje v Praze. Vystudovala ekonomii a management na Provozně ekonomické fakultě ČZU v Praze. Má dlouholetou praxi jako ekonomka a hlavní účetní obchodně – výrobní společnosti. V roce 2018 kandidovala do zastupitelstva městské části Praha 15 v rámci volebního uskupení Patnáctka náš domov. Jako pirátská kandidátka obdržela od voličů vůbec nejvíce hlasů. Tato projevená důvěra, zastávání zastupitelského mandátu a veškerá témata veřejné správy ji pohltily na tolik, že se v roce 2019 rozhodla ve své profesi a předmětu účetnictví tak trošku změnit kurs. Nastoupila jako hlavní účetní/ekonomka/rozpočtářka v jedné z pražských městských částí a prošla vlastním rekvalifikačním procesem ve finančním hospodaření uzemních samosprávných celků a jeho přezkumu.
 
-Svůj volný čas věnuje rodině a přátelům, ráda jej vyplňuje sportem, nejlépe v přírodě. Spolupořádá letní amatérský volejbal, po celý rok ji můžete potkat při procházkách a na cyklistických vyjížďkách, v zimě na běžkařských tratích. Ráda též relaxuje při různých kulturních příležitostech, četbě a poznávacích cestách.
-
-*„Přála bych si, aby Piráti jako nováček na místní politické scéně byli sebevědomým a kompetentním partnerem, zároveň také tmelícím elementem občansko - politické kultury v Praze 15, a to prostřednictvím naplňování pirátských tezí: rovnoprávné a svobodné konání, sdílení informací a informační otevřenost, transparentní hospodaření i jednání.“*
+Svůj volný čas věnuje rodině a přátelům. Ráda jej vyplňuje poznáváním a sportem, nejlépe v přírodě. Spoluorganizuje amatérský volejbal. Po celý rok ji můžete potkat při procházkách a na cyklistických vyjížďkách, v zimě na běžkařských tratích. Ráda též relaxuje při různých kulturních příležitostech, tanci a četbě.
 
 ## Aktivity:
-- od 10/2017 členka Patnáctka – náš domov, z.s. 
-- od 10/2018 zastupitelka městské části Praha 15 a členka finančního výboru Zastupitelstva městské části Praha 15
-- od 12/2018 členka majetkové komise Rady městské části Praha 15
-- od 12/2019 členka České pirátské strany (Rezortní tým pro finance, majetek a majetkové podíly, územní rozvoj a plánování, životní prostředí) 
+- 10/2017 členka Patnáctka – náš domov, z.s. 
+- 04/2018 registrovaný příznivec Pirátů
+- 10/2018 zastupitelka městské části Praha 15 a členka finančního výboru Zastupitelstva městské části Praha 15
+- 12/2018 členka majetkové komise Rady městské části Praha 15
+- 12/2019 členka České pirátské strany (Rezortní tým pro finance, majetek a majetkové podíly, územní rozvoj a plánování, životní prostředí) 
+
+*„Přála bych si, aby Piráti jako nováček na místní politické scéně byli sebevědomým a kompetentním partnerem, zároveň také tmelícím elementem občansko - politické kultury v Praze 15, a to prostřednictvím naplňování pirátských tezí: rovnoprávné a svobodné konání, sdílení informací a informační otevřenost, transparentní hospodaření i jednání.“ (2018)*
