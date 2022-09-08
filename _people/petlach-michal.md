@@ -14,7 +14,8 @@ mail:
   - Michal.Petlach@seznam.cz
 mob: +420 773 893 717
 profiles:
-  facebook:
+  facebook: https://www.facebook.com/petlachm
+  instagram: https://www.instagram.com/photopetlis/
   #calendar: 
 ---
 
