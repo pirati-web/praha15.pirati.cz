@@ -12,6 +12,7 @@ heroImg: praha-15.jpg
 mail:
   - KYvona@seznam.cz
 mob: +420 606 347 573
+profession: OSVČ - průvodce v cestovním ruchu, podolog
 ---
 
 Yvona Kadeřábková (*1964) pochází z Prahy a téměř 30 let žije v Horních Měcholupech v Praze 15. Vzdělání má ekonomické, vystudovala střední ekonomickou školu. Pracuje jako průvodkyně v cestovním ruchu v Praze i v celé ČR a dále je specialistou v oboru podologie.
