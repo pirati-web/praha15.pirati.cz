@@ -23,11 +23,11 @@ Michal Petlach (* 1984) pochází z Krnova, kde absolvoval osmileté gymnázium.
 
 Věnuje se tématům územního rozvoje a dopravy. Za nejdůležitější považuje komunikaci s občany i napříč politickým spektrem a transparentnost, obojí přinášející opravdovou kontrolu činnosti politiků, zastavení možné korupce, rozvoj společnosti a pochopení skutečných potřeb obyvatel městské části. 
 
-Ve svém volném čase si všímá zdánlivých detailů, zejména při cestování, a vše zaznamenává na fotoaparát. Většina našich fotek je od Michala. 
+Ve svém volném čase si všímá zdánlivých detailů, zejména při cestování, a vše zaznamenává na svůj fotoaparát. Většina našich fotek je od Michala. 
 
 ## Aktivity:
+- podpora pirátských kampaní k Eurovolbám a k volbám do PSP ČR
 - 10/2018 registrovaný příznivec Pirátů (Rezortní tým pro územní rozvoj)
 - 08/2018 zakládající člen místní skupiny Pirátů
-- podpora pirátské kampaně do celostátních a krajských voleb
 
 *„Přál bych si, aby se Piráti na místní politické scéně stali nepostradatelným subjektem a partnerem pro ostatní podobně smýšlející politické subjekty, symbolem strany plnící funkci dohledu nad spravedlivým a transparentním vedením státu.“ (2018)*
