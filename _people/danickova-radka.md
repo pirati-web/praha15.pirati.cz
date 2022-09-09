@@ -17,6 +17,7 @@ mob: +420 728 453 911
 profiles:
   facebook: https://www.facebook.com/radka.danickova.3/
   #calendar: 
+profession: projektová manažerka
 ---
 
 Radka Daníčková (* 1971) pochází z východočeského Letohradu a od dob vysokoškolských studií žije i pracuje v Praze. Vystudovala ekonomii a management na Provozně ekonomické fakultě ČZU v Praze. Má dlouholetou praxi jako ekonomka a hlavní účetní obchodně – výrobní společnosti. 
