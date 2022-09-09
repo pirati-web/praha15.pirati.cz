@@ -2,7 +2,7 @@
 date: 2022-09-09
 category: blog
 tags: 
-  - Volby
+  - Volby 2022
 layout: post
 author: Radka Daníčková
 authorId: danickova.radka
