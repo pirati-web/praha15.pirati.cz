@@ -8,7 +8,7 @@ category:
   - kandidat-obec
 ordpms: 1
 description: Kreativec, dobrovolný hasič, Bezpečnost, volný čas, Petrovice
-img: people/vojta-ondrej.jpg
+img: people/vojta-ondrej.png
 heroImg: praha-15.jpg
 mob: + 420 736 726 061
 mail:
