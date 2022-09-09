@@ -27,4 +27,4 @@ O politiku se zajímá od gymnázia. K Pirátům se přidal především kvůli 
 
 ## Aktivity:
 - 8/2018 registrovaný příznivec Pirátů (Rezortní tým pro Školství, volný čas, vědu a výzkum)
-- 4/2018 člen místní skupiny Pirátů 
+- 4/2018 zakládající člen místní skupiny Pirátů 
