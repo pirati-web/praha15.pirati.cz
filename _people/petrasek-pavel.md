@@ -16,7 +16,8 @@ mail:
   - pavel.petrasek@atlas.cz 
 profiles:
   #facebook:
-  #calendar: 
+  #calendar:
+profession: učitel fyziky a matematiky na gymnáziu
 ---
 
 Pavel Petrášek (* 1982) je učitel fyziky a matematiky. Pro tuto práci se rozhodl v závěrečných ročnících základní školy a během studia na gymnáziu v Uherském Hradišti inspirován svými skvělými učiteli. Studoval na matematicko-fyzikální fakultě Univerzity Karlovy v Praze a v hlavním městě už zůstal. Od roku 2005 působí na pražských středních školách. 
