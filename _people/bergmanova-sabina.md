@@ -6,12 +6,13 @@ titles:
 category:
 ordpms: 1
 description: podnikatelka
-img: people/bily.png
+img: people/bergmanova-sabina.png
 heroImg: praha-15.jpg
 mail:
   - 
 mob:
 profiles:
   facebook:
-  #calendar: 
+  #calendar:
+profession: podnikatelka
 ---
