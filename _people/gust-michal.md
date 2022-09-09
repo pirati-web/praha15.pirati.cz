@@ -14,7 +14,8 @@ mail:
 mob: +420 603 551 104
 profiles:
   twitter: https://twitter.com/MichalGust
-  #calendar: 
+  #calendar:
+profession: IT architekt, kouč
 ---
 
 Michal Gust pochází z Mostu, vystudoval ČVUT FEL - katedru počítačů a po studiích zakotvil v Praze, kde již skoro 20 let žije v Horních Měcholupech.
