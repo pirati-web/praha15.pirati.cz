@@ -16,7 +16,8 @@ mob: +420 773 893 717
 profiles:
   facebook: https://www.facebook.com/petlachm
   instagram: https://www.instagram.com/photopetlis/
-  #calendar: 
+  #calendar:
+profession: specialista v oboru klinického hodnocení léčiv, fotograf
 ---
 
 Michal Petlach (* 1984) pochází z Krnova, kde absolvoval osmileté gymnázium. Vystudoval přírodovědeckou fakultu Univerzity Karlovy v Praze, obor Molekulární biologie a genetika. Od roku 2015 zakotvil v oblasti klinického hodnocení léčiv, kde se podílí na zahajování testování nově vyvinutých léků v různých nemocnicích v České republice. Za svůj domov si vybral Slunečný Vršek. 
