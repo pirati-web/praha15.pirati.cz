@@ -8,7 +8,7 @@ category:
   - kandidat-obec
 ordpms: 1
 description: Product manager
-img: people/zavadil-jan.jpg
+img: people/zavadil-jan.png
 heroImg: praha-15.jpg
 mail:
   - Jan.Zavadil@pirati.cz
