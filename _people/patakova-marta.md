@@ -13,5 +13,6 @@ mail:
 mob:
 profiles:
   facebook:
-  #calendar: 
+  #calendar:
+profession: lektorka v rodinném centru, pedagog MŠ
 ---
