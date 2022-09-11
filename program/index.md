@@ -20,44 +20,85 @@ Budeme důsledně a hospodárně spravovat obecní majetek a veřejná prostrans
 ## ![](/program/img//zivotni_prostredi.jpg)
 **PÉČE O KVALITNÍ ŽIVOTNÍ PROSTŘEDÍ ZAČÍNÁ TAM, KDE ŽIJEME**
 
-**Chceme, aby Patnáctka zůstala zelená**, a byla tak příjemným místem pro život. Kvalita života je totiž neoddělitelná od kvality prostoru, ve kterém se pohybujeme. 
+**Chceme, aby Patnáctka zůstala zelená a modrá**, a byla tak příjemným místem pro život. Kvalita života je totiž neoddělitelná od kvality prostoru, ve kterém se pohybujeme. 
 
-**Budeme chránit stávající přírodu a zeleň.** Zakládat nová uliční stromořadí, ozeleňovat veřejný prostor, střechy a fasády objektů městské části. Budeme usilovat o revitalizaci potoků, dobré hospodaření se srážkovými vodami a prostranství osvěžovat mlžítky i pítky. Vše tolik potřebné pro klima, ale také pro svoji estetickou, rekreační a ozdravnou funkci. 
+**Budeme chránit stávající přírodu, zeleň a vodní plochy.** Vše tolik potřebné pro adaptaci na změnu klimatu, ale také pro svoji estetickou, rekreační a ozdravnou funkci. 
 
-**Zasadíme se o přechod na cirkulární ekonomiku**, tj. efektivnější využívání existujících zdrojů, osvětu v zodpovědné spotřebě a snižování tvorby odpadů. Budeme zavádět úsporná opatření a alternativní zdroje energií k energetické soběstačnosti. 
+**Budeme zakládat nová** uliční stromořadí, ozeleňovat veřejný prostor, střechy a fasády objektů městské části.
 
-**K udržitelnému chování** k našemu životnímu prostředí budeme motivovat i developery.
+**Budeme chránit vodní zdroje**, usilovat o čistotu přítoků do Hostivařské přehrady, o revitalizaci potoků a dobré hospodaření se srážkovými vodami. Veřejná prostranství budeme osvěžovat mlžítky i pítky. 
+
+**Zasadíme se o přechod na cirkulární ekonomiku**, tj. efektivnější využívání existujících zdrojů, kdy materiály zůstávají co nejdéle v oběhu a odpadu vzniká co nejmenší nutné množství, případně budeme hledat cesty k jeho znovuvyužití, a to formou osvěty, podpory, využitím dotačních titulů a tím, že městská část půjde příkladem. 
+
+**Úsporná opatření a alternativní zdroje energií** k energetické soběstačnosti budeme aktivně vyhledávat a zavádět. 
+
+**K udržitelnému chování** k našemu životnímu prostředí budeme motivovat také developery a investory.
 
 ## ![](/program/img//bydleni.jpg)
 **DOSTUPNÉ BYDLENÍ PRO SPOKOJENÝ ŽIVOT**
 
-**Domov je zárukou spokojenosti.** Bydlet potřebuje každý a městské bydlení může poskytnout zázemí od znevýhodněných rodin a jednotlivců, přes rodiny se středními příjmy, seniory až po potřebná povolání. 
+**Domov je zárukou spokojenosti.** Bydlet potřebuje každý a městské bydlení může poskytnout zázemí od znevýhodněných rodin a jednotlivců, přes mladé rodiny s dětmi, seniory až po potřebná povolání. 
 
-**Pravidla pro nakládání s bytovým fondem** zpřehledníme, aby pomoc při zajištění odpovídajícího bydlení byla maximálně adresná a sociálně citlivá.
+**Pravidla pro nakládání s bytovým fondem** zpřehledníme, aby pomoc při zajištění odpovídajícího bydlení byla maximálně adresná a sociálně citlivá. Budeme transparentně a férově posuzovat určení bytů pro sociálně znevýhodněné a vybrané profese. K pronájmům bytů standardního určení budeme přistupovat s péčí řádného hospodáře.
 
-**O stávající bytový fond budeme pečovat** a půjdeme vstříc příležitostem k jeho rozšiřování i rozvíjení. Posílíme vyjednávací pozici ve vztahu k developerům, naší prioritou bude v developerských projektech získávat nové městské byty a prostory pro drobné obchody, služby či lékařské ordinace. 
+**O stávající bytový fond budeme pečovat** a půjdeme vstříc příležitostem k jeho rozšiřování i rozvíjení. Navážeme na schválenou metodiku spoluúčasti investorů na rozvoji Prahy 15 a budeme po developerech požadovat podíl na výdajích, které nová výstavba i následný provoz přináší v souvislosti s budováním veřejné vybavenosti a infrastruktury. Naší prioritou bude též v developerských projektech získávat nové městské byty a prostory pro drobné obchody, služby či lékařské ordinace. 
 
 **Vytvoříme kontaktní centrum pro bydlení a sociální služby**, kterým propojíme dvě veřejné služby i činnost příslušných odborů úřadu městské části, úřadu práce a poskytovatelů sociálních služeb. Zprostředkujeme pomoc občanům v jejich problematické bytové či sociální situaci, se speciálním zaměřením na rodiny s dětmi. 
 
 ## ![](/program/img//mhd.jpg)
 **USNADŇUJÍCÍ, NIKOLIV ZATĚŽUJÍCÍ, DOPRAVA**
 
-Moderní doprava je plynulá, rychlá, bezpečná a ekologická, taková přispívá ke zkvalitnění života a životního prostředí. Proto je třeba odvést dopravu z hustě obydlených oblastí, inteligentní řízení dopravy a promyšlený systém parkování. Podpoříme významnější zapojení nízkoemisních a tišších vozidel MHD, zejména parciálních trolejbusů. Budeme prosazovat prodloužení metra A až do Petrovic nejen pro místní obyvatele, ale i pro větší integraci s městskou a příměstskou dopravou. Chceme totiž, aby lidé měli MHD rádi a častěji ji využívali. Budeme zlepšovat podmínky pro chodce a usnadňovat pohyb i pro cyklisty. Prioritou je pro nás bezbariérovost chodníků, přechodů a bezpečnost všech účastníků provozu. 
+**Moderní doprava** je plynulá, rychlá, bezpečná a ekologická. Taková přispívá ke zkvalitnění života a k nezatěžování životního prostředí. Proto je třeba odvést dopravu z hustě obydlených oblastí, inteligentní řízení dopravy a promyšlený systém parkování. Vše v souladu s rozvojem dopravy pod pirátským vedením Prahy za poslední čtyři roky, např. zahájení výstavby nové linky metra D, prodloužení tram trati do smyčky Depo Hostivař, nová P+R parkovací místa u nádraží Hostivař. 
+
+**Odvedení tranzitní dopravy** mimo obydlené lokality městské části bude naší hlavní snahou.
+
+**Prodloužení metra A** do Hostivaře a dále až do Petrovic s navázáním městských spojů budeme prosazovat.
+
+**Městskou hromadnou dopravu i významnější zapojení nízkoemisních a tišších vozidel MHD** budeme preferovat. Zejména individuální automobilová doprava představuje největší zátěž pro čisté ovzduší v celé Praze. Považujeme za klíčové posilovat veřejnou dopravu, aby ji každý rád využíval a dal ve většině případů přednost před jízdou autem. Ve spolupráci s MHMP a Ropid budeme zvyšovat obslužnost a optimalizovat frekvenci spojů.
+
+**Podmínky pro chodce** budeme zlepšovat a **pohyb pro cyklisty** usnadňovat. Klíčovou pro nás je dobrá prostupnost jednotlivými lokalitami městské části. Zrevidujeme chodníkový systém a budeme aktivně spolupracovat s městskou společností TSK na plánu postupných oprav i bezbariérových úprav chodníků a přechodů. Budeme pracovat s celoměstským systémem cyklotras a s generelem bezmotorové dopravy městské části Prahy 15 z roku 2018. 
+
+**Bezpečnost všech účastníků provozu**, zejména chodců jako těch nejzranitelnějších, je pro nás prioritou. Zaměříme se na smysluplnost dopravního značení, po jeho pasportizaci budeme cílit na minimalizaci množství dopravního značení a na nastavení místních úprav provozu, aby zohledňovala zejména potřeby rezidentů. 
 
 ## ![](/program/img//otevrena_radnice.jpg)
 **MODERNÍ A OTEVŘENÁ RADNICE, KTERÁ HÁJÍ ZÁJMY OBČANŮ**
 
-Přívětivý úřad je pro nás dostupným, informovaným a komunikativním partnerem. Budeme zlepšovat a zefektivňovat jeho služby i průběžnou komunikaci s občany. Rozšíříme možnosti elektronické komunikace. Budeme hájit a respektovat zájmy občanů, věnovat pozornost jejich podnětům, obsahu petic a stížností – nikoliv je pouze brát na vědomí. Jednání s partnery povedeme odpovědně, transparentně a profesionálně. Co nejvíce otevřeme výběrová řízení všem potenciálním zájemcům. Zprůhledníme hospodaření městské části a nakládání s majetkem. Na projekty městské části budeme vypisovat architektonické soutěže. Nepřipustíme nekalá jednání, střet zájmů a korupci zastupitelů či úředníků.
+**Přívětivý úřad** je pro nás dobře dostupným, informovaným a komunikativním partnerem. Budeme zlepšovat a zefektivňovat jeho služby i průběžnou komunikaci s občany. Otevřeme radniční média jako je Hlasatel a Mobilní rozhlas. Provedeme pasport informativních vývěsek. Usilovat budeme o příjemné pracovní prostředí pro zaměstnance.
+
+**Podnětům občanů, obsahu petic a stížností** budeme věnovat pozornost, nikoliv je pouze brát na vědomí. Budeme hájit a respektovat zájmy místních. Podpoříme přímé zapojení občanů do rozhodování o prostředí, ve kterém žijí.    
+**Zodpovědné, transparentní a profesionální jednání s partnery** povedeme. Co nejvíce otevřeme výběrová řízení všem potenciálním zájemcům. Zrevidujeme finanční limity u zakázek tzv. malého rozsahu a interní směrnici. U investičních záměrů městské části budeme vypisovat architektonické soutěže a budeme dbát na kvalitu projektové dokumentace.
+
+**Zprůhledníme řádné hospodaření městské části.** V zobrazení CityVizor umožníme rozklikávat rozpočet městské části až na úroveň faktur, shodně jako tč. u některých jiných městských částí a hl. m. Prahy. Na webu městské části vystavíme uzavřené smlouvy. 
+
+**Efektivní správa majetku a investice do rozvoje.** Prodej majetku městské části opravdu není naší prioritou. Naopak, zcelování pozemků ve prospěch městské části a vyhledávání možností vlastních akvizic jsou pro nás základem pracovat na rozvoji městské části.
+
+**Nepřipustíme nekalá jednání, střet zájmů a korupci zastupitelů či úředníků.** Zakládáme si na poctivém a slušném přístupu ve všech směrech a činnostech.
 
 ## ![](/program/img//uzemni_planovani.jpg)
 **ZDRAVÝ SOUSEDSKÝ PROSTOR**
 
-Vyčleníme vyšší částku participativního rozpočtu pro nápady samotných občanů a občany zapojíme i do zadání, hodnocení a rozhodování o nových projektech městské části. Zaměříme se na vybudování komunitního centra, které by nabídlo prostor ke společenským aktivitám různých věkových kategorií – pro dětské skupiny, zájmové kroužky, rodinné oslavy či seniorské dýchánky a mezigenerační setkávání. Budeme podporovat vznik a provoz komunitních zahrad, zahradničení a samopěstitelství. Pokusíme se oživit projekt farmářských trhů.
+**I občan města má právo žít ve zdravém prostředí.** Proto Patnáctka pro život. 
+
+**Nabídneme občanům a sousedům možnosti zapojit se** do zadání, hodnocení a rozhodování o nových projektech městské části. Vyčleníme vyšší částku participativního rozpočtu pro nápady samotných občanů a jejich vlastní vylepšení veřejných prostranství.
+
+**Komunitní život podpoříme**, také jako prevenci sociálního vyloučení. Zaměříme se na vybudování komunitního centra, které by nabídlo prostor ke společenským aktivitám různých věkových kategorií – pro dětské skupiny, zájmové kroužky, rodinné oslavy či seniorské dýchánky a také mezigenerační setkávání. 
+
+**Činnost i hodnoty spolků, občanských iniciativ a místních skupin** nejsou v tržním prostředí plně ocenitelné penězi a zaslouží si naše neustálé povzbuzování i pomoc s vyhledáváním možností účelových grantů a financování jejich aktivit. 
+
+**Zahradničení a samopěstitelství ve městě**, vznik a provoz komunitních zahrad, budeme podporovat. Pokusíme se oživit projekt farmářských trhů.
 
 ## ![](/program/img//vzdelavani_a_skolstvi.jpg)
 **KVALITNÍ ŠKOLSTVÍ A VZDĚLÁVÁNÍ**
 
-Sázíme na tvořivost a svobodné myšlení. Proto podpoříme školy, aby vytvářely přátelské a inspirující prostředí, kde mohou děti naplno rozvíjet svůj potenciál a učit se spolupracovat v týmu. Nastartujeme investice do nových mateřských škol a iniciujeme výstavbu nové základní i střední školy. Naším cílem je, aby do nich děti mohly chodit co nejblíže domovu. Rozšíříme prázdninový provoz školek. Budeme maximálně informovat o dění ve školách a posílíme spolupráci, komunikaci i důvěru mezi vedením škol, samosprávou, učiteli a rodiči.
+**Sázíme na tvořivost a svobodné myšlení.** Proto podpoříme školy, aby vytvářely přátelské a inspirující prostředí, kde mohou všechny žáci naplno rozvíjet svůj potenciál a učit se spolupracovat v týmu. 
+
+**Nastartujeme investice** do nových mateřských škol a iniciujeme výstavbu nové základní i střední školy. Naším cílem je, aby do nich děti mohly chodit co nejblíže domovu. 
+
+**Budeme spolupracovat s vedením školských zařízení** na strategickém plánování rozvoje vzdělávání, na motivaci i odborné podpoře učitelů, na zjednodušení administrativní zátěže ředitelů, na podpoře žáků z ekonomicky znevýhodněných rodin. 
+
+**Budeme maximálně informovat** o dění ve školách a posílíme spolupráci, komunikaci i důvěru mezi vedením škol, samosprávou, učiteli a rodiči. 
+
+**Smysluplné trávení volného času dětí a mládeže** má naši velkou pozornost. Budeme aktivně vyhledávat dotační příležitosti pro budování dětských skupin a budeme podporou organizacím, které se věnují vzdělávání, zájmovým činnostem a trávení volného času dětí. Rozšíříme prázdninový provoz školek.
 
 ## ![](/program/img//pece_a_rodina.jpg)
 **SOCIÁLNÍ A RODINNÁ POLITIKA**
@@ -74,7 +115,15 @@ Předcházet nemocem, to je nejúčinnější a nejlevnější cesta, jak zefekt
 
 Uchování kulturních tradic zásadně přispívá k poznání místní historie. Živou kulturu ve městě vnímáme jako důležitý životodárný prvek. Budeme rozvíjet dotační programy pro kulturu a podporovat pořádání společenských i kulturních akcí. Vytvoříme moderní propagační platformu pro kulturní život. Budeme hledat možnosti pro vybudování kulturního centra a také pro pomoc se zabezpečením či sdílením technického vybavení k zajištění akcí.
 
+Průhledným dotačním procesem, transparentním a férovým rozdělováním financí přivedeme víc kvalitních zájemců. 
+Zveřejníme údaje o úspěšných žadatelích
+
+
 ## ![](/program/img//sport.jpg)
 **PODPORA SPORTU A ZDRAVÉHO ŽIVOTNÍHO STYLU**
 
 Sportovní vyžití má být dostupné pro každého. Podpora pohybových aktivit a zdravého životního stylu je pro nás důležitá, naší prioritou je vytvoření včasných návyků a pozitivního vztahu ke sportování u dětí a mládeže. Proto se zaměříme na vylepšování a rozšiřování sportovišť, také na jejich bezpečnou pěší nebo dopravní dostupnost. Otevřeme pro veřejnost také školní hřiště. Budeme rozvíjet dotační programy pro sport a podpoříme sportovní akce pro širokou veřejnost.
+
+Průhledným dotačním procesem, transparentním a férovým rozdělováním financí přivedeme víc kvalitních zájemců. 
+Zveřejníme údaje o úspěšných žadatelích
+
