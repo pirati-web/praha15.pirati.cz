@@ -65,7 +65,8 @@ Budeme důsledně a hospodárně spravovat obecní majetek a veřejná prostrans
 
 **Přívětivý úřad** je pro nás dobře dostupným, informovaným a komunikativním partnerem. Budeme zlepšovat a zefektivňovat jeho služby i průběžnou komunikaci s občany. Otevřeme radniční média jako je Hlasatel a Mobilní rozhlas. Provedeme pasport informativních vývěsek. Usilovat budeme o příjemné pracovní prostředí pro zaměstnance.
 
-**Podnětům občanů, obsahu petic a stížností** budeme věnovat pozornost, nikoliv je pouze brát na vědomí. Budeme hájit a respektovat zájmy místních. Podpoříme přímé zapojení občanů do rozhodování o prostředí, ve kterém žijí.    
+**Podnětům občanů, obsahu petic a stížností** budeme věnovat pozornost, nikoliv je pouze brát na vědomí. Budeme hájit a respektovat zájmy místních. Podpoříme přímé zapojení občanů do rozhodování o prostředí, ve kterém žijí. Zpřehledníme možnosti platforem hlášení poruch a závad.    
+
 **Zodpovědné, transparentní a profesionální jednání s partnery** povedeme. Co nejvíce otevřeme výběrová řízení všem potenciálním zájemcům. Zrevidujeme finanční limity u zakázek tzv. malého rozsahu a interní směrnici. U investičních záměrů městské části budeme vypisovat architektonické soutěže a budeme dbát na kvalitu projektové dokumentace.
 
 **Zprůhledníme řádné hospodaření městské části.** V zobrazení CityVizor umožníme rozklikávat rozpočet městské části až na úroveň faktur, shodně jako tč. u některých jiných městských částí a hl. m. Prahy. Na webu městské části vystavíme uzavřené smlouvy. 
@@ -77,15 +78,15 @@ Budeme důsledně a hospodárně spravovat obecní majetek a veřejná prostrans
 ## ![](/program/img//uzemni_planovani.jpg)
 **ZDRAVÝ SOUSEDSKÝ PROSTOR**
 
-**I občan města má právo žít ve zdravém prostředí.** Proto Patnáctka pro život. 
+**I občan města má právo žít ve zdravém prostředí.** Proto Patnáctka pro život. Proto zdravé životní a komunitní prostředí.
 
 **Nabídneme občanům a sousedům možnosti zapojit se** do zadání, hodnocení a rozhodování o nových projektech městské části. Vyčleníme vyšší částku participativního rozpočtu pro nápady samotných občanů a jejich vlastní vylepšení veřejných prostranství.
 
 **Komunitní život podpoříme**, také jako prevenci sociálního vyloučení. Zaměříme se na vybudování komunitního centra, které by nabídlo prostor ke společenským aktivitám různých věkových kategorií – pro dětské skupiny, zájmové kroužky, rodinné oslavy či seniorské dýchánky a také mezigenerační setkávání. 
 
-**Činnost i hodnoty spolků, občanských iniciativ a místních skupin** nejsou v tržním prostředí plně ocenitelné penězi a zaslouží si naše neustálé povzbuzování i pomoc s vyhledáváním možností účelových grantů a financování jejich aktivit. 
+**Hodnoty i činnost spolků, občanských iniciativ a místních skupin** nejsou v tržním prostředí plně ocenitelné penězi a zaslouží si naše neustálé povzbuzování i pomoc s vyhledáváním možností financování jejich aktivit i účelových grantů. 
 
-**Zahradničení a samopěstitelství ve městě**, vznik a provoz komunitních zahrad, budeme podporovat. Pokusíme se oživit projekt farmářských trhů.
+**Zahradničení a samopěstitelství ve městě**, vznik a provoz komunitních zahrad, budeme podporovat. Pokusíme se oživit projekt farmářských trhů. 
 
 ## ![](/program/img//vzdelavani_a_skolstvi.jpg)
 **KVALITNÍ ŠKOLSTVÍ A VZDĚLÁVÁNÍ**
@@ -94,36 +95,54 @@ Budeme důsledně a hospodárně spravovat obecní majetek a veřejná prostrans
 
 **Nastartujeme investice** do nových mateřských škol a iniciujeme výstavbu nové základní i střední školy. Naším cílem je, aby do nich děti mohly chodit co nejblíže domovu. 
 
-**Budeme spolupracovat s vedením školských zařízení** na strategickém plánování rozvoje vzdělávání, na motivaci i odborné podpoře učitelů, na zjednodušení administrativní zátěže ředitelů, na podpoře žáků z ekonomicky znevýhodněných rodin. 
+**Budeme spolupracovat s vedením školských zařízení** na strategickém plánování rozvoje vzdělávání, na motivaci, osobní i odborné opoře učitelů, na zjednodušení administrativní zátěže ředitelů, na podpoře žáků z ekonomicky znevýhodněných rodin. 
 
-**Budeme maximálně informovat** o dění ve školách a posílíme spolupráci, komunikaci i důvěru mezi vedením škol, samosprávou, učiteli a rodiči. 
+**Budeme maximálně informovat** o dění ve školách a zasnažíme se o posílení spolupráce, komunikace i důvěry mezi vedením škol, samosprávou, učiteli a rodiči. 
 
-**Smysluplné trávení volného času dětí a mládeže** má naši velkou pozornost. Budeme aktivně vyhledávat dotační příležitosti pro budování dětských skupin a budeme podporou organizacím, které se věnují vzdělávání, zájmovým činnostem a trávení volného času dětí. Rozšíříme prázdninový provoz školek.
+**Smysluplné trávení volného času dětí i mládeže** má naši velkou pozornost. Budeme aktivně vyhledávat dotační příležitosti pro budování dětských skupin a budeme podporou organizacím, které se věnují vzdělávání, zájmovým činnostem a trávení volného času dětí i mládeže. Rozšíříme prázdninový provoz školek.
 
 ## ![](/program/img//pece_a_rodina.jpg)
 **SOCIÁLNÍ A RODINNÁ POLITIKA**
 
-Budeme pomáhat a podporovat všechny, kteří se ocitli v nepříznivé sociální situaci, ať už z důvodu věku, ztíženého zdravotního stavu nebo životní krize. Preventivně budeme řešit stavy sociálního vyloučení. Budeme využívat dotační programy k příspěvkům dětem na školní výlety, kroužky, kulturní představení a školy v přírodě. Zajímají nás všechny možnosti seniorských aktivit a mezigeneračního setkávání. Vytvoříme kontaktní a poradenské centrum pro bydlení a sociální služby. Zaměříme se také na dostupnost a rozvoj sítě odlehčovacích služeb všech forem, aby byly v co největší míře poskytovány v domácím prostředí a místní komunitě. Pracovat budeme s lidmi bez domova, pro jejich co nejčasnější návrat k běžnému způsobu života.
+**Budeme pomáhat a podporovat všechny, kteří se ocitli v nepříznivé sociální situaci**, ať už z důvodu věku, ztíženého zdravotního stavu nebo životní krize. 
+
+**Preventivně budeme řešit stavy sociálního vyloučení.** Budeme využívat dotační programy k příspěvkům dětem na obědy, školní výlety, kroužky, kulturní představení a školy v přírodě. 
+
+**Zajímají nás všechny možnosti seniorských aktivit a mezigeneračního setkávání.** 
+
+**Vytvoříme kontaktní a poradenské centrum pro sociální služby a bydlení.** Zaměříme se také na nabídku sociálních a terénních pečovatelských služeb, dostupnost a rozvoj sítě odlehčovacích služeb všech forem, aby byly v co největší míře poskytovány v domácím prostředí a místní komunitě. 
+
+**Pracovat budeme s lidmi bez domova**, nabízet jim práci a sociální podporu pro jejich co nejčasnější návrat k běžnému způsobu života.
 
 ## ![](/program/img//zdravotnictvi.jpg)
 **PREVENCE A DOSTUPNÁ ZDRAVOTNÍ PÉČE**
 
-Předcházet nemocem, to je nejúčinnější a nejlevnější cesta, jak zefektivnit zdravotní péči. Ať už jde o prevenci civilizačních onemocnění nebo otázky duševního zdraví či dopady závislostí (návykové látky, alkohol, dětská obezita). Proto budeme školy a neziskové organizace zapojovat do preventivních a informativních programů. Budeme aktivně vyhledávat příležitosti, jak rozvíjet a udržovat kvalitu i dostupnost zdravotní péče, zejména vznik dalších dětských ordinací, které v Praze 15 chybí.
+**Preventivní a informativní programy** budeme zapojovat do vzdělávacích programů škol a činností neziskových organizací. Předcházet psychickým problémům a civilizačním nemocem to je nejúčinnější a nejlevnější cesta, jak zefektivnit zdravotní péči. 
+
+**Posílíme důraz na témata související s duševním zdravím, rozvojem a hygienou**, psychologickou podporou ve školách a jiných poradnách, prevencí či zmírněním dopadů závislostí (návykové látky, alkohol, dětská obezita). 
+
+**Kvalitní a dostupná zdravotní péče i síť lékáren** je základním požadavkem na občanskou vybavenost v místě bydliště. Budeme aktivně vyhledávat příležitosti, jak rozvíjet a udržovat kvalitu i dostupnost ambulantních provozů nestátních zdravotnických zařízení, zejména vznik dalších dětských ordinací, které v Praze 15 chybí. 
 
 ## ![](/program/img//kultura.jpg)
 **ŽIVÁ KULTURA**
 
-Uchování kulturních tradic zásadně přispívá k poznání místní historie. Živou kulturu ve městě vnímáme jako důležitý životodárný prvek. Budeme rozvíjet dotační programy pro kulturu a podporovat pořádání společenských i kulturních akcí. Vytvoříme moderní propagační platformu pro kulturní život. Budeme hledat možnosti pro vybudování kulturního centra a také pro pomoc se zabezpečením či sdílením technického vybavení k zajištění akcí.
+**Uchování kulturních tradic** zásadně přispívá k poznání místní historie a k místní sounáležitosti. 
 
-Průhledným dotačním procesem, transparentním a férovým rozdělováním financí přivedeme víc kvalitních zájemců. 
-Zveřejníme údaje o úspěšných žadatelích
+**Živou kulturu** ve městě vnímáme jako důležitý životodárný prvek. Budeme podporovat umění ve veřejném prostoru, vznik kreativních klubů, rozvoj knihovny, pořádání společenských a kulturních akcí, zejména prostřednictvím individuálních dotací a propagace.
+ 
+**Dotační proces pro kulturu** budeme rozvíjet a zprůhledníme jej, budeme transparentně a férově rozdělovat finanční prostředky.
 
+**Moderní propagační platformu mapující kulturní život** vytvoříme. Budeme klást důraz na dobrou komunikaci a kooperaci městské části s místními kulturními aktéry i na přivedení více zájemců k tomu, působit zde na místní scéně.   
+
+**Kulturní centrum a jiná kulturní zázemí** se zasadíme vybudovat nebo vytvořit. Nabídneme pomoc se zabezpečením či sdílením technického vybavení k zajištění akcí.
 
 ## ![](/program/img//sport.jpg)
 **PODPORA SPORTU A ZDRAVÉHO ŽIVOTNÍHO STYLU**
 
-Sportovní vyžití má být dostupné pro každého. Podpora pohybových aktivit a zdravého životního stylu je pro nás důležitá, naší prioritou je vytvoření včasných návyků a pozitivního vztahu ke sportování u dětí a mládeže. Proto se zaměříme na vylepšování a rozšiřování sportovišť, také na jejich bezpečnou pěší nebo dopravní dostupnost. Otevřeme pro veřejnost také školní hřiště. Budeme rozvíjet dotační programy pro sport a podpoříme sportovní akce pro širokou veřejnost.
+**Sportovní vyžití má být dostupné pro každého.** Podpora pohybových aktivit a zdravého životního stylu je pro nás důležitá. Sportovní možnosti dětí a mládeže, vytvoření včasných návyků a pozitivního vztahu ke sportování, je naší prioritou. 
 
-Průhledným dotačním procesem, transparentním a férovým rozdělováním financí přivedeme víc kvalitních zájemců. 
-Zveřejníme údaje o úspěšných žadatelích
+**Máme zájem na tom rozvíjet zejména v dospívajících dětech touhu být aktivní**, vytvořit jim v blízkosti jejich domovů dostatečná zázemí k vzájemnému setkávání, přispět tak k navazování sociálních kontaktů a k základům zdravého životního stylu, a to nejenom organizovanou formou, ale podporou přirozené hry a kamarádských vazeb. 
 
+**Na vylepšování a rozšiřování sportovišť**, také na jejich bezpečnou pěší nebo dopravní dostupnost, se zaměříme. Otevřeme pro veřejnost také školní hřiště. 
+
+**Dotační proces pro sport** budeme rozvíjet a zprůhledníme jej, budeme transparentně a férově rozdělovat finanční prostředky, podpoříme sportovní akce pro širokou veřejnost.
