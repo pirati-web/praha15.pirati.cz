@@ -13,6 +13,7 @@ customizeHeader: true
 {% capture subContent %}
   <h2 class="head-xs md:head-base mt-2 text-center"><strong>Přijďte k volbám 23. - 24. 9. 2022</strong></h2>
   <h2 class="head-xs md:head-base mt-2 text-center"><strong>a volte celou naší kandidátní listinu číslo 5!</strong></h2>
-  _Poprvé v Praze 15 samostatně! Představujeme vám tým lidí s erudicí a odborníků svých profesí, kteří mají odvahu vyjít ze své komfortní zóny, spravovat veřejné věci poctivě a slušně, naši městskou část rozvíjet ve zdravé životní a komunitní prostředí._
+  <h2 class="head-xs md:head-base mt-2 text-center">Poprvé v Praze 15 samostatně! Představujeme vám tým lidí s erudicí a odborníků svých profesí, kteří mají odvahu vyjít ze své komfortní zóny, spravovat veřejné věci poctivě a slušně, naši městskou část rozvíjet ve zdravé životní a komunitní prostředí.</h2>
+
 {% endcapture %}
 {% include elections-header.html mainContent=mainContent subContent=subContent %}
