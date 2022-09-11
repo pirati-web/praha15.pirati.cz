@@ -6,12 +6,13 @@ titles:
 category:
 ordpms: 1
 description: specialista, operátor skladu
-img: people/bily.png
+img: people/kasak-viktor.png
 heroImg: praha-15.jpg
 mail:
   - 
 mob:
 profiles:
   facebook:
-  #calendar: 
+  #calendar:
+profession: specialista, operátor skladu
 ---
