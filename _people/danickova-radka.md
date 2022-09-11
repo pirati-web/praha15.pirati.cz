@@ -22,6 +22,8 @@ profession: ekonomka v soukromé i veřejné sféře
 
 Radka Daníčková (* 1971) pochází z východočeského Letohradu a od dob vysokoškolských studií žije i pracuje v Praze. Vystudovala ekonomii a management na Provozně ekonomické fakultě ČZU v Praze. Má dlouholetou praxi jako ekonomka a hlavní účetní obchodně – výrobní společnosti. 
 
+S mladou rodinou žila na Vinohradech jako předchozí generace Daníčků od 60tých let. V roce 2014 založili vlastní bydlení dále centru po ose metra A a tram 22 v Hostivaři. To však způsobilo pohyb následujících událostí. Nespokojeně přihlížela devastaci zeleně a přírody, nekoncepční a přebujelé výstavbě, nedostatečné veřejné vybavenosti. Zapojila se do občanského dění.
+
 V roce 2018 kandidovala do zastupitelstva městské části Praha 15 v rámci volebního uskupení Patnáctka náš domov. Jako pirátská kandidátka obdržela od voličů vůbec nejvíce hlasů. Tato projevená důvěra, zastávání zastupitelského mandátu a veškerá témata veřejné správy ji pohltily na tolik, že se v roce 2019 rozhodla ve své profesi a předmětu účetnictví tak trošku změnit kurs. Nastoupila jako hlavní účetní/ekonomka/rozpočtářka v jedné z pražských městských částí a prošla vlastním rekvalifikačním procesem ve finančním hospodaření uzemních samosprávných celků a jeho přezkumu.
 
 Svůj volný čas věnuje rodině a přátelům. Ráda jej vyplňuje poznáváním a sportem, nejlépe v přírodě. Spoluorganizuje amatérský volejbal. Po celý rok ji můžete potkat při procházkách a na cyklistických vyjížďkách, v zimě na běžkařských tratích. Ráda též relaxuje při různých kulturních příležitostech, tanci a četbě.
