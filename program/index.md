@@ -48,7 +48,7 @@ Budeme důsledně a hospodárně spravovat obecní majetek a veřejná prostrans
 ## ![](/program/img//mhd.jpg)
 **USNADŇUJÍCÍ, NIKOLIV ZATĚŽUJÍCÍ, DOPRAVA**
 
-**Moderní doprava** je plynulá, rychlá, bezpečná a ekologická. Taková přispívá ke zkvalitnění života a k nezatěžování životního prostředí. Proto je třeba odvést dopravu z hustě obydlených oblastí, inteligentní řízení dopravy a promyšlený systém parkování. Vše v souladu s rozvojem dopravy pod pirátským vedením Prahy za poslední čtyři roky, např. zahájení výstavby nové linky metra D, prodloužení tram trati do smyčky Depo Hostivař, nová P+R parkovací místa u nádraží Hostivař. 
+**Moderní doprava** je plynulá, rychlá, bezpečná a ekologická. Taková přispívá ke zkvalitnění života a k nezatěžování životního prostředí. Proto je třeba odvést dopravu z hustě obydlených oblastí, inteligentní řízení dopravy a promyšlený systém parkování. 
 
 **Prodloužení metra A** do Hostivaře a dále až do Petrovic s navázáním městských spojů budeme prosazovat. 
 
