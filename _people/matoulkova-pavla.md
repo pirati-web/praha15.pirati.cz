@@ -15,7 +15,8 @@ mob:
 profession: manažer obchodního týmu
 ---
 
-Pavla Matoulková (*1988), roz. Ouběchová, prožila dětství v Horních Mecholupech a nyni žije s rodinou v Hostivaři. Vystudovala vysokou školu se zaměřením na ekonomii a management a část studia strávila ve Skotsku. Již od studií pracuje v oblasti marketingu a obchodu. Má za sebou pracovní zkušenosti z několika mezinárodních společností. 
+Pavla Matoulková (* 1988), roz. Ouběchová, žila od narození v Horních Měcholupech. Se svoji mladou rodinou si pořídili bydlení v Hostivaři. Vystudovala vysokou školu se zaměřením na ekonomii a management, část studia strávila ve Skotsku. Již od studií pracuje v oblasti marketingu a obchodu. Má za sebou pracovní zkušenosti z několika mezinárodních společností. 
+
+Zajímá se o oblast školství a vzdělávání, také o možnosti sociálních služeb v Praze 15, jejich rozvoj i zlepšení.
 
 Svůj volný čas ráda tráví v přírodě, věnuje se sportu nebo cestování.
-
