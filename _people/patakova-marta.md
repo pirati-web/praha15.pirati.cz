@@ -26,4 +26,3 @@ Jako pedagog a maminka se denně setkává s velkou potřebou rodin s malými d�
 
 Svůj volný čas nejraději tráví se svými blízkými v přírodě.
 
-*„Proč Piráti? Piráti prosazují rozhodování založené na analýze dat, nikoliv na ne na ideologických předsudcích, prosazují transparentnost a nastavení nových procesů moderní společnosti a jsou zároveň liberální i sociálně citliví. Nebojí se jít proti proudu a být odlišní."*
