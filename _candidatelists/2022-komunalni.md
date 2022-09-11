@@ -33,13 +33,13 @@ head:
     age: 58
     profession: OSVČ - průvodce v cestovním ruchu, podolog
     partyUid: bezpp   
-
-tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete vynechat  # věk se uvádí k poslednímu dni voleb
 # 7.
   - uid: patakova.marta
     age: 41
     profession: lektorka v rodinném centru, pedagog MŠ
     partyUid: bezpp
+
+tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete vynechat  # věk se uvádí k poslednímu dni voleb
 # 8.
   - uid: bauer.jiri
     age: 26
