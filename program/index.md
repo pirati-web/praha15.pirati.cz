@@ -15,7 +15,7 @@ Chceme rozumný a udržitelný rozvoj městské části, který vedle bydlení p
 
 Budeme důsledně a hospodárně spravovat obecní majetek a veřejná prostranství, kontrolovat hospodaření a investovat do rozvoje za využití dotačních titulů.
 
-***Koncept města krátkých vzdáleností** rozvíjíme napříč celým naším programem. Zlepšuje podmínky pro život díky dostupnosti všech potřeb jako jsou pracovní příležitosti, drobné obchody, služby, zdravotní péče, školská zařízení, sportovní nebo rekreční možnosti co nejblíže místu bydliště. Budeme vyjednávat s developery, aby se na takové občanské vybavenosti také podíleli. Budeme hledat příležitosti, jak do Prahy 15 přilákat více podnikatelů a zaměstnavatelů.*
+***Koncept města krátkých vzdáleností** rozvíjíme napříč celým naším programem. Zlepšuje podmínky pro život díky dostupnosti všech potřeb jako jsou pracovní příležitosti, drobné obchody, služby, zdravotní péče, školská zařízení, sportovní nebo rekreční možnosti co nejblíže místu bydliště. Budeme vyjednávat s investory, aby se na takové občanské vybavenosti také podíleli. Budeme hledat příležitosti, jak do Prahy 15 přilákat více podnikatelů a zaměstnavatelů.*
 
 ## ![](/program/img//zivotni_prostredi.jpg)
 **PÉČE O KVALITNÍ ŽIVOTNÍ PROSTŘEDÍ ZAČÍNÁ TAM, KDE ŽIJEME**
@@ -31,13 +31,13 @@ Budeme důsledně a hospodárně spravovat obecní majetek a veřejná prostrans
 ## ![](/program/img//bydleni.jpg)
 **DOSTUPNÉ BYDLENÍ PRO SPOKOJENÝ ŽIVOT**
 
-Domov je zárukou spokojenosti. Bydlet potřebuje každý a obecní bydlení může poskytnout zázemí od znevýhodněných rodin a jednotlivců, přes rodiny se středními příjmy, seniory až po potřebná povolání. 
+**Domov je zárukou spokojenosti.** Bydlet potřebuje každý a městské bydlení může poskytnout zázemí od znevýhodněných rodin a jednotlivců, přes rodiny se středními příjmy, seniory až po potřebná povolání. 
 
-Zpřehledníme pravidla pro nakládání s bytovým fondem, aby pomoc při zajištění odpovídajícího bydlení byla maximálně adresná a sociálně citlivá.
+**Pravidla pro nakládání s bytovým fondem** zpřehledníme, aby pomoc při zajištění odpovídajícího bydlení byla maximálně adresná a sociálně citlivá.
 
-Budeme pečovat o stávající bytový fond a půjdeme vstříc příležitostem k jeho rozšiřování i rozvíjení. Posílíme vyjednávací pozici ve vztahu k developerům, naší prioritou bude v developerských projektech získávat nové obecní byty a prostory pro drobné obchody, služby či lékařské ordinace. 
+**O stávající bytový fond budeme pečovat** a půjdeme vstříc příležitostem k jeho rozšiřování i rozvíjení. Posílíme vyjednávací pozici ve vztahu k developerům, naší prioritou bude v developerských projektech získávat nové městské byty a prostory pro drobné obchody, služby či lékařské ordinace. 
 
-Vytvoříme kontaktní centrum pro bydlení a sociální služby, kterým propojíme dvě veřejné služby i činnost příslušných odborů úřadu městské části, úřadu práce a poskytovatelů sociálních služeb. Zprostředkujeme pomoc občanům v jejich problematické bytové či sociální situaci, se speciálním zaměřením na rodiny s dětmi. 
+**Vytvoříme kontaktní centrum pro bydlení a sociální služby**, kterým propojíme dvě veřejné služby i činnost příslušných odborů úřadu městské části, úřadu práce a poskytovatelů sociálních služeb. Zprostředkujeme pomoc občanům v jejich problematické bytové či sociální situaci, se speciálním zaměřením na rodiny s dětmi. 
 
 ## ![](/program/img//mhd.jpg)
 **USNADŇUJÍCÍ, NIKOLIV ZATĚŽUJÍCÍ, DOPRAVA**
