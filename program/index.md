@@ -50,15 +50,17 @@ Budeme důsledně a hospodárně spravovat obecní majetek a veřejná prostrans
 
 **Moderní doprava** je plynulá, rychlá, bezpečná a ekologická. Taková přispívá ke zkvalitnění života a k nezatěžování životního prostředí. Proto je třeba odvést dopravu z hustě obydlených oblastí, inteligentní řízení dopravy a promyšlený systém parkování. Vše v souladu s rozvojem dopravy pod pirátským vedením Prahy za poslední čtyři roky, např. zahájení výstavby nové linky metra D, prodloužení tram trati do smyčky Depo Hostivař, nová P+R parkovací místa u nádraží Hostivař. 
 
-**Odvedení tranzitní dopravy** mimo obydlené lokality městské části bude naší hlavní snahou.
+**Prodloužení metra A** do Hostivaře a dále až do Petrovic s navázáním městských spojů budeme prosazovat. 
 
-**Prodloužení metra A** do Hostivaře a dále až do Petrovic s navázáním městských spojů budeme prosazovat.
+**Odvedení tranzitní dopravy** mimo obydlené lokality městské části bude naší hlavní snahou. 
+
+**Zajištění dostatku parkovacích míst** pro rezidenty, řemeslníky a osoby se zdravotním postižením budeme koordinovat s využíváním parkovacích kapacit na parkovištích P+R dojíždějícími do Prahy a velkokapacitních parkovišť mimo místní ulice provozovately firemních dodávek. Zaměříme se na možnost nočního parkování u obchodních domů. Budeme prosazovat, aby ve větších developerských záměrech vznikaly parkovací stání k prodeji nebo k dlouhodobému pronájmu pro obyvatele z okolních sídlišť. 
 
 **Městskou hromadnou dopravu i významnější zapojení nízkoemisních a tišších vozidel MHD** budeme preferovat. Zejména individuální automobilová doprava představuje největší zátěž pro čisté ovzduší v celé Praze. Považujeme za klíčové posilovat veřejnou dopravu, aby ji každý rád využíval a dal ve většině případů přednost před jízdou autem. Ve spolupráci s MHMP a Ropid budeme zvyšovat obslužnost a optimalizovat frekvenci spojů.
 
 **Podmínky pro chodce** budeme zlepšovat a **pohyb pro cyklisty** usnadňovat. Klíčovou pro nás je dobrá prostupnost jednotlivými lokalitami městské části. Zrevidujeme chodníkový systém a budeme aktivně spolupracovat s městskou společností TSK na plánu postupných oprav i bezbariérových úprav chodníků a přechodů. Budeme pracovat s celoměstským systémem cyklotras a s generelem bezmotorové dopravy městské části Prahy 15 z roku 2018. 
 
-**Bezpečnost všech účastníků provozu**, zejména chodců jako těch nejzranitelnějších, je pro nás prioritou. Zaměříme se na smysluplnost dopravního značení, po jeho pasportizaci budeme cílit na minimalizaci množství dopravního značení a na nastavení místních úprav provozu, aby zohledňovala zejména potřeby rezidentů. 
+**Bezpečnost všech účastníků provozu**, zejména chodců jako těch nejzranitelnějších, je pro nás prioritou. Budeme cílit na minimalizaci množství dopravního značení a zaměříme se na nastavení místních úprav provozu, aby zohledňovala zejména potřeby rezidentů. 
 
 ## ![](/program/img//otevrena_radnice.jpg)
 **MODERNÍ A OTEVŘENÁ RADNICE, KTERÁ HÁJÍ ZÁJMY OBČANŮ**
