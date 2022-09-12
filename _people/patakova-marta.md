@@ -6,7 +6,7 @@ titles:
 category:
  - priznivci
 ordpms: 1
-description: Lektorka v rodinném centru, pedagog MŠ, péče o rodinu a děti, Košík 
+description: Lektorka v rodinném centru, pedagog MŠ, péče o rodinu a děti, Hostivař 
 img: people/patakova-marta.png
 heroImg: praha-15.jpg
 mail:
