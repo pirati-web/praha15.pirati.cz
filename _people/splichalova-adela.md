@@ -6,12 +6,13 @@ titles:
 category:
 ordpms: 1
 description: projektová manažerka v bankovnictví
-img: people/bily.png
+img: people/splichalova-adela.png
 heroImg: praha-15.jpg
 mail:
   - 
 mob:
 profiles:
   facebook:
-  #calendar: 
+  #calendar:
+profession: projektová manažerka v bankovnictví
 ---
