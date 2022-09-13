@@ -11,7 +11,7 @@ description: Klinické hodnocení léčiv, Doprava, územní rozvoj a životní 
 img: people/petlach-michal.png
 heroImg: praha-15.jpg
 mail:
-  - Michal.Petlach@seznam.cz
+  - m.petlach@seznam.cz
 mob: +420 773 893 717
 profiles:
   facebook: https://www.facebook.com/petlachm
