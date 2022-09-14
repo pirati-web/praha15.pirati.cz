@@ -130,13 +130,13 @@ Budeme důsledně a hospodárně spravovat obecní majetek a veřejná prostrans
 
 **Uchování kulturních tradic** zásadně přispívá k poznání místní historie a k místní sounáležitosti. 
 
-**Živou kulturu** ve městě vnímáme jako důležitý životodárný prvek. Budeme podporovat umění ve veřejném prostoru, vznik kreativních klubů, rozvoj knihovny, pořádání společenských a kulturních akcí, zejména prostřednictvím individuálních dotací a propagace.
+**Kulturu ve městě** vnímáme jako důležitý aktivní a životodárný prvek. Budeme podporovat tradice, umění a výstavy ve veřejném prostoru, vznik kreativních klubů, rozvoj knihovny, pořádání společenských a kulturních akcí.
  
 **Dotační proces pro kulturu** budeme rozvíjet a zprůhledníme jej, budeme transparentně a férově rozdělovat finanční prostředky.
 
-**Moderní propagační platformu mapující kulturní život** vytvoříme. Budeme klást důraz na dobrou komunikaci a kooperaci městské části s místními kulturními aktéry i na přivedení více zájemců k tomu, působit zde na místní scéně.   
+**Moderní informační a propagační platformu mapující kulturní život** vytvoříme. Budeme klást důraz na dobrou komunikaci a kooperaci městské části s místními kulturními aktéry i na přivedení více zájemců k tomu působit zde na místní scéně.   
 
-**Kulturní centrum a jiná kulturní zázemí** se zasadíme vybudovat nebo vytvořit. Nabídneme pomoc se zabezpečením či sdílením technického vybavení k zajištění akcí.
+**K vybudování kulturního centra či jiných kulturních zázemí** budeme hledat možnosti. Nabídneme pomoc se zabezpečením nebo se sdílením technického vybavení k zajištění akcí.
 
 ## ![](/program/img//sport.jpg)
 **PODPORA SPORTU A ZDRAVÉHO ŽIVOTNÍHO STYLU**
