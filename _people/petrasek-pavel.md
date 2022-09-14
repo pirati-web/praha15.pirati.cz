@@ -24,7 +24,7 @@ Pavel Petrášek (* 1982) je učitel fyziky a matematiky. Pro tuto práci se roz
 
 Od roku 2005 působí na pražských středních školách. V letech 2002 - 2019 byl také fotbalovým rozhodčím. O politiku se zajímá od gymnázia. K Pirátům se přidal především kvůli prosazování transparentnosti, kterou považuje za nejdůležitější pro fungování jakéhokoliv celku. Přirozeně se také zajímá o školství, které by chtěl mít takové, aby co nejvíce rozvíjelo nadání jednotlivců a současně podporovalo schopnosti práce v týmech. 
 
-V současné době je jeho největším koníčkem dcera Anna (* 2018). Ve svém volném čase rád cestuje s rodinou po Čechách. Nejraději má rozhledny ukryté v lesích. 
+Ve svém volném čase rád cestuje s rodinou po Čechách. Nejraději má rozhledny ukryté v lesích. 
 
 ## Aktivity:
 - 8/2018 registrovaný příznivec Pirátů (Rezortní tým pro Školství, volný čas, vědu a výzkum)
