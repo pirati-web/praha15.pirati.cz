@@ -143,7 +143,7 @@ Budeme důsledně a hospodárně spravovat obecní majetek a veřejná prostrans
 
 **Sportovní vyžití má být dostupné pro každého.** Podpora pohybových aktivit a zdravého životního stylu je pro nás důležitá. Sportovní možnosti dětí a mládeže, vytvoření včasných návyků a pozitivního vztahu ke sportování, je naší prioritou. 
 
-**Máme zájem na tom rozvíjet zejména v dospívajících dětech touhu být aktivní**, vytvořit jim v blízkosti jejich domovů dostatečná zázemí k vzájemnému setkávání, přispět tak k navazování sociálních kontaktů a k základům zdravého životního stylu, a to nejenom organizovanou formou, ale podporou přirozené hry a kamarádských vazeb. 
+**Máme zájem na tom rozvíjet v dětech touhu být aktivní**, vytvořit jim v blízkosti jejich domovů dostatečná zázemí k vzájemnému setkávání a přispět tak k navazování sociálních kontaktů mezi nimi, a to nejenom organizovanou formou, ale podporou přirozené hry a kamarádských vazeb. 
 
 **Na vylepšování a rozšiřování sportovišť**, také na jejich bezpečnou pěší nebo dopravní dostupnost, se zaměříme. Otevřeme pro veřejnost také školní hřiště. 
 
