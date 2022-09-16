@@ -58,7 +58,7 @@ tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete v
 # 11.
   - uid: kasak.viktor
     age: 21
-    profession: specialista, operátor skladu
+    profession: specialista logistiky
     partyUid: bezpp
 # 12.
   - uid: prancl.jan
