@@ -8,8 +8,7 @@ ordpms: 1
 description: sport a volnočasové aktivity, Hostivař
 img: people/kasak-viktor.png
 heroImg: praha-15.jpg
-mail: kasakviktor@seznam.cz
-  - 
+mail: kasakviktor@seznam.cz 
 mob:
 profiles:
   facebook: https://www.facebook.com/viktor.kasak.7
