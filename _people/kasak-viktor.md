@@ -14,7 +14,7 @@ mob:
 profiles:
   facebook: https://www.facebook.com/viktor.kasak.7
   #calendar:
-profession: specialista, operátor skladu
+profession: specialista logistiky
 ---
 
 Viktor Kašák (* 2001) žije v Hostivaři od narození. Vystudoval místní Střední školu automobilní a informatiky ve Weilově ulici. Do roku 2019 se věnoval závodní atletice - běhu na 60, 100 a 200 metrů. S atletikou začínal na ASK Slavia Praha, následně byla jeho domovským oddílem Atletika Jižní Město a hostoval také za klub AC Sparta Praha. Byl 3x vícemistrem republiky ve štafetě. Profesně se vypracoval na specialistu logistiky pro dodavatelské řetězce a operátora skladu.
