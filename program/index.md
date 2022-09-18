@@ -73,7 +73,7 @@ Budeme důsledně a hospodárně spravovat obecní majetek a veřejná prostrans
 
 **Zprůhledníme řádné hospodaření městské části.** V zobrazení CityVizor umožníme rozklikávat rozpočet městské části až na úroveň faktur, shodně jako tč. u některých jiných městských částí a hl. m. Prahy. Na webu městské části vystavíme uzavřené smlouvy. 
 
-**Efektivní správa majetku a investice do rozvoje.** Prodej majetku městské části opravdu není naší prioritou. Naopak, zcelování pozemků ve prospěch městské části a vyhledávání možností vlastních akvizic jsou pro nás základem pracovat na rozvoji městské části.
+**Efektivní správa majetku a investice do rozvoje.** Prodej majetku městské části opravdu není naší prioritou. Naopak, zcelování pozemků ve prospěch městské části a vyhledávání možností vlastních akvizic jsou pro nás základem pro práci na rozvoji městské části.
 
 **Nepřipustíme nekalá jednání, střet zájmů a korupci zastupitelů či úředníků.** Zakládáme si na poctivém a slušném přístupu ve všech směrech a činnostech.
 
