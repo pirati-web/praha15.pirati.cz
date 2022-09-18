@@ -80,11 +80,11 @@ Budeme důsledně a hospodárně spravovat obecní majetek a veřejná prostrans
 ## ![](/program/img//uzemni_planovani.jpg)
 **ZDRAVÝ SOUSEDSKÝ PROSTOR**
 
-**I občan města má právo žít ve zdravém prostředí.** Proto Patnáctka pro život. Proto zdravé životní a komunitní prostředí.
+**Také obyvatel města má právo žít ve zdravém prostředí.** Proto Patnáctka pro život. Proto zdravé životní a komunitní prostředí.
 
 **Nabídneme občanům a sousedům možnosti zapojit se** do zadání, hodnocení a rozhodování o nových projektech městské části. Vyčleníme vyšší částku participativního rozpočtu pro nápady samotných občanů a jejich vlastní vylepšení veřejných prostranství.
 
-**Komunitní život podpoříme**, také jako prevenci sociálního vyloučení. Zaměříme se na vybudování komunitního centra, které by nabídlo prostor ke společenským aktivitám různých věkových kategorií – pro dětské skupiny, zájmové kroužky, rodinné oslavy či seniorské dýchánky a také mezigenerační setkávání. 
+**Podpoříme komunitní život**, také jako prevenci sociálního vyloučení. Zaměříme se na vybudování komunitního centra, které by nabídlo prostor ke společenským aktivitám různých věkových kategorií – pro dětské skupiny, zájmové kroužky, rodinné oslavy či seniorské dýchánky a také mezigenerační setkávání. 
 
 **Hodnoty i činnost spolků, občanských iniciativ a místních skupin** nejsou v tržním prostředí plně ocenitelné penězi a zaslouží si naše neustálé povzbuzování i pomoc s vyhledáváním možností financování jejich aktivit i účelových grantů. 
 
