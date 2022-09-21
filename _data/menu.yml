@@ -17,7 +17,7 @@ main:
     link: /lide/
   - name: Komunální volby 2022
     submenu:
-      - name: Kandidátní listina Piráti a občané Prahy 15
+      - name: Kandidátní listina <b>Piráti a občané Prahy 15</b>
         link: /volby/2022-komunalni.html
       - name: Volební program Piráti a občané Prahy 15
         link: /program/
