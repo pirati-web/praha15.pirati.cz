@@ -7,7 +7,7 @@ category:
   - clenove
   - kandidat-obec
 ordpms: 1
-description: Product manager
+description: Product manager, Petrovice
 img: people/zavadil-jan.png
 heroImg: praha-15.jpg
 mail:
