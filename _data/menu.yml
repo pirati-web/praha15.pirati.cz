@@ -20,7 +20,7 @@ main:
       - name: Kandidátní listina <b>Piráti a občané Prahy 15</b>
         link: /volby/2022-kandidatni-listina.html
       - name: Volební program <b>Piráti a občané Prahy 15</b>
-        link: /program/
+        link: /volby/2022-program.html
   - name: Pirátské listy
     link: https://a.pirati.cz/praha15/plisty-2022-leto/#plisty/page1
   - name: Kontakt
