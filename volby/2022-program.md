@@ -17,7 +17,7 @@ Budeme důsledně a hospodárně spravovat obecní majetek a veřejná prostrans
 
 ***Koncept města krátkých vzdáleností** rozvíjíme napříč celým naším programem. Zlepšuje podmínky pro život díky dostupnosti všech potřeb jako jsou pracovní příležitosti, drobné obchody, služby, zdravotní péče, školská zařízení, sportovní nebo rekreční možnosti co nejblíže místu bydliště. Budeme vyjednávat s investory, aby se na takové občanské vybavenosti také podíleli. Budeme hledat příležitosti, jak do Prahy 15 přilákat více podnikatelů a zaměstnavatelů.*
 
-## ![](/program/img//zivotni_prostredi.jpg)
+## ![](/volby/img//zivotni_prostredi.jpg)
 **PÉČE O KVALITNÍ ŽIVOTNÍ PROSTŘEDÍ ZAČÍNÁ TAM, KDE ŽIJEME**
 
 **Chceme, aby Patnáctka zůstala zelená a modrá**, a byla tak příjemným místem pro život. Kvalita života je totiž neoddělitelná od kvality prostoru, ve kterém se pohybujeme. 
@@ -34,7 +34,7 @@ Budeme důsledně a hospodárně spravovat obecní majetek a veřejná prostrans
 
 **K udržitelnému chování** k našemu životnímu prostředí budeme motivovat také developery a investory.
 
-## ![](/program/img//bydleni.jpg)
+## ![](/volby/img//bydleni.jpg)
 **DOSTUPNÉ BYDLENÍ PRO SPOKOJENÝ ŽIVOT**
 
 **Domov je zárukou spokojenosti.** Bydlet potřebuje každý a městské bydlení může poskytnout zázemí od znevýhodněných rodin a jednotlivců, přes mladé rodiny s dětmi, seniory až po potřebná povolání. 
@@ -45,7 +45,7 @@ Budeme důsledně a hospodárně spravovat obecní majetek a veřejná prostrans
 
 **Vytvoříme kontaktní centrum pro bydlení a sociální služby**, kterým propojíme dvě veřejné služby i činnost příslušných odborů úřadu městské části, úřadu práce a poskytovatelů sociálních služeb. Zprostředkujeme pomoc občanům v jejich problematické bytové či sociální situaci, se speciálním zaměřením na rodiny s dětmi. 
 
-## ![](/program/img//mhd.jpg)
+## ![](/volby/img//mhd.jpg)
 **USNADŇUJÍCÍ, NIKOLIV ZATĚŽUJÍCÍ, DOPRAVA**
 
 **Moderní doprava** je plynulá, rychlá, bezpečná a ekologická. Taková přispívá ke zkvalitnění života a k nezatěžování životního prostředí. Proto je třeba odvést dopravu z hustě obydlených oblastí, inteligentní řízení dopravy a promyšlený systém parkování. 
@@ -62,7 +62,7 @@ Budeme důsledně a hospodárně spravovat obecní majetek a veřejná prostrans
 
 **Bezpečnost všech účastníků provozu**, zejména chodců jako těch nejzranitelnějších, je pro nás prioritou. Budeme cílit na minimalizaci množství dopravního značení a zaměříme se na nastavení místních úprav provozu, aby zohledňovala zejména potřeby rezidentů. 
 
-## ![](/program/img//otevrena_radnice.jpg)
+## ![](/volby/img//otevrena_radnice.jpg)
 **MODERNÍ A OTEVŘENÁ RADNICE, KTERÁ HÁJÍ ZÁJMY OBČANŮ**
 
 **Přívětivý úřad** je pro nás dobře dostupným, informovaným a komunikativním partnerem. Budeme zlepšovat a zefektivňovat jeho služby i průběžnou komunikaci s občany. Otevřeme radniční média jako je Hlasatel a Mobilní rozhlas. Provedeme pasport informativních vývěsek. Usilovat budeme o příjemné pracovní prostředí pro zaměstnance.
@@ -77,7 +77,7 @@ Budeme důsledně a hospodárně spravovat obecní majetek a veřejná prostrans
 
 **Nepřipustíme nekalá jednání, střet zájmů a korupci zastupitelů či úředníků.** Zakládáme si na poctivém a slušném přístupu ve všech směrech a činnostech.
 
-## ![](/program/img//uzemni_planovani.jpg)
+## ![](/volby/img//uzemni_planovani.jpg)
 **ZDRAVÝ SOUSEDSKÝ PROSTOR**
 
 **Také obyvatel města má právo žít ve zdravém prostředí.** Proto Patnáctka pro život. Proto zdravé životní a komunitní prostředí.
@@ -90,7 +90,7 @@ Budeme důsledně a hospodárně spravovat obecní majetek a veřejná prostrans
 
 **Zahradničení a samopěstitelství ve městě**, vznik a provoz komunitních zahrad, budeme podporovat. Pokusíme se oživit projekt farmářských trhů. 
 
-## ![](/program/img//vzdelavani_a_skolstvi.jpg)
+## ![](/volby/img//vzdelavani_a_skolstvi.jpg)
 **KVALITNÍ ŠKOLSTVÍ A VZDĚLÁVÁNÍ**
 
 **Sázíme na tvořivost a svobodné myšlení.** Proto podpoříme školy, aby vytvářely přátelské a inspirující prostředí, kde mohou všechny žáci naplno rozvíjet svůj potenciál a učit se spolupracovat v týmu. 
@@ -103,7 +103,7 @@ Budeme důsledně a hospodárně spravovat obecní majetek a veřejná prostrans
 
 **Smysluplné trávení volného času dětí i mládeže** má naši velkou pozornost. Budeme aktivně vyhledávat dotační příležitosti pro budování dětských skupin a budeme podporou organizacím, které se věnují vzdělávání, zájmovým činnostem a trávení volného času dětí i mládeže. Rozšíříme prázdninový provoz školek.
 
-## ![](/program/img//pece_a_rodina.jpg)
+## ![](/volby/img//pece_a_rodina.jpg)
 **SOCIÁLNÍ A RODINNÁ POLITIKA**
 
 **Budeme pomáhat a podporovat všechny, kteří se ocitli v nepříznivé sociální situaci**, ať už z důvodu věku, ztíženého zdravotního stavu nebo životní krize. 
@@ -116,7 +116,7 @@ Budeme důsledně a hospodárně spravovat obecní majetek a veřejná prostrans
 
 **Pracovat budeme s lidmi bez domova**, nabízet jim práci a sociální podporu pro jejich co nejčasnější návrat k běžnému způsobu života.
 
-## ![](/program/img//zdravotnictvi.jpg)
+## ![](/volby/img//zdravotnictvi.jpg)
 **PREVENCE A DOSTUPNÁ ZDRAVOTNÍ PÉČE**
 
 **Preventivní a informativní programy** budeme zapojovat do vzdělávacích programů škol a činností neziskových organizací. Předcházet psychickým problémům a civilizačním nemocem to je nejúčinnější a nejlevnější cesta, jak zefektivnit zdravotní péči. 
@@ -125,7 +125,7 @@ Budeme důsledně a hospodárně spravovat obecní majetek a veřejná prostrans
 
 **Kvalitní a dostupná zdravotní péče i síť lékáren** je základním požadavkem na občanskou vybavenost v místě bydliště. Budeme aktivně vyhledávat příležitosti, jak rozvíjet a udržovat kvalitu i dostupnost ambulantních provozů nestátních zdravotnických zařízení, zejména vznik dalších dětských ordinací, které v Praze 15 chybí. 
 
-## ![](/program/img//kultura.jpg)
+## ![](/volby/img//kultura.jpg)
 **ŽIVÁ KULTURA**
 
 **Uchování kulturních tradic** zásadně přispívá k poznání místní historie a k místní sounáležitosti. 
@@ -138,7 +138,7 @@ Budeme důsledně a hospodárně spravovat obecní majetek a veřejná prostrans
 
 **K vybudování kulturního centra či jiných kulturních zázemí** budeme hledat možnosti. Nabídneme pomoc se zabezpečením nebo se sdílením technického vybavení k zajištění akcí.
 
-## ![](/program/img//sport.jpg)
+## ![](/volby/img//sport.jpg)
 **PODPORA SPORTU A ZDRAVÉHO ŽIVOTNÍHO STYLU**
 
 **Sportovní vyžití má být dostupné pro každého.** Podpora pohybových aktivit a zdravého životního stylu je pro nás důležitá. Sportovní možnosti dětí a mládeže, vytvoření včasných návyků a pozitivního vztahu ke sportování, je naší prioritou. 
