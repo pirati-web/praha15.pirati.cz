@@ -4,6 +4,7 @@ name: Viktor Kašák
 titles:
   before:
 category:
+ - priznivci
 ordpms: 1
 description: sport a volnočasové aktivity, Hostivař
 img: people/kasak-viktor.png
