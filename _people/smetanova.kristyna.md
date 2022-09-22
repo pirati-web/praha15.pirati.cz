@@ -6,12 +6,13 @@ titles:
 category:
 ordpms: 1
 description: studentka Právnické fakulty UK
-img: people/bily.png
+img: people/smetanova-kristyna.png
 heroImg: praha-15.jpg
 mail:
   - 
 mob:
 profiles:
   facebook:
-  #calendar: 
+  #calendar:
+profession: studentka Právnické fakulty UK
 ---
