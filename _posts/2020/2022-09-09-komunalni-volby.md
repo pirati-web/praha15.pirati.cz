@@ -1,5 +1,5 @@
 ---
-date: 2022-09-09
+date: 2022-09-23
 category: blog
 tags: 
   - Volby 2022
