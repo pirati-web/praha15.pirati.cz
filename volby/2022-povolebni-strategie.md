@@ -66,14 +66,14 @@ Bez ohledu na rozložení mandátů jsme připraveni spolupracovat na prosazení
 • [volebním programem](https://praha15.pirati.cz/volby/2022-program.html) 
 •	[pirátským kodexem zastupitele](https://wiki.pirati.cz/program/kodex_zastupitele) 
 •	[pirátským demokratickým minimem](https://wiki.pirati.cz/program/minimum) 
-a zveřejní výši odměny za veřejné funkce [zde](https://nalodeni.pirati.cz/odmeny/) 
+a zveřejní výši odměny za veřejné funkce [zde](https://nalodeni.pirati.cz/odmeny/). 
 - Po sestavení rady si členové a členky Klubu rozdělí agendy do své působnosti tak, aby byly pokud možno pokryty všechny oblasti.
 -	Hlasování musí být přijata většinou členů Klubu a nesmí být v rozporu s programem volební strany, případně programem koalice a programovým prohlášením rady. V takovém případě se očekává, že klub bude hlasovat na jednání zastupitelstva jednotně.
 -	Klub schvaluje rozdělení funkcí a gescí uvnitř Klubu, volí a odvolává svého předsedu/kyni.
 
 **VZTAH KLUBU K PIRÁTSKÉ STRANĚ** 
-•	Úspěch v komunálních volbách nám dá velký prostor k posílení Pirátské strany a náboru nových členů.
-•	Zastupitelský klub bude pravidelně informovat členskou základnu o své činnosti a výsledcích, stejně tak předsednictvo krajského sdružení.
+- Úspěch v komunálních volbách nám dá velký prostor k posílení Pirátské strany a náboru nových členů.
+- Zastupitelský klub bude pravidelně informovat členskou základnu o své činnosti a výsledcích, stejně tak předsednictvo krajského sdružení.
 
 **VZTAH KLUBU K ZASTUPITELŮM HL. M. PRAHY**
 Piráti se snaží svou práci v politice maximálně sjednocovat. Klub bude usilovat o těsnou komunikaci a oboustrannou komunikaci s týmem Pirátů na magistrátu o záležitostech týkajících se Prahy 15 projednávaných v Zastupitelstvu hl. m. Prahy.
