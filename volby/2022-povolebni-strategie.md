@@ -1,6 +1,6 @@
 ---
 layout: program-post
-title: Patnáctka pro život
+title: 
 campaignCategoryUid: 2022-komunalni
 customizeHeader: true
 ---
