@@ -7,6 +7,7 @@ category:
   - clenove
   - predseda
   - kandidat-obec
+  - zastupitel
 ordpms: 1
 description: Učitel fyziky a matematiky na gymnáziu, Školství, Horní Měcholupy
 img: people/petrasek-pavel2.png
