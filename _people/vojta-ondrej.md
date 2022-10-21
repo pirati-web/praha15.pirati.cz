@@ -2,10 +2,11 @@
 uid: vojta.ondrej
 name: Ondřej Vojta
 titles:
-  before: 
+  before: Bc.
 category:
   - clenove
   - kandidat-obec
+  - zastupitelpe
 ordpms: 1
 description: Kreativec, dobrovolný hasič, Bezpečnost, volný čas, Petrovice
 img: people/vojta-ondrej.png
