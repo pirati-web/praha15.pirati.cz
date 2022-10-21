@@ -6,6 +6,7 @@ titles:
 category:
   - clenove
   - kandidat-obec
+  - zastupitel
 ordpms: 1
 description: Klinické hodnocení léčiv, Doprava, územní rozvoj a životní prostředí, Hostivař – Košík
 img: people/petlach-michal.png
