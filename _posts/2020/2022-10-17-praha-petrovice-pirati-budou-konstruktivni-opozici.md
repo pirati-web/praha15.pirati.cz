@@ -6,8 +6,8 @@ tags:
   - Praha-Petrovice
 layout: post
 author: Piráti Petrovice
-authorId: vojta.ondrej
-title: Praha-Petrovice  Piráti budou konstruktivní opozicí
+authorId: 
+title: Praha-Petrovice - Piráti budou konstruktivní opozicí
 image: articles/2022/2022-10-17-praha-petrovice-pirati-budou-konstruktivni-opozici.md.jpg
 ---
 
