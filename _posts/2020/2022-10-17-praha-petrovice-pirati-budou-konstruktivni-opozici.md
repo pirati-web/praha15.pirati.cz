@@ -8,7 +8,7 @@ layout: post
 author: Piráti Petrovice
 authorId: 
 title: Praha-Petrovice - Piráti budou konstruktivní opozicí
-image: articles/2022/2022-10-17-praha-petrovice-pirati-budou-konstruktivni-opozici.md.jpg
+image: articles/2022/2022-10-17-prahapetrovice-pirati-budou-konstruktivni-opozice.md.jpg
 ---
 
 Na městské části Praha-Petrovice Piráti kandidovali na kandidátní listině spolu se sdružením nezávislých kandidátů pod hlavičkou „Změna – občané Petrovic a Piráti“. Na kandidátní listině figurovali na druhém místě Bc. Ondřej Vojta, na třetím místě Jan Zavadil a na páté pozici Bc. Jakub Nepejchal.
