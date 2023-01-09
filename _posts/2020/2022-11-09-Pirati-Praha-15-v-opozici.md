@@ -8,7 +8,7 @@ layout: post
 author: Praha 15
 authorId: danickova.radka
 title: Piráti Praha 15 v opozici
-image: articles/2022/2022-11-09-Pirati-Praha-15-v-opozici.jpg
+image: articles/2022/2022-11-09-Pirati-Praha-15-v-opozici.jpg.jpg
 ---
 
 PIRÁTI PRAHA 15 V OPOZICI
@@ -29,18 +29,27 @@ Uskupení na platformě stávající koalice **Společně pro Prahu 15 (ODS + TO
 Hnutí ANO po dvou volebních obdobích ve vedení městské části předalo starostenský post zpět ODS. Celkem se na správě městské části podílí sedm zastupitelů uvolněných do své funkce (o jednoho více než v minulém volebním období) a dva zastupitelé neuvolnění (o jednoho více): 
 
 Michal Fischer *starosta* Společně pro Prahu 15 (ODS)
+
 Mgr. Jitka Kolářová *1. místostarostka* ANO
+
 Michal Frauenterka *místostarosta* Společně pro Prahu 15 (ODS)
+
 Ing. Petr Neumann *místostarosta* Společně pro Prahu 15 (TOP 09)
+
 Pavel Pešek *místostarosta* Společně pro Prahu 15 (TOP 09)
+
 David Hájek *místostarosta* ANO
+
 Mgr. Petra Šikýřová *místostarosta* NEZÁVISLÍ
 
 Ing. Pavel Klega *neuvolněný radní* Společně pro Prahu 15 (ODS)
+
 Mgr. Ivan Tomeš *neuvolněný radní* NEZÁVISLÍ 
 
 Pro práci ve výboru zastupitelstva jsou do své funkce také uvolněni:
+
 Lucie Kubesa *předsedkyně Výboru volnočasových aktivit* Společně pro Prahu 15 (ODS)
+
 Ing. Pavel Frydrych *předseda Výboru kontrolního výboru* SPD
 
 *“Naší úlohou bude pracovat z opozice, ve výborech zastupitelstva či v komisích rady, spolupracovat s ostatními zastupiteli a stranami, kontrolovat vedení a vás informovat. Rádi také přivítáme vaše podněty,“* citujeme Radku Daníčkovou.
