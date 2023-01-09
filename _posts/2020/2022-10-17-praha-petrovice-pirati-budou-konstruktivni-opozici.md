@@ -5,7 +5,7 @@ tags:
   - Volby 2022
   - Praha-Petrovice
 layout: post
-author: Piráti Petrovice
+author: Praha-Petrovice
 authorId: 
 title: Praha-Petrovice - Piráti budou konstruktivní opozicí
 image: articles/2022/2022-10-17-prahapetrovice-pirati-budou-konstruktivni-opozice.md.jpg
