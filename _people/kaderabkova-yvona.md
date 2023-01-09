@@ -11,7 +11,7 @@ img: people/kaderabkova-yvona.png
 heroImg: praha-15.jpg
 mail:
   - KYvona@seznam.cz
-mob: +420 606 347 573
+mob:
 profession: OSVČ - průvodce v cestovním ruchu, podolog
 ---
 
