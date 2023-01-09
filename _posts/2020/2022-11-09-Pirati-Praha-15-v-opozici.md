@@ -8,7 +8,7 @@ layout: post
 author: Praha 15
 authorId: danickova.radka
 title: Piráti Praha 15 v opozici
-image: articles/2022/2022-11-09-Pirati-Praha-15-v-opozici.jpeg
+image: articles/2022/2022-11-09-Pirati-Praha-15-v-opozici.jpg
 ---
 
 PIRÁTI PRAHA 15 V OPOZICI
@@ -31,12 +31,12 @@ Hnutí ANO po dvou volebních obdobích ve vedení městské části předalo st
 Michal Fischer *starosta* Společně pro Prahu 15 (ODS)
 Mgr. Jitka Kolářová *1. místostarostka* ANO
 Michal Frauenterka *místostarosta* Společně pro Prahu 15 (ODS)
-Ing. Petr Neumann *místostarosta* Společně pro Prahu 15 (TOP 09) 
-Pavel Pešek *místostarosta* Společně pro Prahu 15 (TOP 09) 
+Ing. Petr Neumann *místostarosta* Společně pro Prahu 15 (TOP 09)
+Pavel Pešek *místostarosta* Společně pro Prahu 15 (TOP 09)
 David Hájek *místostarosta* ANO
 Mgr. Petra Šikýřová *místostarosta* NEZÁVISLÍ
 
-Ing. Pavel Klega *neuvolněný radní* Společně pro Prahu 15 (ODS) 
+Ing. Pavel Klega *neuvolněný radní* Společně pro Prahu 15 (ODS)
 Mgr. Ivan Tomeš *neuvolněný radní* NEZÁVISLÍ 
 
 Pro práci ve výboru zastupitelstva jsou do své funkce také uvolněni:
