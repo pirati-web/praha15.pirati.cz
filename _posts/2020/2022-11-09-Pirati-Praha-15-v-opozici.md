@@ -6,7 +6,7 @@ tags:
   - Praha 15
 layout: post
 author: Praha 15
-authorId: danickova.radka
+authorId: 
 title: Piráti Praha 15 v opozici
 image: articles/2022/2022-11-09-Pirati-Praha-15-v-opozici.jpg.jpg
 ---
