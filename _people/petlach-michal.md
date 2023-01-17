@@ -29,7 +29,7 @@ Ve svém volném čase si všímá zdánlivých detailů, zejména při cestová
 
 ## Aktivity:
 - podpora pirátských kampaní k Eurovolbám a k volbám do PSP ČR
-- 10/2018 registrovaný příznivec Pirátů (Rezortní tým pro územní rozvoj)
+- 10/2018 registrovaný příznivec Pirátů (člen Krajského expertního týmu územní rozvoj)
 - 08/2018 zakládající člen místní skupiny Pirátů
 
 *„Přál bych si, aby se Piráti na místní politické scéně stali nepostradatelným subjektem a partnerem pro ostatní podobně smýšlející politické subjekty, symbolem strany plnící funkci dohledu nad spravedlivým a transparentním vedením státu.“ (2018)*
