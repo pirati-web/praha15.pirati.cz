@@ -28,5 +28,5 @@ Od roku 2005 působí na pražských středních školách. V letech 2002 - 2019
 Ve svém volném čase rád cestuje s rodinou po Čechách. Nejraději má rozhledny ukryté v lesích. 
 
 ## Aktivity:
-- 8/2018 registrovaný příznivec Pirátů (Rezortní tým pro Školství, volný čas, vědu a výzkum)
+- 8/2018 registrovaný příznivec Pirátů (člen Krajského expertního týmu Školství)
 - 4/2018 zakládající člen místní skupiny Pirátů 
