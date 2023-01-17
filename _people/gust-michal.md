@@ -26,4 +26,4 @@ Zajímá se o všechny palčivé problémy dnešní doby, které se ho dotýkaj�
 
 
 ## Aktivity:
-- 2/2021 registrovaný příznivec Pirátů (Rezortní tým pro Dopravu a infrastrukturu)  
+- 2/2021 registrovaný příznivec Pirátů (člen Krajského expertního týmu Doprava)  
