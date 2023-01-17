@@ -32,7 +32,7 @@ V roce 2018 kandidoval v komunálních volbách hl. m. Prahy ze 43. místa, Pir�
 Ve volném čase - pokud nějaký zbývá - se Ondřej věnuje svým nejoblíbenějším aktivitám: fotbalové i hokejové Slavii Praha, filmu a jeho dějinám (nejvýše řadí tvorbu Q. Tarantina, poetiku J. Tattiho a fenomén Star Wars) a četbě.
 
 ## Aktivity:
-- Člen Expertních týmů Bezpečnost a Sport
+- člen Krajských expertních týmů Bezpečnost a Sport
 - od 10/2018 člen Komise životního prostředí a povodňové MČ Praha-Petrovice
 - od 12/2018 člen Komise prevence kriminality Rady hl. m. Prahy
 - od 4/2020 předsedající KF Praha
