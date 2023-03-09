@@ -27,4 +27,4 @@ Zajímá se o všechny palčivé problémy dnešní doby, které se ho dotýkaj�
 
 ## Aktivity:
 - 2/2021 registrovaný příznivec Pirátů (člen Krajského expertního týmu Doprava)  
-- 2/2023 předseda Komise dopravy a prostředí pro život MČ Praha 15
+- 2/2023 předseda Komise dopravy a prostředí pro život Rady městské části Praha 15
