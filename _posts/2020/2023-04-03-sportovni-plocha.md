@@ -6,7 +6,7 @@ tags:
 layout: post
 author: Praha 15
 authorId: 
-title: "Nelegální billboardy
+title: "Sportovní plocha"
 image: articles/2022/mapa.jpg
 ---
 
