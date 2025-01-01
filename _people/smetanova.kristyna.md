@@ -1,18 +1,18 @@
 ---
-uid: smetanova.kristyna
-name: Kristýna Smetanová
+uid: 
+name: 
 titles:
   before:
 category:
 ordpms: 1
-description: studentka Právnické fakulty UK
-img: people/smetanova-kristyna.png
-heroImg: praha-15.jpg
+description: 
+img: 
+heroImg: 
 mail:
   - 
 mob:
 profiles:
   facebook:
   #calendar:
-profession: studentka Právnické fakulty UK
+profession: 
 ---
