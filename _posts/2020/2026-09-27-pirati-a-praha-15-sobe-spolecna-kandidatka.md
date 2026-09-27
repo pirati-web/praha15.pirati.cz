@@ -21,4 +21,6 @@ To, co funguje, chceme zachovat a rozvíjet. Své návrhy budeme prosazovat důs
 
 Sledujte [Piráty Praha 15](https://www.facebook.com/piratipraha15/) a [Praha 15 sobě](https://www.facebook.com/praha15sobe/). Napište nám, co by se podle vás mělo v Praze 15 změnit jako první.
 
+[Informace o transparentnosti našich volebních letáků](/transparentnost/letaky-2026/) najdete na samostatné stránce.
+
 **Piráti a Praha 15 sobě. Praha 15 může fungovat líp.**

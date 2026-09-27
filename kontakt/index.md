@@ -17,6 +17,7 @@ contactPersons:
 <h4>Transparentnost</h4>
 - Odměny za veřejné funkce najdete na společném pirátském webu [nalodeni.pirati.cz/odmeny](https://nalodeni.pirati.cz/odmeny/).
 - Veškerou evidenci kontaktů a schůzek najdete na [evidence.pirati.cz](https://evidence.pirati.cz/).
+- [Oznámení o transparentnosti volebních letáků 2026](/transparentnost/letaky-2026/) uvádí zadavatele, financování a náklady na tisk a distribuci.
 
 <h4>Podpořte nás!</h4>
 - Finanční dary na podporu našeho fungování můžete posílat na [dary.pirati.cz](https://dary.pirati.cz/podpor-kraj/praha/adresne-dary-pro-ks-praha/?p=110115).
