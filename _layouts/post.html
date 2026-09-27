@@ -28,7 +28,11 @@ layout: default
           {% endif %}
         </div>
       </div>
-      {% if page.image %}
+      {% if page.localImage %}
+        <figure class="figure">
+          <img src="{{ page.localImage | relative_url }}" alt="{{ page.title | escape }}" />
+        </figure>
+      {% elsif page.image %}
         {% include headline-media.html image=page.image title=page.title youtubeVideoId=page.youtubeVideoId %}
       {% endif %}
     </header>
