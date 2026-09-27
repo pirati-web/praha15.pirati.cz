@@ -11,6 +11,8 @@ description: Piráti a Praha 15 sobě spojují síly pro otevřenější radnici
 localImage: /images/2026/spolecna-kandidatka-pirati-praha-15-sobe.png
 ---
 
+![Zástupci společné kandidátky Pirátů a Praha 15 sobě](/images/2026/spolecna-kandidatka-pirati-praha-15-sobe.png)
+
 **Do komunálních voleb v Praze 15 jdeme společně jako Piráti a Praha 15 sobě. Spojili jsme síly, energii a chuť změnit Prahu 15.**
 
 Praha 15 je dobré místo pro život. Chceme, aby její radnice fungovala otevřeněji, o důležitých věcech jednala s místními včas a uměla dotahovat práci do konce. Spojuje nás snaha přinést do jejího vedení novou energii, modernější způsob práce a odpovědnost za konkrétní výsledky.

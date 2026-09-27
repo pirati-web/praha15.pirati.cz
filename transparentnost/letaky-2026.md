@@ -39,7 +39,7 @@ Informace o [účasti v komunálních volbách](https://portal.gov.cz/sluzby-ver
 
 **Metoda výpočtu:** součet předaných cen za tisk a neadresnou distribuci tohoto letáku včetně DPH. Částky budou po obdržení účetních dokladů případně upřesněny.
 
-Toto oznámení se týká jediné podoby letáku. Uvedené částky pokrývají tisk a distribuci; případné další placené služby spojené s přípravou letáku budou doplněny po kontrole účetních dokladů.
+Toto oznámení se týká jediné podoby letáku. Grafika a fotografie nebyly placené, a proto k uvedenému součtu nepřidávají další náklady.
 
 ## Další informace
 
