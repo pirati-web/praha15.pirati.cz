@@ -7,6 +7,7 @@ candidateListUid: 2026-komunalni
 customizeHeader: true
 ---
 
+<div style="align:center">
 <div style="width:100%; overflow-x:auto; margin:24px 0; -webkit-overflow-scrolling:touch;">
 <div style="width:100%; overflow-x:auto; margin:24px 0;">
   <style>
@@ -341,5 +342,6 @@ customizeHeader: true
     </tr>
   </tbody>
 </table>
+</div>
 </div>
 </div>
