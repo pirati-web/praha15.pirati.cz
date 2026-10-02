@@ -7,36 +7,329 @@ candidateListUid: 2026-komunalni
 customizeHeader: true
 ---
 
-| Poř. č. | Jméno a příjmení | Pohlaví | Věk | Povolání | Část obce / obec | Politická příslušnost | Navrhující strana |
-|---:|---|:---:|---:|---|---|---|---|
-| 1 | Mgr. Pavel Petrášek | M | 44 | středoškolský učitel, zastupitel | Praha 15 | Česká pirátská strana | Česká pirátská strana |
-| 2 | Mgr. Michal Petlach | M | 42 | projektový manažer, zastupitel | Praha 15 | bez politické příslušnosti | Česká pirátská strana |
-| 3 | Ing. Michal Gust | M | 51 | IT architekt | Praha 15 | bez politické příslušnosti | Česká pirátská strana |
-| 4 | Ing. Martin Schaefer | M | 38 | AI konzultant a programátor | Praha 15 | Praha sobě | Praha sobě |
-| 5 | Ing. Bc. Halina Holá | Ž | 48 | lektorka přírodovědných programů | Praha 15 | bez politické příslušnosti | Česká pirátská strana |
-| 6 | Mgr. Lucie Augustinová | Ž | 44 | státní úřednice | Praha 15 | bez politické příslušnosti | Česká pirátská strana |
-| 7 | MUDr. Alžběta Brunerová | Ž | 38 | lékařka | Praha 15 | bez politické příslušnosti | Praha sobě |
-| 8 | Ing. Radka Daníčková | Ž | 55 | tajemnice úřadu, zastupitelka | Praha 15 | Česká pirátská strana | Česká pirátská strana |
-| 9 | JUDr. Sylvie Laušmanová | Ž | 57 | advokátka | Praha 15 | bez politické příslušnosti | Česká pirátská strana |
-| 10 | Mgr. Tereza Smrčková | Ž | 41 | manažerka udržitelnosti | Praha 15 | bez politické příslušnosti | Praha sobě |
-| 11 | Bc. Marta Patáková | Ž | 45 | asistentka pedagoga na ZŠ | Praha 15 | bez politické příslušnosti | Česká pirátská strana |
-| 12 | PhDr. Dagmar Milerová Prášková, Ph.D. | Ž | 45 | analytička | Praha 15 | bez politické příslušnosti | Česká pirátská strana |
-| 13 | Ing. Eva Balášová | Ž | 45 | IT analytička | Praha 15 | bez politické příslušnosti | Česká pirátská strana |
-| 14 | Mgr. Zuzana Stehlíková | Ž | 39 | projektová manažerka | Praha 15 | bez politické příslušnosti | Praha sobě |
-| 15 | Ing. Marcela Bučková | Ž | 72 | důchodkyně | Praha 15 | bez politické příslušnosti | Česká pirátská strana |
-| 16 | Jan Batala | M | 41 | IT aplikační specialista | Praha 15 | bez politické příslušnosti | Česká pirátská strana |
-| 17 | Mgr. Jana Podhorská | Ž | 44 | odborný pracovník statistiky | Praha 15 | bez politické příslušnosti | Praha sobě |
-| 18 | Alena Kašpárková, DiS. | Ž | 24 | zástupkyně ředitelky MŠ | Praha 15 | bez politické příslušnosti | Česká pirátská strana |
-| 19 | Yvona Kadeřábková | Ž | 62 | podolog | Praha 15 | bez politické příslušnosti | Česká pirátská strana |
-| 20 | Sabina Bergmanová | Ž | 52 | podnikatelka | Praha 15 | bez politické příslušnosti | Česká pirátská strana |
-| 21 | Alice Schaeferová | Ž | 65 | důchodkyně | Praha 15 | bez politické příslušnosti | Praha sobě |
-| 22 | Miloš Soukup | M | 60 | obchodní manažer | Praha 15 | bez politické příslušnosti | Česká pirátská strana |
-| 23 | David Zavadil | M | 52 | instruktor střelby | Praha 15 | bez politické příslušnosti | Česká pirátská strana |
-| 24 | Marek Nykodém | M | 41 | správce e-shopu | Praha 15 | bez politické příslušnosti | Praha sobě |
-| 25 | Svatopluk Adámek | M | 41 | manažer e-commerce | Praha 15 | bez politické příslušnosti | Česká pirátská strana |
-| 26 | Mgr. Lenka Petrášková | Ž | 40 | fyzioterapeutka | Praha 15 | bez politické příslušnosti | Česká pirátská strana |
-| 27 | Mgr. Ing. Petr Holý | M | 47 | odborný referent | Praha 15 | bez politické příslušnosti | Česká pirátská strana |
-| 28 | Ing. Jan Schaefer | M | 64 | specialista zákaznické cesty | Praha 15 | bez politické příslušnosti | Praha sobě |
-| 29 | Petr Augustin, DiS. | M | 46 | projektový manažer | Praha 15 | bez politické příslušnosti | Česká pirátská strana |
-| 30 | Ing. Tomáš Daníček | M | 60 | projektový manažer | Praha 15 | bez politické příslušnosti | Česká pirátská strana |
-| 31 | Ing. Jaroslav Hůrka | M | 47 | pojistný matematik | Praha 15 | bez politické příslušnosti | Praha sobě |
+<table>
+  <thead>
+    <tr>
+      <th>Poř. č.</th>
+      <th>Jméno a příjmení</th>
+      <th>Pohlaví</th>
+      <th>Věk</th>
+      <th>Povolání</th>
+      <th>Část obce / obec</th>
+      <th>Politická příslušnost</th>
+      <th>Navrhující strana</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Mgr. Pavel Petrášek</td>
+      <td>M</td>
+      <td>44</td>
+      <td>středoškolský učitel, zastupitel</td>
+      <td>Praha 15</td>
+      <td>Česká pirátská strana</td>
+      <td>Česká pirátská strana</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Mgr. Michal Petlach</td>
+      <td>M</td>
+      <td>42</td>
+      <td>projektový manažer, zastupitel</td>
+      <td>Praha 15</td>
+      <td>bez politické příslušnosti</td>
+      <td>Česká pirátská strana</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Ing. Michal Gust</td>
+      <td>M</td>
+      <td>51</td>
+      <td>IT architekt</td>
+      <td>Praha 15</td>
+      <td>bez politické příslušnosti</td>
+      <td>Česká pirátská strana</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Ing. Martin Schaefer</td>
+      <td>M</td>
+      <td>38</td>
+      <td>AI konzultant a programátor</td>
+      <td>Praha 15</td>
+      <td>Praha sobě</td>
+      <td>Praha sobě</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Ing. Bc. Halina Holá</td>
+      <td>Ž</td>
+      <td>48</td>
+      <td>lektorka přírodovědných programů</td>
+      <td>Praha 15</td>
+      <td>bez politické příslušnosti</td>
+      <td>Česká pirátská strana</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Mgr. Lucie Augustinová</td>
+      <td>Ž</td>
+      <td>44</td>
+      <td>státní úřednice</td>
+      <td>Praha 15</td>
+      <td>bez politické příslušnosti</td>
+      <td>Česká pirátská strana</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>MUDr. Alžběta Brunerová</td>
+      <td>Ž</td>
+      <td>38</td>
+      <td>lékařka</td>
+      <td>Praha 15</td>
+      <td>bez politické příslušnosti</td>
+      <td>Praha sobě</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Ing. Radka Daníčková</td>
+      <td>Ž</td>
+      <td>55</td>
+      <td>tajemnice úřadu, zastupitelka</td>
+      <td>Praha 15</td>
+      <td>Česká pirátská strana</td>
+      <td>Česká pirátská strana</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>JUDr. Sylvie Laušmanová</td>
+      <td>Ž</td>
+      <td>57</td>
+      <td>advokátka</td>
+      <td>Praha 15</td>
+      <td>bez politické příslušnosti</td>
+      <td>Česká pirátská strana</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>Mgr. Tereza Smrčková</td>
+      <td>Ž</td>
+      <td>41</td>
+      <td>manažerka udržitelnosti</td>
+      <td>Praha 15</td>
+      <td>bez politické příslušnosti</td>
+      <td>Praha sobě</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>Bc. Marta Patáková</td>
+      <td>Ž</td>
+      <td>45</td>
+      <td>asistentka pedagoga na ZŠ</td>
+      <td>Praha 15</td>
+      <td>bez politické příslušnosti</td>
+      <td>Česká pirátská strana</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>PhDr. Dagmar Milerová Prášková, Ph.D.</td>
+      <td>Ž</td>
+      <td>45</td>
+      <td>analytička</td>
+      <td>Praha 15</td>
+      <td>bez politické příslušnosti</td>
+      <td>Česká pirátská strana</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>Ing. Eva Balášová</td>
+      <td>Ž</td>
+      <td>45</td>
+      <td>IT analytička</td>
+      <td>Praha 15</td>
+      <td>bez politické příslušnosti</td>
+      <td>Česká pirátská strana</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>Mgr. Zuzana Stehlíková</td>
+      <td>Ž</td>
+      <td>39</td>
+      <td>projektová manažerka</td>
+      <td>Praha 15</td>
+      <td>bez politické příslušnosti</td>
+      <td>Praha sobě</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>Ing. Marcela Bučková</td>
+      <td>Ž</td>
+      <td>72</td>
+      <td>důchodkyně</td>
+      <td>Praha 15</td>
+      <td>bez politické příslušnosti</td>
+      <td>Česká pirátská strana</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>Jan Batala</td>
+      <td>M</td>
+      <td>41</td>
+      <td>IT aplikační specialista</td>
+      <td>Praha 15</td>
+      <td>bez politické příslušnosti</td>
+      <td>Česká pirátská strana</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>Mgr. Jana Podhorská</td>
+      <td>Ž</td>
+      <td>44</td>
+      <td>odborný pracovník statistiky</td>
+      <td>Praha 15</td>
+      <td>bez politické příslušnosti</td>
+      <td>Praha sobě</td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>Alena Kašpárková, DiS.</td>
+      <td>Ž</td>
+      <td>24</td>
+      <td>zástupkyně ředitelky MŠ</td>
+      <td>Praha 15</td>
+      <td>bez politické příslušnosti</td>
+      <td>Česká pirátská strana</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>Yvona Kadeřábková</td>
+      <td>Ž</td>
+      <td>62</td>
+      <td>podolog</td>
+      <td>Praha 15</td>
+      <td>bez politické příslušnosti</td>
+      <td>Česká pirátská strana</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>Sabina Bergmanová</td>
+      <td>Ž</td>
+      <td>52</td>
+      <td>podnikatelka</td>
+      <td>Praha 15</td>
+      <td>bez politické příslušnosti</td>
+      <td>Česká pirátská strana</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>Alice Schaeferová</td>
+      <td>Ž</td>
+      <td>65</td>
+      <td>důchodkyně</td>
+      <td>Praha 15</td>
+      <td>bez politické příslušnosti</td>
+      <td>Praha sobě</td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>Miloš Soukup</td>
+      <td>M</td>
+      <td>60</td>
+      <td>obchodní manažer</td>
+      <td>Praha 15</td>
+      <td>bez politické příslušnosti</td>
+      <td>Česká pirátská strana</td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>David Zavadil</td>
+      <td>M</td>
+      <td>52</td>
+      <td>instruktor střelby</td>
+      <td>Praha 15</td>
+      <td>bez politické příslušnosti</td>
+      <td>Česká pirátská strana</td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>Marek Nykodém</td>
+      <td>M</td>
+      <td>41</td>
+      <td>správce e-shopu</td>
+      <td>Praha 15</td>
+      <td>bez politické příslušnosti</td>
+      <td>Praha sobě</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>Svatopluk Adámek</td>
+      <td>M</td>
+      <td>41</td>
+      <td>manažer e-commerce</td>
+      <td>Praha 15</td>
+      <td>bez politické příslušnosti</td>
+      <td>Česká pirátská strana</td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>Mgr. Lenka Petrášková</td>
+      <td>Ž</td>
+      <td>40</td>
+      <td>fyzioterapeutka</td>
+      <td>Praha 15</td>
+      <td>bez politické příslušnosti</td>
+      <td>Česká pirátská strana</td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>Mgr. Ing. Petr Holý</td>
+      <td>M</td>
+      <td>47</td>
+      <td>odborný referent</td>
+      <td>Praha 15</td>
+      <td>bez politické příslušnosti</td>
+      <td>Česká pirátská strana</td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>Ing. Jan Schaefer</td>
+      <td>M</td>
+      <td>64</td>
+      <td>specialista zákaznické cesty</td>
+      <td>Praha 15</td>
+      <td>bez politické příslušnosti</td>
+      <td>Praha sobě</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>Petr Augustin, DiS.</td>
+      <td>M</td>
+      <td>46</td>
+      <td>projektový manažer</td>
+      <td>Praha 15</td>
+      <td>bez politické příslušnosti</td>
+      <td>Česká pirátská strana</td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>Ing. Tomáš Daníček</td>
+      <td>M</td>
+      <td>60</td>
+      <td>projektový manažer</td>
+      <td>Praha 15</td>
+      <td>bez politické příslušnosti</td>
+      <td>Česká pirátská strana</td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>Ing. Jaroslav Hůrka</td>
+      <td>M</td>
+      <td>47</td>
+      <td>pojistný matematik</td>
+      <td>Praha 15</td>
+      <td>bez politické příslušnosti</td>
+      <td>Praha sobě</td>
+    </tr>
+  </tbody>
+</table>
