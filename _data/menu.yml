@@ -15,7 +15,7 @@ main:
     link: /aktuality/
   - name: Lidé
     link: /lide/
-  - name: Komunální volby 2022
+  - name: Komunální volby 2026
     submenu:
       - name: Kandidátní listina
         link: /volby/2026-kandidatni-listina.html
