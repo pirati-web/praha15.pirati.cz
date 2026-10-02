@@ -8,6 +8,13 @@ customizeHeader: true
 ---
 
 <div style="width:100%; overflow-x:auto; margin:24px 0; -webkit-overflow-scrolling:touch;">
+<div style="width:100%; overflow-x:auto; margin:24px 0;">
+  <style>
+    table th,
+    table td {
+      padding: 16px 20px !important;
+    }
+  </style>
 <table>
   <thead>
     <tr>
@@ -334,4 +341,5 @@ customizeHeader: true
     </tr>
   </tbody>
 </table>
+</div>
 </div>
