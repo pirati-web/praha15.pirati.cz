@@ -3,45 +3,45 @@ title: Naši Kandidáti do Zastupitelstva MČ Praha 15
 uid: 2026-komunalni
 # number: 9
 leader:
-  uid: pavel.petrasek
+  uid: petrasek.pavel
   age: 44
   profession: středoškolský učitel, zastupitel
   partyUid: pirati
 head:
 # 2.
-  - uid: michal.petlach
+  - uid: petlach.michal
     age: 42
     profession: projektový manažer, zastupitel
-    partyUid: piráti
+    partyUid: pirati
 # 3.
   - uid: gust.michal
     age: 52
     profession: IT architekt, kouč
     partyUid: Praha sobě
 # 4.
-  - uid: martin.schaefer
+  - uid: schaefer.martin
     age: 38
     profession: AI konzultant a programátor
     partyUid: bezpp
 # 5.
-  - uid: halina.hola
+  - uid: hola.halina
     age: 48
     profession: lektorka přírodovědných programů
     partyUid: bezpp
 # 6.
-  - uid: lucie.augustinova
+  - uid: augustinova.lucie
     age: 44
     profession: státní úřednice
     partyUid: bezpp   
 # 7.
-  - uid: alzbeta.brunerova
+  - uid: brunerova.alzbeta
     age: 38
     profession: lékařka
     partyUid: bezpp
 
 tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete vynechat  # věk se uvádí k poslednímu dni voleb
 # 8.
-  - uid: radka.danickova
+  - uid: danickova.radka
     age: 55
     profession: tajemnice úřadu, zastupitelka
     partyUid: Piráti
