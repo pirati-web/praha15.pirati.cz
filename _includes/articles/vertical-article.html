@@ -4,12 +4,14 @@
 
   <div class="article-card-cover">
     <a href="{{ include.article.url | relative_url }}" itemprop="image" itemtype="http://schema.org/ImageObject" itemscope="">
-      {% if site.mediaStorage %}
+      {% if include.article.localImage %}
+          {% assign imgPath = include.article.localImage | relative_url %}
+      {% elsif site.mediaStorage %}
           {% capture imgPath %}https://a.pirati.cz/resize/348x232/{{ site.mediaStorage }}/img/{{ include.article.image }}{% endcapture %}
       {% else %}
           {% capture imgPath %}{% asset '{{ include.article.image }}' magick:resize='751x422^' magick:gravity='center' magick:crop='751x422+0+0' @path %}{% endcapture %}
       {% endif %}
-      <img src="{{ imgPath }}" alt="{{ include.article.title }}">
+      <img src="{{ imgPath }}" alt="{{ include.article.title }}"{% if include.article.localImage %} style="width: 100%; height: 232px; object-fit: contain; background: #171717;"{% endif %}>
       <meta itemprop="url" content="{{ imgPath }}">
     </a>
 
