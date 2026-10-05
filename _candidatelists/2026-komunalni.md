@@ -20,6 +20,7 @@ head:
     partyUid: Praha sobě
 # 4.
   - uid: schaefer.martin
+    name: Martin Schaefer
     age: 38
     profession: AI konzultant a programátor
     partyUid: bezpp
