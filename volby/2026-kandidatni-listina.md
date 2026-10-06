@@ -1,10 +1,10 @@
 ---
-layout: communal-elections
+layout: program-post
 title: Naši kandidáti
-campaignGroupUid: volby-2026
+description: Kandidátka Pirátů a Praha 15 sobě pro komunální volby 2026 – kdo nás bude zastupovat.
 campaignCategoryUid: 2026-komunalni
-candidateListUid: 2026-komunalni
 customizeHeader: true
+nocols: true
 ---
 
 <div class="p15 p15-cand"><style>
