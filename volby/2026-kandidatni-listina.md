@@ -7,341 +7,252 @@ candidateListUid: 2026-komunalni
 customizeHeader: true
 ---
 
-<div style="align:center">
-<div style="width:100%; overflow-x:auto; margin:24px 0; -webkit-overflow-scrolling:touch;">
-<div style="width:100%; overflow-x:auto; margin:24px 0;">
-  <style>
-    table th,
-    table td {
-      padding: 16px 20px !important;
-    }
-  </style>
-<table>
-  <thead>
-    <tr>
-      <th>Poř. č.</th>
-      <th>Jméno a příjmení</th>
-      <th>Pohlaví</th>
-      <th>Věk</th>
-      <th>Povolání</th>
-      <th>Část obce / obec</th>
-      <th>Politická příslušnost</th>
-      <th>Navrhující strana</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>Mgr. Pavel Petrášek</td>
-      <td>M</td>
-      <td>44</td>
-      <td>středoškolský učitel, zastupitel</td>
-      <td>Praha 15</td>
-      <td>Česká pirátská strana</td>
-      <td>Česká pirátská strana</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>Mgr. Michal Petlach</td>
-      <td>M</td>
-      <td>42</td>
-      <td>projektový manažer, zastupitel</td>
-      <td>Praha 15</td>
-      <td>bez politické příslušnosti</td>
-      <td>Česká pirátská strana</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>Ing. Michal Gust</td>
-      <td>M</td>
-      <td>51</td>
-      <td>IT architekt</td>
-      <td>Praha 15</td>
-      <td>bez politické příslušnosti</td>
-      <td>Česká pirátská strana</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>Ing. Martin Schaefer</td>
-      <td>M</td>
-      <td>38</td>
-      <td>AI konzultant a programátor</td>
-      <td>Praha 15</td>
-      <td>Praha sobě</td>
-      <td>Praha sobě</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>Ing. Bc. Halina Holá</td>
-      <td>Ž</td>
-      <td>48</td>
-      <td>lektorka přírodovědných programů</td>
-      <td>Praha 15</td>
-      <td>bez politické příslušnosti</td>
-      <td>Česká pirátská strana</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>Mgr. Lucie Augustinová</td>
-      <td>Ž</td>
-      <td>44</td>
-      <td>státní úřednice</td>
-      <td>Praha 15</td>
-      <td>bez politické příslušnosti</td>
-      <td>Česká pirátská strana</td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>MUDr. Alžběta Brunerová</td>
-      <td>Ž</td>
-      <td>38</td>
-      <td>lékařka</td>
-      <td>Praha 15</td>
-      <td>bez politické příslušnosti</td>
-      <td>Praha sobě</td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>Ing. Radka Daníčková</td>
-      <td>Ž</td>
-      <td>55</td>
-      <td>tajemnice úřadu, zastupitelka</td>
-      <td>Praha 15</td>
-      <td>Česká pirátská strana</td>
-      <td>Česká pirátská strana</td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>JUDr. Sylvie Laušmanová</td>
-      <td>Ž</td>
-      <td>57</td>
-      <td>advokátka</td>
-      <td>Praha 15</td>
-      <td>bez politické příslušnosti</td>
-      <td>Česká pirátská strana</td>
-    </tr>
-    <tr>
-      <td>10</td>
-      <td>Mgr. Tereza Smrčková</td>
-      <td>Ž</td>
-      <td>41</td>
-      <td>manažerka udržitelnosti</td>
-      <td>Praha 15</td>
-      <td>bez politické příslušnosti</td>
-      <td>Praha sobě</td>
-    </tr>
-    <tr>
-      <td>11</td>
-      <td>Bc. Marta Patáková</td>
-      <td>Ž</td>
-      <td>45</td>
-      <td>asistentka pedagoga na ZŠ</td>
-      <td>Praha 15</td>
-      <td>bez politické příslušnosti</td>
-      <td>Česká pirátská strana</td>
-    </tr>
-    <tr>
-      <td>12</td>
-      <td>PhDr. Dagmar Milerová Prášková, Ph.D.</td>
-      <td>Ž</td>
-      <td>45</td>
-      <td>analytička</td>
-      <td>Praha 15</td>
-      <td>bez politické příslušnosti</td>
-      <td>Česká pirátská strana</td>
-    </tr>
-    <tr>
-      <td>13</td>
-      <td>Ing. Eva Balášová</td>
-      <td>Ž</td>
-      <td>45</td>
-      <td>IT analytička</td>
-      <td>Praha 15</td>
-      <td>bez politické příslušnosti</td>
-      <td>Česká pirátská strana</td>
-    </tr>
-    <tr>
-      <td>14</td>
-      <td>Mgr. Zuzana Stehlíková</td>
-      <td>Ž</td>
-      <td>39</td>
-      <td>projektová manažerka</td>
-      <td>Praha 15</td>
-      <td>bez politické příslušnosti</td>
-      <td>Praha sobě</td>
-    </tr>
-    <tr>
-      <td>15</td>
-      <td>Ing. Marcela Bučková</td>
-      <td>Ž</td>
-      <td>72</td>
-      <td>důchodkyně</td>
-      <td>Praha 15</td>
-      <td>bez politické příslušnosti</td>
-      <td>Česká pirátská strana</td>
-    </tr>
-    <tr>
-      <td>16</td>
-      <td>Jan Batala</td>
-      <td>M</td>
-      <td>41</td>
-      <td>IT aplikační specialista</td>
-      <td>Praha 15</td>
-      <td>bez politické příslušnosti</td>
-      <td>Česká pirátská strana</td>
-    </tr>
-    <tr>
-      <td>17</td>
-      <td>Mgr. Jana Podhorská</td>
-      <td>Ž</td>
-      <td>44</td>
-      <td>odborný pracovník statistiky</td>
-      <td>Praha 15</td>
-      <td>bez politické příslušnosti</td>
-      <td>Praha sobě</td>
-    </tr>
-    <tr>
-      <td>18</td>
-      <td>Alena Kašpárková, DiS.</td>
-      <td>Ž</td>
-      <td>24</td>
-      <td>zástupkyně ředitelky MŠ</td>
-      <td>Praha 15</td>
-      <td>bez politické příslušnosti</td>
-      <td>Česká pirátská strana</td>
-    </tr>
-    <tr>
-      <td>19</td>
-      <td>Yvona Kadeřábková</td>
-      <td>Ž</td>
-      <td>62</td>
-      <td>podolog</td>
-      <td>Praha 15</td>
-      <td>bez politické příslušnosti</td>
-      <td>Česká pirátská strana</td>
-    </tr>
-    <tr>
-      <td>20</td>
-      <td>Sabina Bergmanová</td>
-      <td>Ž</td>
-      <td>52</td>
-      <td>podnikatelka</td>
-      <td>Praha 15</td>
-      <td>bez politické příslušnosti</td>
-      <td>Česká pirátská strana</td>
-    </tr>
-    <tr>
-      <td>21</td>
-      <td>Alice Schaeferová</td>
-      <td>Ž</td>
-      <td>65</td>
-      <td>důchodkyně</td>
-      <td>Praha 15</td>
-      <td>bez politické příslušnosti</td>
-      <td>Praha sobě</td>
-    </tr>
-    <tr>
-      <td>22</td>
-      <td>Miloš Soukup</td>
-      <td>M</td>
-      <td>60</td>
-      <td>obchodní manažer</td>
-      <td>Praha 15</td>
-      <td>bez politické příslušnosti</td>
-      <td>Česká pirátská strana</td>
-    </tr>
-    <tr>
-      <td>23</td>
-      <td>David Zavadil</td>
-      <td>M</td>
-      <td>52</td>
-      <td>instruktor střelby</td>
-      <td>Praha 15</td>
-      <td>bez politické příslušnosti</td>
-      <td>Česká pirátská strana</td>
-    </tr>
-    <tr>
-      <td>24</td>
-      <td>Marek Nykodém</td>
-      <td>M</td>
-      <td>41</td>
-      <td>správce e-shopu</td>
-      <td>Praha 15</td>
-      <td>bez politické příslušnosti</td>
-      <td>Praha sobě</td>
-    </tr>
-    <tr>
-      <td>25</td>
-      <td>Svatopluk Adámek</td>
-      <td>M</td>
-      <td>41</td>
-      <td>manažer e-commerce</td>
-      <td>Praha 15</td>
-      <td>bez politické příslušnosti</td>
-      <td>Česká pirátská strana</td>
-    </tr>
-    <tr>
-      <td>26</td>
-      <td>Mgr. Lenka Petrášková</td>
-      <td>Ž</td>
-      <td>40</td>
-      <td>fyzioterapeutka</td>
-      <td>Praha 15</td>
-      <td>bez politické příslušnosti</td>
-      <td>Česká pirátská strana</td>
-    </tr>
-    <tr>
-      <td>27</td>
-      <td>Mgr. Ing. Petr Holý</td>
-      <td>M</td>
-      <td>47</td>
-      <td>odborný referent</td>
-      <td>Praha 15</td>
-      <td>bez politické příslušnosti</td>
-      <td>Česká pirátská strana</td>
-    </tr>
-    <tr>
-      <td>28</td>
-      <td>Ing. Jan Schaefer</td>
-      <td>M</td>
-      <td>64</td>
-      <td>specialista zákaznické cesty</td>
-      <td>Praha 15</td>
-      <td>bez politické příslušnosti</td>
-      <td>Praha sobě</td>
-    </tr>
-    <tr>
-      <td>29</td>
-      <td>Petr Augustin, DiS.</td>
-      <td>M</td>
-      <td>46</td>
-      <td>projektový manažer</td>
-      <td>Praha 15</td>
-      <td>bez politické příslušnosti</td>
-      <td>Česká pirátská strana</td>
-    </tr>
-    <tr>
-      <td>30</td>
-      <td>Ing. Tomáš Daníček</td>
-      <td>M</td>
-      <td>60</td>
-      <td>projektový manažer</td>
-      <td>Praha 15</td>
-      <td>bez politické příslušnosti</td>
-      <td>Česká pirátská strana</td>
-    </tr>
-    <tr>
-      <td>31</td>
-      <td>Ing. Jaroslav Hůrka</td>
-      <td>M</td>
-      <td>47</td>
-      <td>pojistný matematik</td>
-      <td>Praha 15</td>
-      <td>bez politické příslušnosti</td>
-      <td>Praha sobě</td>
-    </tr>
-  </tbody>
-</table>
-</div>
-</div>
-</div>
+<div class="p15 p15-cand"><style>
+.p15{--ink:#0D0C10;--yellow:var(--color-pirati-yellow,#fec934);--soft:#F5F2EA;--line:#E2DDD0;--muted:#55515c;--violet:#4a2c7a;--tint:#EFE9FA;
+--f-body:var(--font-body,Roboto,Helvetica,Arial,sans-serif);--f-cond:var(--font-condensed,"Roboto Condensed",Helvetica,Arial,sans-serif);--f-alt:var(--font-alt,"Bebas Neue",Helvetica,Arial,sans-serif);
+font-family:var(--f-body);color:var(--ink);font-size:17px;line-height:1.5;margin:0 0 48px}
+.p15.p15 *,.p15.p15 *::before,.p15.p15 *::after{box-sizing:border-box}
+.p15.p15 p{margin:0}
+.p15.p15 :is(p,li,strong,b,span,small,div){color:inherit}
+.p15.p15 .p15-h3{color:inherit}
+.p15.p15 .p15-hero{position:relative;overflow:hidden;border-radius:24px;padding:44px 36px;margin:0 0 28px;color:#fff;background:radial-gradient(110% 100% at 0% 100%,#4a2c7a 0%,rgba(74,44,122,0) 62%),#0D0C10;display:flex;flex-wrap:wrap;gap:28px;align-items:center;justify-content:space-between}
+.p15.p15 .p15-hero-main{flex:1 1 420px;min-width:0}
+.p15.p15 .p15-kicker{color:var(--yellow);font-family:var(--f-cond);font-weight:700;font-size:.95rem;letter-spacing:.08em;text-transform:uppercase;margin:0 0 12px}
+.p15.p15 .p15-hero-title{font-family:var(--f-alt);font-weight:400;font-size:clamp(2.3rem,6vw,3.7rem);line-height:1;letter-spacing:.01em;color:#fff;margin:0 0 16px;max-width:15em}
+.p15.p15 .p15-hero-sub{font-size:1.08rem;color:#E8E4F0;max-width:36em;margin:0 0 22px}
+.p15.p15 .p15-team{font-size:.95rem;color:#C9C2D8;margin:0}
+.p15.p15 .p15-team b{color:#fff;font-weight:700}
+.p15.p15 .p15-team i{font-style:normal;color:var(--yellow);font-weight:700;padding:0 .35em}
+.p15.p15 a.p15-btn{display:inline-block;border-radius:999px;padding:12px 24px;font-weight:700;font-size:.98rem;line-height:1.2;text-decoration:none;border:2px solid var(--ink);background:var(--ink);color:#fff}
+.p15.p15 a.p15-btn:hover{background:#fff;color:var(--ink);text-decoration:none}
+.p15.p15 .p15-btns{display:flex;flex-wrap:wrap;gap:12px}
+.p15.p15 .p15-badge{flex:0 0 auto;width:150px;height:150px;border-radius:50%;background:var(--yellow);color:var(--ink);display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;margin:0 auto}
+.p15.p15 .p15-badge-top{font-family:var(--f-cond);font-weight:700;font-size:.85rem;letter-spacing:.08em;text-transform:uppercase;line-height:1}
+.p15.p15 .p15-badge-num{font-family:var(--f-alt);font-weight:400;font-size:5.6rem;line-height:.85;margin-top:6px}
+.p15.p15 .p15-intro{font-size:1.12rem;max-width:44em;margin:0 0 36px;color:#2a2733}
+.p15.p15 .p15-h2{font-family:var(--f-cond);font-weight:700;font-size:clamp(1.55rem,3.4vw,2.2rem);line-height:1.2;margin:0;padding:0;color:var(--ink);text-transform:none;letter-spacing:0}
+.p15.p15 .p15-h3{font-family:var(--f-cond);font-weight:700;font-size:1.3rem;line-height:1.25;margin:0 0 14px;padding:0;text-transform:none;letter-spacing:0}
+.p15.p15 .p15-cards-title{margin:0 0 6px;scroll-margin-top:90px}
+.p15.p15 .p15-cards-hint{font-size:.95rem;color:var(--muted);margin:0 0 18px}
+.p15.p15 .p15-cards{list-style:none;margin:0 0 56px;padding:0;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+.p15.p15 .p15-cards>li{margin:0;padding:0;display:flex}
+.p15.p15 .p15-cards>li::before{content:none;display:none}
+.p15.p15 a.p15-card{display:flex;flex-direction:column;width:100%;background:#fff;border:2px solid var(--ink);border-radius:20px;padding:22px 22px 18px;color:var(--ink);text-decoration:none;transition:background .15s}
+.p15.p15 a.p15-card:hover{background:var(--yellow);color:var(--ink);text-decoration:none}
+.p15.p15 a.p15-card:focus-visible,.p15.p15 a.p15-btn:focus-visible,.p15.p15 a.p15-link:focus-visible,.p15.p15 a.p15-navlink:focus-visible,.p15.p15 a.p15-step:focus-visible,.p15.p15 button.p15-x:focus-visible,.p15.p15 button.p15-cuebtn:focus-visible{outline:3px solid var(--violet);outline-offset:3px}
+.p15.p15 .p15-num{font-family:var(--f-cond);display:inline-flex;align-items:center;justify-content:center;flex:none;width:44px;height:44px;border-radius:50%;background:var(--yellow);color:var(--ink);border:2px solid var(--ink);font-weight:700;font-size:1.15rem;line-height:1}
+.p15.p15 .p15-num--lg{width:58px;height:58px;font-size:1.6rem}
+.p15.p15 .p15-card-title{font-family:var(--f-cond);font-weight:700;font-size:1.3rem;line-height:1.2;margin:14px 0 8px;padding:0;color:var(--ink);text-transform:none}
+.p15.p15 .p15-card-text{font-size:.93rem;color:#3a3642;margin:0 0 12px}
+.p15.p15 a.p15-card:hover .p15-card-text{color:var(--ink)}
+.p15.p15 .p15-card-first{font-size:.88rem;margin:auto 0 12px;padding-top:12px;border-top:1px solid var(--line)}
+.p15.p15 a.p15-card:hover .p15-card-first{border-top-color:rgba(13,12,16,.35)}
+.p15.p15 .p15-card-first b{display:block;font-family:var(--f-cond);font-size:.8rem;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin-bottom:2px}
+.p15.p15 a.p15-card:hover .p15-card-first b{color:var(--ink)}
+.p15.p15 .p15-card-more{font-weight:700;font-size:.9rem}
+.p15.p15 .p15-ph{display:flex;gap:18px;align-items:center;margin:0 0 22px}
+.p15.p15 .p15-imagine{font-size:clamp(1.12rem,2.1vw,1.38rem);line-height:1.5;font-weight:500;border-left:6px solid var(--yellow);padding:4px 0 4px 20px;margin:0 0 28px;max-width:44em}
+.p15.p15 .p15-imagine strong{font-weight:700}
+.p15.p15 .p15-imagine .p15-sub{display:block;margin-top:10px;font-size:.72em;line-height:1.45;font-weight:400;color:var(--muted)}
+.p15.p15 .p15-cols{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;margin:0 0 16px}
+.p15.p15 .p15-box{border-radius:20px;padding:24px 26px}
+.p15.p15 .p15-today{background:var(--soft)}
+.p15.p15 .p15-proof{background:var(--ink);color:#fff;align-self:start}
+.p15.p15 .p15-proof .p15-h3{color:var(--yellow)}
+.p15.p15 .p15-check{background:var(--tint);color:var(--ink);align-self:start}
+.p15.p15 .p15-want{background:#fff;border:2px solid var(--ink);margin:0 0 16px}
+.p15.p15 .p15-list{display:block;list-style:none;margin:0 0 14px;padding:0}
+.p15.p15 .p15-want .p15-list{max-width:52em;margin-bottom:0}
+.p15.p15 .p15-list>li{position:relative;margin:0 0 12px;padding:0 0 0 24px;line-height:1.5}
+.p15.p15 .p15-list>li:last-child{margin-bottom:0}
+.p15.p15 .p15-list>li::before{content:"";display:block;position:absolute;left:0;margin:0;top:.6em;width:10px;height:10px;border-radius:50%;background:var(--ink)}
+.p15.p15 .p15-want .p15-list>li::before{background:var(--yellow);border:2px solid var(--ink);width:12px;height:12px;top:.55em}
+.p15.p15 .p15-pattern{margin:16px 0 0;padding-top:14px;border-top:1px solid #D2CCBC;font-size:.95rem}
+.p15.p15 .p15-pattern b{font-weight:700}
+.p15.p15 .p15-nechceme{margin:14px 0 0;font-weight:500}
+.p15.p15 .p15-cols--one{grid-template-columns:minmax(0,1fr)}
+.p15.p15 .p15-pitem{margin:0 0 16px}
+.p15.p15 .p15-pitem:last-child{margin-bottom:0}
+.p15.p15 .p15-pitem strong{font-weight:700}
+.p15.p15 .p15-src{margin:8px 0 0!important;font-size:.82rem;color:#CFC8DE}
+.p15.p15 .p15-check .p15-src{color:var(--muted)}
+.p15.p15 .p15-note{margin:16px 0 0;padding:12px 16px;background:var(--soft);border-radius:12px;font-size:.93rem}
+.p15.p15 a.p15-link{color:var(--ink);font-weight:700;text-decoration:underline;text-underline-offset:3px}
+.p15.p15 a.p15-link:hover{background:var(--yellow);text-decoration:underline}
+.p15.p15 .p15-first{background:var(--yellow);color:var(--ink);border-radius:20px;padding:20px 26px;margin:0;display:flex;flex-wrap:wrap;gap:6px 20px;align-items:baseline}
+.p15.p15 .p15-first-label{font-family:var(--f-cond);font-weight:700;font-size:.9rem;letter-spacing:.07em;text-transform:uppercase;flex:0 0 auto}
+.p15.p15 .p15-first-text{font-weight:500;font-size:1.08rem;flex:1 1 320px;margin:0}
+.p15.p15 dialog.p15-modal{padding:0;border:0;border-radius:24px;background:#fff;color:var(--ink);width:min(1040px,calc(100% - 32px));max-width:none;max-height:calc(100vh - 48px);max-height:calc(100dvh - 48px);overflow:auto;overscroll-behavior:contain;box-shadow:0 24px 80px rgba(13,12,16,.45)}
+.p15.p15 dialog.p15-modal[open]{animation:p15in .2s ease-out}
+.p15.p15 dialog.p15-modal:focus{outline:0}
+.p15.p15 dialog.p15-modal::backdrop{background:rgba(13,12,16,.72)}
+@keyframes p15in{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+.p15.p15 .p15-modal-bar{position:sticky;top:0;z-index:2;background:#fff;border-bottom:2px solid var(--ink)}
+.p15.p15 .p15-modal-row{display:flex;align-items:center;gap:10px;padding:10px 20px}
+.p15.p15 a.p15-step,.p15.p15 span.p15-step{display:inline-flex;align-items:center;gap:6px;border:2px solid var(--ink);border-radius:999px;padding:6px 14px;font-weight:700;font-size:.88rem;line-height:1.2;color:var(--ink);text-decoration:none;background:#fff}
+.p15.p15 a.p15-step:hover{background:var(--yellow);color:var(--ink);text-decoration:none}
+.p15.p15 span.p15-step.is-off{opacity:.28}
+.p15.p15 .p15-modal-count{flex:1;text-align:center;font-family:var(--f-cond);font-size:.95rem;font-weight:700;letter-spacing:.07em;text-transform:uppercase}
+.p15.p15 .p15-cue{position:sticky;bottom:0;height:0;overflow:visible;z-index:3;pointer-events:none}
+.p15.p15 .p15-cue-in{position:absolute;left:0;right:0;bottom:0;height:120px;display:flex;align-items:flex-end;justify-content:center;padding-bottom:16px;background:linear-gradient(to top,#fff 30%,rgba(255,255,255,0));transition:opacity .2s}
+.p15.p15 .p15-cue.is-off .p15-cue-in{opacity:0;visibility:hidden}
+.p15.p15 button.p15-cuebtn{pointer-events:auto;font-family:inherit;font-weight:700;font-size:.95rem;line-height:1.2;background:var(--yellow);color:var(--ink);border:2px solid var(--ink);border-radius:999px;padding:10px 22px;cursor:pointer;box-shadow:0 6px 18px rgba(13,12,16,.25)}
+.p15.p15 button.p15-cuebtn:hover{background:var(--ink);color:#fff}
+.p15.p15 .p15-want-lead{font-size:1.12rem;font-weight:500;margin:0 0 16px;max-width:42em}
+.p15.p15 button.p15-x{display:inline-flex;align-items:center;gap:8px;border:2px solid var(--ink);background:var(--yellow);color:var(--ink);border-radius:999px;padding:8px 18px;font-family:inherit;font-weight:700;font-size:.92rem;line-height:1.2;cursor:pointer}
+.p15.p15 button.p15-x:hover{background:var(--ink);color:#fff}
+.p15.p15 .p15-modal-body{padding:28px 36px 32px}
+.p15.p15 .p15-modal-nav{display:flex;justify-content:space-between;gap:12px;margin-top:28px;padding-top:20px;border-top:1px solid var(--line)}
+.p15.p15 a.p15-navlink{display:inline-block;font-weight:700;font-size:.92rem;color:var(--ink);text-decoration:none;border:2px solid var(--ink);border-radius:999px;padding:10px 18px;line-height:1.2}
+.p15.p15 a.p15-navlink:hover{background:var(--yellow);color:var(--ink);text-decoration:none}
+html.p15-lock{overflow:hidden;scrollbar-gutter:stable}
+.p15.p15:not(.p15-js) dialog.p15-modal{display:block;position:static;width:auto;max-height:none;overflow:visible;box-shadow:none;border-radius:0;border-top:2px solid var(--ink);margin:0;background:transparent}
+.p15.p15:not(.p15-js) .p15-modal-bar,.p15.p15:not(.p15-js) .p15-cue{display:none}
+.p15.p15:not(.p15-js) .p15-modal-body{padding:40px 0 16px}
+.p15.p15 .p15-votes{border-radius:24px;padding:36px;margin:0 0 20px;color:#fff;background:radial-gradient(110% 100% at 100% 100%,#4a2c7a 0%,rgba(74,44,122,0) 60%),#0D0C10;scroll-margin-top:90px}
+.p15.p15 .p15-votes .p15-h2{color:#fff;margin:0 0 14px}
+.p15.p15 .p15-votes-text{max-width:44em;color:#ECE8F4;margin:0 0 24px}
+.p15.p15 .p15-votes-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
+.p15.p15 .p15-vote{border:2px solid #fff;border-radius:18px;padding:16px 20px}
+.p15.p15 .p15-vote small{display:block;font-family:var(--f-cond);font-size:.88rem;letter-spacing:.06em;text-transform:uppercase;color:var(--yellow);font-weight:700;margin-bottom:4px}
+.p15.p15 .p15-vote span{font-family:var(--f-cond);font-weight:700;font-size:1.35rem;line-height:1.25}
+.p15.p15 .p15-cta{background:var(--yellow);color:var(--ink);border-radius:24px;padding:34px 36px;margin:0}
+.p15.p15 .p15-cta .p15-h2{margin:0 0 10px}
+.p15.p15 .p15-cta-text{max-width:40em;margin:0 0 20px}
+@media (max-width:900px){
+ .p15.p15 .p15-cards{grid-template-columns:repeat(2,minmax(0,1fr))}
+ .p15.p15 .p15-cols{grid-template-columns:minmax(0,1fr)}
+}
+@media (max-width:600px){
+ .p15{font-size:16px}
+ .p15.p15 .p15-hero{padding:28px 20px;border-radius:20px}
+ .p15.p15 .p15-badge{width:128px;height:128px}
+ .p15.p15 .p15-badge-num{font-size:3.6rem}
+ .p15.p15 .p15-cards{grid-template-columns:minmax(0,1fr)}
+ .p15.p15 .p15-ph{align-items:flex-start;gap:14px}
+ .p15.p15 .p15-num--lg{width:48px;height:48px;font-size:1.3rem}
+ .p15.p15 .p15-box{padding:20px}
+ .p15.p15 .p15-votes,.p15.p15 .p15-cta{padding:26px 20px;border-radius:20px}
+ .p15.p15 .p15-votes-grid{grid-template-columns:minmax(0,1fr)}
+ .p15.p15 .p15-first{padding:18px 20px}
+ .p15.p15 dialog.p15-modal{width:100%;margin:auto 0 0;max-height:94vh;max-height:94dvh;border-radius:24px 24px 0 0}
+ .p15.p15 .p15-modal-row{padding:8px 12px;gap:8px}
+ .p15.p15 .p15-step-t{display:none}
+ .p15.p15 a.p15-step,.p15.p15 span.p15-step{padding:6px 12px}
+ .p15.p15 .p15-modal-body{padding:22px 20px 28px}
+ .p15.p15 .p15-modal-nav{flex-direction:column}
+ .p15.p15 a.p15-navlink{text-align:center}
+}
+@media (prefers-reduced-motion:reduce){.p15 dialog.p15-modal[open]{animation:none}}
+@media (prefers-reduced-motion:no-preference){html{scroll-behavior:smooth}}
+@media print{
+ .p15.p15 dialog.p15-modal{display:block!important;position:static;width:auto;max-height:none;overflow:visible;box-shadow:none;border-radius:0;margin:0;background:transparent;page-break-before:always}
+ .p15.p15 .p15-modal-bar,.p15.p15 .p15-modal-nav,.p15.p15 .p15-cue{display:none}
+}
+.p15.p15{--grad:linear-gradient(90deg,#CF7BCC 0%,#FEC900 60%,#FEE000 100%)}
+.p15.p15 .p15-hero{background:radial-gradient(110% 100% at 0% 100%,#4a2c7a 0%,rgba(74,44,122,0) 62%),#0D0C10}
+.p15.p15 .p15-dot{display:inline-block;flex:none;width:12px;height:12px;border-radius:50%;border:2px solid var(--ink);background:var(--ink);vertical-align:baseline;margin-right:6px}
+.p15.p15 .p15-dot.is-ps{background:#fff}
+.p15.p15 .p15-legend{display:flex;flex-wrap:wrap;gap:6px 20px;font-size:.9rem;color:var(--muted);margin:0 0 16px}
+.p15.p15 .p15-photo{position:relative;display:flex;align-items:center;justify-content:center;aspect-ratio:1/1;width:100%;border-radius:16px;overflow:hidden;background:#ECE8DD;color:var(--ink);font-family:var(--f-alt);font-size:4.2rem;letter-spacing:.02em}
+.p15.p15 .p15-photo img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:50% 18%}
+.p15.p15 .p15-photo .p15-num{position:absolute;left:10px;top:10px;background:#fff;color:var(--ink);z-index:1}
+.p15.p15 .p15-cand-cards{grid-template-columns:repeat(4,minmax(0,1fr));margin-bottom:48px}
+.p15.p15 a.p15-cc{gap:0;padding:14px 14px 16px}
+.p15.p15 .p15-cc-name{display:block;font-family:var(--f-cond);font-weight:700;font-size:1.2rem;line-height:1.2;margin:14px 0 4px}
+.p15.p15 .p15-cc-job{display:block;font-size:.9rem;color:#3a3642;margin:0 0 12px}
+.p15.p15 a.p15-cc:hover .p15-cc-job{color:var(--ink)}
+.p15.p15 .p15-cc-foot{display:flex;justify-content:space-between;align-items:center;gap:8px;margin-top:auto;font-size:.85rem}
+.p15.p15 .p15-cc-foot .p15-mem{display:flex;align-items:center}
+.p15.p15 a.p15-sc,.p15.p15 a.p15-sc:hover,.p15.p15 a.p15-cc,.p15.p15 a.p15-cc:hover{text-decoration-line:none !important}
+.p15.p15 .p15-small{list-style:none;margin:0 0 40px;padding:0;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px}
+.p15.p15 .p15-small>li{margin:0;padding:0;display:flex}
+.p15.p15 .p15-small>li::before{content:none;display:none}
+.p15.p15 .p15-sc{display:flex;align-items:center;gap:12px;width:100%;padding:10px 14px;border:1px solid var(--line);border-radius:16px;background:#fff;color:var(--ink);text-decoration:none}
+.p15.p15 a.p15-sc{border:2px solid var(--ink)}
+.p15.p15 a.p15-cc:hover{background:var(--grad)}
+.p15.p15 a.p15-sc:hover{background:var(--grad);color:var(--ink);text-decoration:none}
+.p15.p15 .p15-sc .p15-photo{width:52px;flex:none;border-radius:50%;font-size:1.4rem;aspect-ratio:1/1}
+.p15.p15 .p15-sc .p15-r-main{min-width:0;flex:1}
+.p15.p15 .p15-r-name{display:block;font-family:var(--f-cond);font-weight:700;font-size:1.05rem;line-height:1.2}
+.p15.p15 .p15-r-job{display:block;font-size:.84rem;color:var(--muted);line-height:1.3}
+.p15.p15 a.p15-sc:hover .p15-r-job{color:var(--ink)}
+.p15.p15 .p15-r-meta{display:flex;align-items:center;gap:6px;font-size:.78rem;color:var(--muted);margin-top:3px}
+.p15.p15 a.p15-sc:hover .p15-r-meta{color:var(--ink)}
+.p15.p15 .p15-r-n{font-family:var(--f-cond);font-weight:700;font-size:.95rem;flex:none}
+.p15.p15 .p15-sc .p15-go{font-weight:700;flex:none}
+.p15.p15 .p15-hint{font-size:.82rem;color:var(--muted);margin-right:auto}
+.p15.p15 .p15-cand-modal .p15-modal-count{flex:none;text-align:left}
+.p15.p15 button.p15-x{background:#fff;color:var(--ink);border-color:var(--ink)}
+.p15.p15 button.p15-x:hover{background:var(--grad);color:var(--ink)}
+.p15.p15 .p15-cand-top{display:grid;grid-template-columns:320px minmax(0,1fr);gap:32px;align-items:start;margin:0 0 24px}
+.p15.p15 .p15-cand-top .p15-photo{aspect-ratio:3/4;border-radius:20px;font-size:5rem}
+.p15.p15 .p15-cand-top .p15-photo img{object-position:50% 30%}
+.p15.p15 .p15-cand-name{font-family:var(--f-cond);font-weight:700;font-size:clamp(1.9rem,4vw,2.7rem);line-height:1.1;margin:0 0 6px;padding:0;text-transform:none}
+.p15.p15 .p15-cand-title{font-size:.95rem;color:var(--muted);margin:0 0 8px}
+.p15.p15 .p15-cand-job{font-size:1.15rem;font-weight:500;margin:0 0 10px}
+.p15.p15 .p15-cand-aff{display:flex;align-items:center;font-size:.92rem;color:var(--muted);margin:0 0 16px}
+.p15.p15 .p15-cand-focus{font-size:1.2rem;font-weight:500;border-left:6px solid var(--yellow);padding:4px 0 4px 16px;margin:0}
+.p15.p15 .p15-cand-focus b{display:block;font-family:var(--f-cond);font-size:.8rem;letter-spacing:.07em;text-transform:uppercase;color:var(--muted)}
+.p15.p15 .p15-cand-bio{max-width:46em}
+.p15.p15 .p15-cand-bio p+p{margin-top:12px}
+.p15.p15 .p15-cand-acts{background:var(--soft);border-radius:18px;padding:20px 22px;margin-top:20px;max-width:46em}
+.p15.p15 .p15-cand-acts h3{margin:0 0 10px}
+.p15.p15 .p15-cand-acts ul{list-style:none;margin:0;padding:0;display:block}
+.p15.p15 .p15-cand-acts li{margin:0 0 8px;padding:0 0 0 14px;position:relative;font-size:.93rem}
+.p15.p15 .p15-cand-acts li::before{content:"";position:absolute;left:0;top:.55em;width:6px;height:6px;border-radius:50%;background:var(--ink);margin:0}
+.p15.p15 .p15-todo{background:var(--soft);border-radius:14px;padding:12px 16px;font-size:.93rem}
+.p15.p15 button.p15-arrow{position:fixed;top:50%;z-index:5;transform:translateY(-50%);width:48px;height:48px;border-radius:50%;border:2px solid var(--ink);background:#fff;color:var(--ink);font-size:1.4rem;font-weight:700;line-height:1;cursor:pointer;box-shadow:0 6px 18px rgba(13,12,16,.3)}
+.p15.p15 button.p15-arrow:hover{background:var(--grad)}
+.p15.p15 button.p15-arrow--prev{left:max(8px,calc(50% - 520px - 64px))}
+.p15.p15 button.p15-arrow--next{right:max(8px,calc(50% - 520px - 64px))}
+.p15.p15:not(.p15-js) button.p15-arrow,.p15.p15:not(.p15-js) .p15-hint{display:none}
+@media (max-width:1000px){.p15.p15 .p15-cand-cards{grid-template-columns:repeat(2,minmax(0,1fr))}.p15.p15 .p15-small{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media (max-width:600px){
+ .p15.p15 .p15-small{grid-template-columns:minmax(0,1fr)}
+ .p15.p15 .p15-photo{font-size:2.6rem}
+ .p15.p15 .p15-sc .p15-photo{font-size:1.3rem}
+ .p15.p15 .p15-cand-top{grid-template-columns:minmax(0,1fr);gap:16px}
+ .p15.p15 .p15-cand-top .p15-photo{max-width:300px}
+ .p15.p15 .p15-hint{display:none}
+ .p15.p15 button.p15-arrow{top:auto;bottom:16px;transform:none;width:44px;height:44px}
+ .p15.p15 button.p15-arrow--prev{left:12px}
+ .p15.p15 button.p15-arrow--next{right:12px}
+}
+</style>
+<section class="p15-hero"><div class="p15-hero-main"><p class="p15-kicker">Komunální volby 9.–10. října 2026</p><p class="p15-hero-title">Kdo vás bude zastupovat</p><p class="p15-hero-sub">Společná kandidátka Pirátů a Praha 15 sobě. Jsme učitelé, lékařky, programátoři, úřednice i důchodci a všichni žijeme v Praze 15.</p></div><div class="p15-badge" role="img" aria-label="Volte číslo 9"><span class="p15-badge-top">Volte číslo</span><span class="p15-badge-num">9</span></div></section>
+<h2 class="p15-h2 p15-cards-title" id="celni">Čelní kandidáti</h2><p class="p15-cards-hint">Klikněte na kandidáta a zobrazí se podrobnosti. Okno zavřete kliknutím kamkoli.</p>
+<ul class="p15-cards p15-cand-cards"><li><a class="p15-card p15-cc" href="#pavel-petrasek" data-cand="pavel-petrasek"><span class="p15-photo" aria-hidden="true">PP<img src="/volby/img/kandidati/pavel-petrasek.jpg" alt="" loading="lazy"><span class="p15-num">1</span></span><span class="p15-cc-name">Mgr. Pavel Petrášek</span><span class="p15-cc-job">středoškolský učitel, zastupitel</span><span class="p15-cc-foot"><span class="p15-mem"><i class="p15-dot"></i>Člen Pirátů</span><span class="p15-card-more">Více →</span></span></a></li><li><a class="p15-card p15-cc" href="#michal-petlach" data-cand="michal-petlach"><span class="p15-photo" aria-hidden="true">MP<img src="/volby/img/kandidati/michal-petlach.jpg" alt="" loading="lazy"><span class="p15-num">2</span></span><span class="p15-cc-name">Mgr. Michal Petlach</span><span class="p15-cc-job">projektový manažer, zastupitel</span><span class="p15-cc-foot"><span class="p15-mem"><i class="p15-dot"></i>bez PP</span><span class="p15-card-more">Více →</span></span></a></li><li><a class="p15-card p15-cc" href="#michal-gust" data-cand="michal-gust"><span class="p15-photo" aria-hidden="true">MG<img src="/volby/img/kandidati/michal-gust.jpg" alt="" loading="lazy"><span class="p15-num">3</span></span><span class="p15-cc-name">Ing. Michal Gust</span><span class="p15-cc-job">IT architekt</span><span class="p15-cc-foot"><span class="p15-mem"><i class="p15-dot"></i>bez PP</span><span class="p15-card-more">Více →</span></span></a></li><li><a class="p15-card p15-cc" href="#martin-schaefer" data-cand="martin-schaefer"><span class="p15-photo" aria-hidden="true">MS<img src="/volby/img/kandidati/martin-schaefer.jpg" alt="" loading="lazy"><span class="p15-num">4</span></span><span class="p15-cc-name">Ing. Martin Schaefer</span><span class="p15-cc-job">AI konzultant a programátor</span><span class="p15-cc-foot"><span class="p15-mem"><i class="p15-dot is-ps"></i>Praha sobě</span><span class="p15-card-more">Více →</span></span></a></li></ul>
+<h2 class="p15-h2 p15-cards-title" id="kandidatka">Další kandidáti</h2><p class="p15-cards-hint">V pořadí na kandidátní listině. U kandidátů s rámečkem si můžete otevřít podrobnosti.</p>
+<p class="p15-legend"><span><i class="p15-dot"></i>Navrhují Piráti</span><span><i class="p15-dot is-ps"></i>Navrhuje Praha sobě</span><span>PP = politická příslušnost</span></p>
+<ul class="p15-small"><li><div class="p15-sc"><span class="p15-r-n">5</span><span class="p15-photo" aria-hidden="true">HH<img src="/volby/img/kandidati/halina-hola.jpg" alt="" loading="lazy"></span><span class="p15-r-main"><span class="p15-r-name">Ing. Bc. Halina Holá</span><span class="p15-r-job">lektorka přírodovědných programů, 48 let</span><span class="p15-r-meta"><i class="p15-dot"></i>bez PP</span></span></div></li><li><div class="p15-sc"><span class="p15-r-n">6</span><span class="p15-photo" aria-hidden="true">LA<img src="/volby/img/kandidati/lucie-augustinova.jpg" alt="" loading="lazy"></span><span class="p15-r-main"><span class="p15-r-name">Mgr. Lucie Augustinová</span><span class="p15-r-job">státní úřednice, 44 let</span><span class="p15-r-meta"><i class="p15-dot"></i>bez PP</span></span></div></li><li><div class="p15-sc"><span class="p15-r-n">7</span><span class="p15-photo" aria-hidden="true">AB<img src="/volby/img/kandidati/alzbeta-brunerova.jpg" alt="" loading="lazy"></span><span class="p15-r-main"><span class="p15-r-name">MUDr. Alžběta Brunerová</span><span class="p15-r-job">lékařka, 38 let</span><span class="p15-r-meta"><i class="p15-dot is-ps"></i>bez PP</span></span></div></li><li><a class="p15-sc" href="#radka-danickova" data-cand="radka-danickova"><span class="p15-r-n">8</span><span class="p15-photo" aria-hidden="true">RD<img src="/volby/img/kandidati/radka-danickova.jpg" alt="" loading="lazy"></span><span class="p15-r-main"><span class="p15-r-name">Ing. Radka Daníčková</span><span class="p15-r-job">tajemnice úřadu, zastupitelka, 55 let</span><span class="p15-r-meta"><i class="p15-dot"></i>Člen Pirátů</span></span><span class="p15-go">→</span></a></li><li><div class="p15-sc"><span class="p15-r-n">9</span><span class="p15-photo" aria-hidden="true">SL</span><span class="p15-r-main"><span class="p15-r-name">JUDr. Sylvie Laušmanová</span><span class="p15-r-job">advokátka, 57 let</span><span class="p15-r-meta"><i class="p15-dot"></i>bez PP</span></span></div></li><li><a class="p15-sc" href="#tereza-smrckova" data-cand="tereza-smrckova"><span class="p15-r-n">10</span><span class="p15-photo" aria-hidden="true">TS<img src="/volby/img/kandidati/tereza-smrckova.jpg" alt="" loading="lazy"></span><span class="p15-r-main"><span class="p15-r-name">Mgr. Tereza Smrčková</span><span class="p15-r-job">manažerka udržitelnosti, 41 let</span><span class="p15-r-meta"><i class="p15-dot is-ps"></i>bez PP</span></span><span class="p15-go">→</span></a></li><li><a class="p15-sc" href="#marta-patakova" data-cand="marta-patakova"><span class="p15-r-n">11</span><span class="p15-photo" aria-hidden="true">MP<img src="https://a.pirati.cz/praha15/img/people/patakova-marta.png" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()"></span><span class="p15-r-main"><span class="p15-r-name">Bc. Marta Patáková</span><span class="p15-r-job">asistentka pedagoga na ZŠ, 45 let</span><span class="p15-r-meta"><i class="p15-dot"></i>bez PP</span></span><span class="p15-go">→</span></a></li><li><div class="p15-sc"><span class="p15-r-n">12</span><span class="p15-photo" aria-hidden="true">DP</span><span class="p15-r-main"><span class="p15-r-name">PhDr. Dagmar Milerová Prášková, Ph.D.</span><span class="p15-r-job">analytička, 45 let</span><span class="p15-r-meta"><i class="p15-dot"></i>bez PP</span></span></div></li><li><div class="p15-sc"><span class="p15-r-n">13</span><span class="p15-photo" aria-hidden="true">EB</span><span class="p15-r-main"><span class="p15-r-name">Ing. Eva Balášová</span><span class="p15-r-job">IT analytička, 45 let</span><span class="p15-r-meta"><i class="p15-dot"></i>bez PP</span></span></div></li><li><div class="p15-sc"><span class="p15-r-n">14</span><span class="p15-photo" aria-hidden="true">ZS<img src="/volby/img/kandidati/zuzana-stehlikova.jpg" alt="" loading="lazy"></span><span class="p15-r-main"><span class="p15-r-name">Mgr. Zuzana Stehlíková</span><span class="p15-r-job">projektová manažerka, 39 let</span><span class="p15-r-meta"><i class="p15-dot is-ps"></i>bez PP</span></span></div></li><li><div class="p15-sc"><span class="p15-r-n">15</span><span class="p15-photo" aria-hidden="true">MB</span><span class="p15-r-main"><span class="p15-r-name">Ing. Marcela Bučková</span><span class="p15-r-job">důchodkyně, 72 let</span><span class="p15-r-meta"><i class="p15-dot"></i>bez PP</span></span></div></li><li><div class="p15-sc"><span class="p15-r-n">16</span><span class="p15-photo" aria-hidden="true">JB</span><span class="p15-r-main"><span class="p15-r-name">Jan Batala</span><span class="p15-r-job">IT aplikační specialista, 41 let</span><span class="p15-r-meta"><i class="p15-dot"></i>bez PP</span></span></div></li><li><div class="p15-sc"><span class="p15-r-n">17</span><span class="p15-photo" aria-hidden="true">JP</span><span class="p15-r-main"><span class="p15-r-name">Mgr. Jana Podhorská</span><span class="p15-r-job">odborný pracovník statistiky, 44 let</span><span class="p15-r-meta"><i class="p15-dot is-ps"></i>bez PP</span></span></div></li><li><div class="p15-sc"><span class="p15-r-n">18</span><span class="p15-photo" aria-hidden="true">AK</span><span class="p15-r-main"><span class="p15-r-name">Alena Kašpárková, DiS.</span><span class="p15-r-job">zástupkyně ředitelky MŠ, 24 let</span><span class="p15-r-meta"><i class="p15-dot"></i>bez PP</span></span></div></li><li><a class="p15-sc" href="#yvona-kaderabkova" data-cand="yvona-kaderabkova"><span class="p15-r-n">19</span><span class="p15-photo" aria-hidden="true">YK<img src="https://a.pirati.cz/praha15/img/people/kaderabkova-yvona.png" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()"></span><span class="p15-r-main"><span class="p15-r-name">Yvona Kadeřábková</span><span class="p15-r-job">podolog, 62 let</span><span class="p15-r-meta"><i class="p15-dot"></i>bez PP</span></span><span class="p15-go">→</span></a></li><li><a class="p15-sc" href="#sabina-bergmanova" data-cand="sabina-bergmanova"><span class="p15-r-n">20</span><span class="p15-photo" aria-hidden="true">SB<img src="https://a.pirati.cz/praha15/img/people/bergmanova-sabina.png" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()"></span><span class="p15-r-main"><span class="p15-r-name">Sabina Bergmanová</span><span class="p15-r-job">podnikatelka, 52 let</span><span class="p15-r-meta"><i class="p15-dot"></i>bez PP</span></span><span class="p15-go">→</span></a></li><li><div class="p15-sc"><span class="p15-r-n">21</span><span class="p15-photo" aria-hidden="true">AS</span><span class="p15-r-main"><span class="p15-r-name">Alice Schaeferová</span><span class="p15-r-job">důchodkyně, 65 let</span><span class="p15-r-meta"><i class="p15-dot is-ps"></i>bez PP</span></span></div></li><li><div class="p15-sc"><span class="p15-r-n">22</span><span class="p15-photo" aria-hidden="true">MS</span><span class="p15-r-main"><span class="p15-r-name">Miloš Soukup</span><span class="p15-r-job">obchodní manažer, 60 let</span><span class="p15-r-meta"><i class="p15-dot"></i>bez PP</span></span></div></li><li><div class="p15-sc"><span class="p15-r-n">23</span><span class="p15-photo" aria-hidden="true">DZ</span><span class="p15-r-main"><span class="p15-r-name">David Zavadil</span><span class="p15-r-job">instruktor střelby, 52 let</span><span class="p15-r-meta"><i class="p15-dot"></i>bez PP</span></span></div></li><li><div class="p15-sc"><span class="p15-r-n">24</span><span class="p15-photo" aria-hidden="true">MN</span><span class="p15-r-main"><span class="p15-r-name">Marek Nykodém</span><span class="p15-r-job">správce e-shopu, 41 let</span><span class="p15-r-meta"><i class="p15-dot is-ps"></i>bez PP</span></span></div></li><li><div class="p15-sc"><span class="p15-r-n">25</span><span class="p15-photo" aria-hidden="true">SA</span><span class="p15-r-main"><span class="p15-r-name">Svatopluk Adámek</span><span class="p15-r-job">manažer e-commerce, 41 let</span><span class="p15-r-meta"><i class="p15-dot"></i>bez PP</span></span></div></li><li><div class="p15-sc"><span class="p15-r-n">26</span><span class="p15-photo" aria-hidden="true">LP</span><span class="p15-r-main"><span class="p15-r-name">Mgr. Lenka Petrášková</span><span class="p15-r-job">fyzioterapeutka, 40 let</span><span class="p15-r-meta"><i class="p15-dot"></i>bez PP</span></span></div></li><li><div class="p15-sc"><span class="p15-r-n">27</span><span class="p15-photo" aria-hidden="true">PH</span><span class="p15-r-main"><span class="p15-r-name">Mgr. Ing. Petr Holý</span><span class="p15-r-job">odborný referent, 47 let</span><span class="p15-r-meta"><i class="p15-dot"></i>bez PP</span></span></div></li><li><div class="p15-sc"><span class="p15-r-n">28</span><span class="p15-photo" aria-hidden="true">JS</span><span class="p15-r-main"><span class="p15-r-name">Ing. Jan Schaefer</span><span class="p15-r-job">specialista zákaznické cesty, 64 let</span><span class="p15-r-meta"><i class="p15-dot is-ps"></i>bez PP</span></span></div></li><li><div class="p15-sc"><span class="p15-r-n">29</span><span class="p15-photo" aria-hidden="true">PA</span><span class="p15-r-main"><span class="p15-r-name">Petr Augustin, DiS.</span><span class="p15-r-job">projektový manažer, 46 let</span><span class="p15-r-meta"><i class="p15-dot"></i>bez PP</span></span></div></li><li><div class="p15-sc"><span class="p15-r-n">30</span><span class="p15-photo" aria-hidden="true">TD</span><span class="p15-r-main"><span class="p15-r-name">Ing. Tomáš Daníček</span><span class="p15-r-job">projektový manažer, 60 let</span><span class="p15-r-meta"><i class="p15-dot"></i>bez PP</span></span></div></li><li><div class="p15-sc"><span class="p15-r-n">31</span><span class="p15-photo" aria-hidden="true">JH</span><span class="p15-r-main"><span class="p15-r-name">Ing. Jaroslav Hůrka</span><span class="p15-r-job">pojistný matematik, 47 let</span><span class="p15-r-meta"><i class="p15-dot is-ps"></i>bez PP</span></span></div></li></ul>
+<dialog class="p15-modal p15-cand-modal" id="c-pavel-petrasek" data-slug="pavel-petrasek" aria-label="Pavel Petrášek"><div class="p15-modal-bar"><div class="p15-modal-row"><span class="p15-modal-count">Kandidát č. 1</span><span class="p15-hint">Klikněte kamkoli pro zavření</span><button class="p15-x" data-p15-close type="button">Zavřít ×</button></div></div><button class="p15-arrow p15-arrow--prev" data-nav="-1" type="button" aria-label="Předchozí kandidát">←</button><button class="p15-arrow p15-arrow--next" data-nav="1" type="button" aria-label="Další kandidát">→</button><div class="p15-modal-body"><div class="p15-cand-top"><span class="p15-photo" aria-hidden="true">PP<img src="/volby/img/kandidati/pavel-petrasek.jpg" alt="" loading="lazy"><span class="p15-num p15-num--lg">1</span></span><div><h2 class="p15-cand-name">Pavel Petrášek</h2><p class="p15-cand-title">Mgr.</p><p class="p15-cand-job">středoškolský učitel, zastupitel, 44 let</p><p class="p15-cand-aff"><i class="p15-dot"></i>Člen Pirátů, navrhují Piráti</p><p class="p15-cand-focus"><b>Heslo</b>Moderní třídy a bezpečná cesta do školy. Náš úkol pro Prahu 15.</p></div></div><div class="p15-cand-bio"><p>Pavel Petrášek je středoškolský učitel matematiky a fyziky. Na Praze 15 žije od roku 2016.</p><p>Školství na Praze 15 musí zůstat moderní. Je povinností městské části poskytnout školám podporu, aby naše školy držely krok s ostatními a v některých oblastech byly i vzorem dobré praxe. Rozvoj školství znamená neustálou práci, která se nesmí zastavit.</p><p>Pro městskou část pak jako hlavní zdroj rozvoje vidím transparentnost a plnou kontrolu politiků, zapojení občanů a odborníků. Zvolený politik má občanům sloužit, ne jim vládnout.</p></div></div></dialog><dialog class="p15-modal p15-cand-modal" id="c-michal-petlach" data-slug="michal-petlach" aria-label="Michal Petlach"><div class="p15-modal-bar"><div class="p15-modal-row"><span class="p15-modal-count">Kandidát č. 2</span><span class="p15-hint">Klikněte kamkoli pro zavření</span><button class="p15-x" data-p15-close type="button">Zavřít ×</button></div></div><button class="p15-arrow p15-arrow--prev" data-nav="-1" type="button" aria-label="Předchozí kandidát">←</button><button class="p15-arrow p15-arrow--next" data-nav="1" type="button" aria-label="Další kandidát">→</button><div class="p15-modal-body"><div class="p15-cand-top"><span class="p15-photo" aria-hidden="true">MP<img src="/volby/img/kandidati/michal-petlach.jpg" alt="" loading="lazy"><span class="p15-num p15-num--lg">2</span></span><div><h2 class="p15-cand-name">Michal Petlach</h2><p class="p15-cand-title">Mgr.</p><p class="p15-cand-job">projektový manažer, zastupitel, 42 let</p><p class="p15-cand-aff"><i class="p15-dot"></i>bez politické příslušnosti, navrhují Piráti</p><p class="p15-cand-focus"><b>Heslo</b>Rozvoj ano. S rozumem a pro Prahu 15.</p></div></div><div class="p15-cand-bio"><p>Michal Petlach se více než 15 let věnuje klinickému hodnocení léčiv a v současnosti pracuje jako projektový manažer ve farmaceutickém průmyslu a IT. Na Praze 15 žije od roku 2018, od roku 2022 působí jako zastupitel a je členem Výboru pro územní rozvoj. Do komunální politiky vstoupil se zájmem o budoucnost Trojmezí, dnes se aktivně věnuje rozvoji celé Prahy 15.</p><p>Jeho prioritou je odpovědný rozvoj městské části, který zachová kvalitu života stávajících obyvatel. Podporuje vznik nových bytů, zároveň však prosazuje, aby nová výstavba byla doprovázena dostatečnými kapacitami škol, zdravotních a dalších služeb, zeleně, dopravy i parkování. Je přesvědčen, že rozvoj městské části musí přinášet prospěch všem obyvatelům. Proto podporuje férová a transparentní pravidla, podle kterých se investoři podílejí na financování škol, veřejných služeb, dopravy i dostupného obecního bydlení pro klíčové profese a mladé rodiny, aby náklady rozvoje nenesli především stávající obyvatelé.</p></div></div></dialog><dialog class="p15-modal p15-cand-modal" id="c-michal-gust" data-slug="michal-gust" aria-label="Michal Gust"><div class="p15-modal-bar"><div class="p15-modal-row"><span class="p15-modal-count">Kandidát č. 3</span><span class="p15-hint">Klikněte kamkoli pro zavření</span><button class="p15-x" data-p15-close type="button">Zavřít ×</button></div></div><button class="p15-arrow p15-arrow--prev" data-nav="-1" type="button" aria-label="Předchozí kandidát">←</button><button class="p15-arrow p15-arrow--next" data-nav="1" type="button" aria-label="Další kandidát">→</button><div class="p15-modal-body"><div class="p15-cand-top"><span class="p15-photo" aria-hidden="true">MG<img src="/volby/img/kandidati/michal-gust.jpg" alt="" loading="lazy"><span class="p15-num p15-num--lg">3</span></span><div><h2 class="p15-cand-name">Michal Gust</h2><p class="p15-cand-title">Ing.</p><p class="p15-cand-job">IT architekt, 51 let</p><p class="p15-cand-aff"><i class="p15-dot"></i>bez politické příslušnosti, navrhují Piráti</p></div></div><div class="p15-cand-bio"><p>Michal Gust pochází z Mostu, vystudoval ČVUT FEL a na Praze 15 žije téměř 25 let, v Horních Měcholupech. Pracuje jako IT architekt: navrhuje a buduje počítačové sítě a infrastrukturu. Podílel se i na vzniku studentské sítě na Strahově. Vedle toho se věnuje koučování.</p><p>V letech 2023 až 2025 předsedal Komisi dopravy a prostředí pro život Rady městské části Praha 15. Zajímá se o dopravu, digitalizaci, energetiku a ekonomii. Ve volném čase se věnuje rodině, cestování a horám.</p></div></div></dialog><dialog class="p15-modal p15-cand-modal" id="c-martin-schaefer" data-slug="martin-schaefer" aria-label="Martin Schaefer"><div class="p15-modal-bar"><div class="p15-modal-row"><span class="p15-modal-count">Kandidát č. 4</span><span class="p15-hint">Klikněte kamkoli pro zavření</span><button class="p15-x" data-p15-close type="button">Zavřít ×</button></div></div><button class="p15-arrow p15-arrow--prev" data-nav="-1" type="button" aria-label="Předchozí kandidát">←</button><button class="p15-arrow p15-arrow--next" data-nav="1" type="button" aria-label="Další kandidát">→</button><div class="p15-modal-body"><div class="p15-cand-top"><span class="p15-photo" aria-hidden="true">MS<img src="/volby/img/kandidati/martin-schaefer.jpg" alt="" loading="lazy"><span class="p15-num p15-num--lg">4</span></span><div><h2 class="p15-cand-name">Martin Schaefer</h2><p class="p15-cand-title">Ing.</p><p class="p15-cand-job">AI konzultant a programátor, 38 let</p><p class="p15-cand-aff"><i class="p15-dot is-ps"></i>Praha sobě, navrhuje Praha sobě</p><p class="p15-cand-focus"><b>Heslo</b>Tady jsem vyrostl. Tady chci žít a věci posouvat.</p></div></div><div class="p15-cand-bio"><p>Martin vyrůstal na Košíku. Se spolužáky ze ZŠ Hostivař trávil na sídlišti čas zejména fotbalem. Vystudoval Křesťanské gymnázium a poté umělou inteligenci na FEL ČVUT. Na gymnáziu potkal svou manželku, se kterou dnes na Košíku vychovávají děti.</p><p>Zajímá se o dění ve svém okolí, má rád dobré jídlo a kávu a rád propojuje lidi.</p><p>Pracoval na univerzitě, ve startupu i ve velké IT firmě. Dnes jako konzultant pomáhá firmám zavádět umělou inteligenci a využívat výpočetní optimalizaci. Vedle vedení projektů, týmu a komunikace se zákazníky ho stále baví i programovat.</p><p>Vadí mu, že Praha 15 v mnoha oblastech nenaplňuje svůj potenciál. Věří, že když člověk vidí, co je potřeba zlepšit, nemá jen čekat, až to udělá někdo jiný, ale má se zapojit a hledat řešení spolu s ostatními. Proto je součástí Praha 15 sobě.</p></div></div></dialog><dialog class="p15-modal p15-cand-modal" id="c-radka-danickova" data-slug="radka-danickova" aria-label="Radka Daníčková"><div class="p15-modal-bar"><div class="p15-modal-row"><span class="p15-modal-count">Kandidát č. 8</span><span class="p15-hint">Klikněte kamkoli pro zavření</span><button class="p15-x" data-p15-close type="button">Zavřít ×</button></div></div><button class="p15-arrow p15-arrow--prev" data-nav="-1" type="button" aria-label="Předchozí kandidát">←</button><button class="p15-arrow p15-arrow--next" data-nav="1" type="button" aria-label="Další kandidát">→</button><div class="p15-modal-body"><div class="p15-cand-top"><span class="p15-photo" aria-hidden="true">RD<img src="/volby/img/kandidati/radka-danickova.jpg" alt="" loading="lazy"><span class="p15-num p15-num--lg">8</span></span><div><h2 class="p15-cand-name">Radka Daníčková</h2><p class="p15-cand-title">Ing.</p><p class="p15-cand-job">tajemnice úřadu, zastupitelka, 55 let</p><p class="p15-cand-aff"><i class="p15-dot"></i>Člen Pirátů, navrhují Piráti</p><p class="p15-cand-focus"><b>Čemu se věnuje</b>Ekonom, Finance a majetek, územní rozvoj a životní prostředí, Hostivař</p></div></div><div class="p15-cand-bio"><p>Radka Daníčková ( 1971) pochází z východočeského Letohradu a od dob vysokoškolských studií žije v Praze. Vystudovala ekonomii a management na Provozně ekonomické fakultě ČZU v Praze. Má dlouholetou praxi jako ekonomka a účetní obchodně výrobní společnosti.</p><p>Své dva syny s manželem vychovávali na Vinohradech a v roce 2014 založili vlastní bydlení dále centru po ose metra A a tram 22 v Hostivaři. To však způsobilo pohyb následujících událostí. Nespokojeně přihlížela devastaci zeleně a původní přírody, nekoncepční a přebujelé výstavbě, kterou neprovází dostatečná občanská vybavenost. Zapojila se do občanského dění.</p><p>V roce 2018 kandidovala do zastupitelstva městské části Praha 15 v rámci volebního uskupení Patnáctka náš domov. Jako pirátská kandidátka obdržela od voličů vůbec nejvíce hlasů. Tato projevená důvěra, zastávání zastupitelského mandátu a veškerá témata veřejné správy ji pohltily natolik, že se v roce 2019 rozhodla ve své profesi a předmětu účetnictví tak trošku změnit kurs. Přihlásila se do výběrového řízení na hlavní účetní a rozpočtářku v jedné z pražských městských částí a prošla vlastním rekvalifikačním procesem ve finančním hospodaření uzemních samosprávných celků a jeho přezkumu.</p><p>Svůj volný čas věnuje rodině a přátelům. Ráda jej vyplňuje poznáváním a sportem, nejlépe v přírodě. Spoluorganizuje amatérský volejbal. Po celý rok ji můžete potkat při procházkách a na cyklistických vyjížďkách, v zimě na běžkařských tratích. Ráda též relaxuje při různých kulturních příležitostech, tanci a četbě.</p></div><p class="p15-cand-bio"><i>„Přála bych si, aby Piráti jako nováček na místní politické scéně byli sebevědomým a kompetentním partnerem, zároveň také tmelícím elementem občansko - politické kultury v Praze 15, a to prostřednictvím naplňování pirátských tezí: rovnoprávné a svobodné konání, sdílení informací a informační otevřenost, transparentní hospodaření i jednání.“ (2018)</i></p><aside class="p15-cand-acts"><h3 class="p15-h3">Aktivity</h3><ul><li>12/2019 členka České pirátské strany (členka Krajských expertních týmů Finance, Územní rozvoj, Životní prostředí)</li><li>12/2018 členka majetkové komise Rady městské části Praha 15</li><li>10/2018 zastupitelka městské části Praha 15 a členka finančního výboru Zastupitelstva městské části Praha 15</li><li>04/2018 registrovaný příznivec Pirátů</li><li>10/2017 členka Patnáctka – náš domov, z.s.</li></ul></aside></div></dialog><dialog class="p15-modal p15-cand-modal" id="c-tereza-smrckova" data-slug="tereza-smrckova" aria-label="Tereza Smrčková"><div class="p15-modal-bar"><div class="p15-modal-row"><span class="p15-modal-count">Kandidát č. 10</span><span class="p15-hint">Klikněte kamkoli pro zavření</span><button class="p15-x" data-p15-close type="button">Zavřít ×</button></div></div><button class="p15-arrow p15-arrow--prev" data-nav="-1" type="button" aria-label="Předchozí kandidát">←</button><button class="p15-arrow p15-arrow--next" data-nav="1" type="button" aria-label="Další kandidát">→</button><div class="p15-modal-body"><div class="p15-cand-top"><span class="p15-photo" aria-hidden="true">TS<img src="/volby/img/kandidati/tereza-smrckova.jpg" alt="" loading="lazy"><span class="p15-num p15-num--lg">10</span></span><div><h2 class="p15-cand-name">Tereza Smrčková</h2><p class="p15-cand-title">Mgr.</p><p class="p15-cand-job">manažerka udržitelnosti, 41 let</p><p class="p15-cand-aff"><i class="p15-dot is-ps"></i>bez politické příslušnosti, navrhuje Praha sobě</p></div></div><div class="p15-cand-bio"><p>Tereza Smrčková je manažerka udržitelnosti a na Praze 15 žije od roku 2016. Ve své profesní praxi se věnuje udržitelnosti a hledání řešení, která mají konkrétní a měřitelný přínos. Stejný přístup chce přinést i do rozvoje Prahy 15. Věří v rozhodování založené na datech, odborných názorech a vyhodnocování skutečných dopadů projektů. Za důležité považuje také inspiraci příklady dobré praxe z Česka i zahraničí a strategické začlenění adaptace na klimatickou změnu do územního plánování. Promyšlená práce se zelení, vodou a veřejným prostorem může zlepšovat mikroklima a především kvalitu každodenního života obyvatel Prahy 15.</p><p>Stejně důležité je pro ni zapojení lidí, kteří na Praze 15 žijí. Dobré projekty podle ní nevznikají pouze od stolu, ale v dialogu s občany a místními komunitami. Chce proto podporovat komunitní život, aktivní obyvatele a jejich větší zapojení do rozhodování o tom, jak se Praha 15 bude dál rozvíjet.</p></div></div></dialog><dialog class="p15-modal p15-cand-modal" id="c-marta-patakova" data-slug="marta-patakova" aria-label="Marta Patáková"><div class="p15-modal-bar"><div class="p15-modal-row"><span class="p15-modal-count">Kandidát č. 11</span><span class="p15-hint">Klikněte kamkoli pro zavření</span><button class="p15-x" data-p15-close type="button">Zavřít ×</button></div></div><button class="p15-arrow p15-arrow--prev" data-nav="-1" type="button" aria-label="Předchozí kandidát">←</button><button class="p15-arrow p15-arrow--next" data-nav="1" type="button" aria-label="Další kandidát">→</button><div class="p15-modal-body"><div class="p15-cand-top"><span class="p15-photo" aria-hidden="true">MP<img src="https://a.pirati.cz/praha15/img/people/patakova-marta.png" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()"><span class="p15-num p15-num--lg">11</span></span><div><h2 class="p15-cand-name">Marta Patáková</h2><p class="p15-cand-title">Bc.</p><p class="p15-cand-job">asistentka pedagoga na ZŠ, 45 let</p><p class="p15-cand-aff"><i class="p15-dot"></i>bez politické příslušnosti, navrhují Piráti</p><p class="p15-cand-focus"><b>Čemu se věnuje</b>Lektorka v rodinném centru, pedagog MŠ, péče o rodinu a děti, Hostivař</p></div></div><div class="p15-cand-bio"><p>Marta Patáková ( 1981) žije v Hostivaři od roku 1982. Vystudovala střední pedagogickou školu, obor předškolní a mimoškolní pedagogika. Dále pokračovala ve studiu bakalářského oboru sociální a masová komunikace. Svůj pracovní život zasvětila dětem.</p><p>Před pár měsíci se rozhodla připojit k Pirátům, aby věci kolem sebe nejenom posuzovala, ale měla případně příležitost je také měnit.</p><p>Jako pedagog a maminka se denně setkává s velkou potřebou rodin s malými dětmi ohledně dostupných alternativ k mateřským školám, i k těm soukromým. Vnímá, že v Praze 15 je nedostatek vhodných prostor a možností vytvářet nekomerční komunitní dětské skupiny nebo miniškolky, také malá informovanost o možnostech dosáhnout na účelové granty a financování takových aktivit. Ráda by napomohla k větší provázanosti služeb pro mladé rodiny a maminky s dětmi.</p><p>Svůj volný čas nejraději tráví se svými blízkými v přírodě.</p></div></div></dialog><dialog class="p15-modal p15-cand-modal" id="c-yvona-kaderabkova" data-slug="yvona-kaderabkova" aria-label="Yvona Kadeřábková"><div class="p15-modal-bar"><div class="p15-modal-row"><span class="p15-modal-count">Kandidát č. 19</span><span class="p15-hint">Klikněte kamkoli pro zavření</span><button class="p15-x" data-p15-close type="button">Zavřít ×</button></div></div><button class="p15-arrow p15-arrow--prev" data-nav="-1" type="button" aria-label="Předchozí kandidát">←</button><button class="p15-arrow p15-arrow--next" data-nav="1" type="button" aria-label="Další kandidát">→</button><div class="p15-modal-body"><div class="p15-cand-top"><span class="p15-photo" aria-hidden="true">YK<img src="https://a.pirati.cz/praha15/img/people/kaderabkova-yvona.png" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()"><span class="p15-num p15-num--lg">19</span></span><div><h2 class="p15-cand-name">Yvona Kadeřábková</h2><p class="p15-cand-job">podolog, 62 let</p><p class="p15-cand-aff"><i class="p15-dot"></i>bez politické příslušnosti, navrhují Piráti</p><p class="p15-cand-focus"><b>Čemu se věnuje</b>Průvodkyně v cestovním ruchu, podolog, Životní prostředí a komunitní život, Horní Měcholupy</p></div></div><div class="p15-cand-bio"><p>Yvona Kadeřábková (1964) pochází z Prahy a téměř 30 let žije v Horních Měcholupech v Praze 15. Vzdělání má ekonomické, vystudovala střední ekonomickou školu. Pracuje jako průvodkyně v cestovním ruchu v Praze i v celé ČR a dále je specialistou v oboru podologie.</p><p>Je aktivní v rámci společenství vlastníků a správy bytového domu jako předsedkyně výboru SVJ.</p><p>Na správě městské části ji zajímá především zlepšování životního prostředí a komunitního života v Praze 15.</p><p>Svůj volný čas ráda tráví v divadle a na koncertech, četbou, sportem, procházkami a objevováním přírodních i architektonických krás Čech a Moravy.</p></div></div></dialog><dialog class="p15-modal p15-cand-modal" id="c-sabina-bergmanova" data-slug="sabina-bergmanova" aria-label="Sabina Bergmanová"><div class="p15-modal-bar"><div class="p15-modal-row"><span class="p15-modal-count">Kandidát č. 20</span><span class="p15-hint">Klikněte kamkoli pro zavření</span><button class="p15-x" data-p15-close type="button">Zavřít ×</button></div></div><button class="p15-arrow p15-arrow--prev" data-nav="-1" type="button" aria-label="Předchozí kandidát">←</button><button class="p15-arrow p15-arrow--next" data-nav="1" type="button" aria-label="Další kandidát">→</button><div class="p15-modal-body"><div class="p15-cand-top"><span class="p15-photo" aria-hidden="true">SB<img src="https://a.pirati.cz/praha15/img/people/bergmanova-sabina.png" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()"><span class="p15-num p15-num--lg">20</span></span><div><h2 class="p15-cand-name">Sabina Bergmanová</h2><p class="p15-cand-job">podnikatelka, 52 let</p><p class="p15-cand-aff"><i class="p15-dot"></i>bez politické příslušnosti, navrhují Piráti</p></div></div><div class="p15-cand-bio"><p>Sabina Bergmanová ( 1974) se narodila v Liberci, ale od svých 5 let prožila část dětství v Hostivaři, kde bydlí opět několik posledních let se svým synem.</p><p>Vystudovala Střední uměleckoprůmyslovou školu v Praze. Pracovala pro mezinárodní společnosti v oblasti marketingu a nyní je podnikatelkou, věnuje se PR.</p><p>Zajímá se o oblast školství a vzdělávání a kulturu.</p><p>Miluje dobré jídlo a víno, sport a cestování.</p></div></div></dialog>
+<script>
+(function(){
+var root=document.querySelector('.p15.p15-cand'); if(!root) return;
+if(!window.HTMLDialogElement){return;}
+root.classList.add('p15-js');
+var dlgs=[].slice.call(root.querySelectorAll('dialog.p15-modal')), html=document.documentElement;
+function cur(){return root.querySelector('dialog[open]');}
+function setHash(h){try{history.replaceState(null,'',h?('#'+h):location.pathname+location.search);}catch(e){}}
+function openD(d){var o=cur(); if(o&&o!==d){o.close();} if(!d.open){d.showModal();} html.classList.add('p15-lock'); setHash(d.getAttribute('data-slug')); d.setAttribute('tabindex','-1'); d.focus({preventScroll:true}); d.scrollTop=0;}
+function closeD(){var o=cur(); if(o){o.close();} html.classList.remove('p15-lock'); setHash('');}
+function step(n){var o=cur(); if(!o) return; var i=(dlgs.indexOf(o)+n+dlgs.length)%dlgs.length; openD(dlgs[i]);}
+root.addEventListener('click',function(e){
+  var a=e.target.closest('a[data-cand]'); if(a){e.preventDefault(); var d=document.getElementById('c-'+a.getAttribute('data-cand')); if(d) openD(d);}
+});
+dlgs.forEach(function(d){
+  d.addEventListener('click',function(e){
+    var n=e.target.closest('button[data-nav]'); if(n){e.stopPropagation(); step(parseInt(n.getAttribute('data-nav'),10)); return;}
+    if(e.target.closest('a')) return;
+    var s=window.getSelection&&window.getSelection(); if(s&&String(s).length>0) return;
+    closeD();
+  });
+  d.addEventListener('cancel',function(e){e.preventDefault(); closeD();});
+});
+document.addEventListener('keydown',function(e){ if(!cur()) return; if(e.key==='ArrowRight'){e.preventDefault(); step(1);} else if(e.key==='ArrowLeft'){e.preventDefault(); step(-1);} });
+function fromHash(){var h=location.hash.slice(1); var d=h&&document.getElementById('c-'+h); if(d&&d.matches('dialog')) openD(d);}
+window.addEventListener('hashchange',function(){if(!location.hash.slice(1)){if(cur()){cur().close(); html.classList.remove('p15-lock');}} else fromHash();});
+fromHash();
+})();
+</script></div>
