@@ -152,7 +152,7 @@ html.p15-lock{overflow:hidden;scrollbar-gutter:stable}
 .p15.p15{--grad:linear-gradient(90deg,#CF7BCC 0%,#FEC900 60%,#FEE000 100%)}
 .p15.p15 .p15-hero{background:radial-gradient(110% 100% at 0% 100%,#4a2c7a 0%,rgba(74,44,122,0) 62%),#0D0C10}
 .p15.p15 .p15-dot{display:inline-block;flex:none;width:12px;height:12px;border-radius:50%;border:2px solid var(--ink);background:var(--ink);vertical-align:baseline;margin-right:6px}
-.p15.p15 .p15-dot.is-ps{background:#fff}
+.p15.p15 .p15-dot.is-ps{background:#f8dc28}
 .p15.p15 .p15-legend{display:flex;flex-wrap:wrap;gap:6px 20px;font-size:.9rem;color:var(--muted);margin:0 0 16px}
 .p15.p15 .p15-photo{position:relative;display:flex;align-items:center;justify-content:center;aspect-ratio:1/1;width:100%;border-radius:16px;overflow:hidden;background:#ECE8DD;color:var(--ink);font-family:var(--f-alt);font-size:4.2rem;letter-spacing:.02em}
 .p15.p15 .p15-photo img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:50% 18%}
