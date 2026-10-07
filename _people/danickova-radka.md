@@ -34,5 +34,3 @@ od 12/2018 členka majetkové komise Rady městské části Praha 15
 od 10/2018 zastupitelka městské části Praha 15 a členka finančního výboru Zastupitelstva městské části Praha 15
 od 04/2018 registrovaná příznivkyně Pirátů
 od 10/2017 členka Patnáctka – náš domov, z.s.
-
-politické kultury v Praze 15, a to prostřednictvím naplňování pirátských tezí: rovnoprávné a svobodné konání, sdílení informací a informační otevřenost, transparentní hospodaření i jednání.“ (2018)*
