@@ -20,19 +20,19 @@ profiles:
 profession: ekonomka v soukromé i veřejné sféře
 ---
 
-Radka Daníčková (* 1971) pochází z východočeského Letohradu a od dob vysokoškolských studií žije v Praze. Vystudovala ekonomii a management na Provozně ekonomické fakultě ČZU v Praze. Má dlouholetou praxi jako ekonomka a účetní obchodně výrobní společnosti. 
+Radka Daníčková pochází z východočeského Letohradu a od dob vysokoškolských studií žije v Praze. Je vystudovanou ekonomkou a ve své profesi tak trochu změnila kurs na veřejné finance a veřejnou správu. Pracuje jako tajemnice úřadu malé pražské městské části.
 
-Své dva syny s manželem vychovávali na Vinohradech a v roce 2014 založili vlastní bydlení dále centru po ose metra A a tram 22 v Hostivaři. To však způsobilo pohyb následujících událostí. Nespokojeně přihlížela devastaci zeleně a původní přírody, nekoncepční a přebujelé výstavbě, kterou neprovází dostatečná občanská vybavenost. Zapojila se do občanského dění.
+Aktivní na Patnáctce začala být krátce po přestěhování s rodinou z Vinohrad do Hostivaře před 12 lety, nebyla jí jedno devastace zeleně a původní přírody, nekoncepční a přebujelá výstavba, kterou provází nedostatečná občanská vybavenost, kdy město a veřejný prostor tvoří především investoři, nikoliv seběvědomá a poctivá samospráva. Postrádá místa pro život a setrvávání ve městě, rozvoj zelených ploch, bezpečné pěší vazby, náměstíčka pro setkávání sousedů a volné plochy i pro větší děti a mládež. V roce 2018 se stala zastupitelkou městské části Praha 15 za volební uskupení Patnáctka náš domov a v roce 2022 za Piráty a občany Prahy 15.
 
-V roce 2018 kandidovala do zastupitelstva městské části Praha 15 v rámci volebního uskupení Patnáctka náš domov. Jako pirátská kandidátka obdržela od voličů vůbec nejvíce hlasů. Tato projevená důvěra, zastávání zastupitelského mandátu a veškerá témata veřejné správy ji pohltily natolik, že se v roce 2019 rozhodla ve své profesi a předmětu účetnictví tak trošku změnit kurs. Přihlásila se do výběrového řízení na hlavní účetní a rozpočtářku v jedné z pražských městských částí a prošla vlastním rekvalifikačním procesem ve finančním hospodaření uzemních samosprávných celků a jeho přezkumu.
+Její motivací jsou situace, které se mohou zdát marné a ztrácející smysl, při kterých se hledají odrazující důvody, proč něco nejde. Při těch pomáhá a k těm směřuje svoji energii.
 
-Svůj volný čas věnuje rodině a přátelům. Ráda jej vyplňuje poznáváním a sportem, nejlépe v přírodě. Spoluorganizuje amatérský volejbal. Po celý rok ji můžete potkat při procházkách a na cyklistických vyjížďkách, v zimě na běžkařských tratích. Ráda též relaxuje při různých kulturních příležitostech, tanci a četbě.
+Svůj volný čas věnuje rodině a přátelům. Ráda jej vyplňuje poznáváním a sportem. Organizuje letní amatérský volejbal. Po celý rok ji můžete potkat při procházkách a na cyklistických vyjížďkách, v zimě na běžkařských tratích. Ráda též relaxuje při různých kulturních příležitostech, tanci a četbě.
 
 ## Aktivity:
-- 12/2019 členka České pirátské strany (členka Krajských expertních týmů Finance, Územní rozvoj, Životní prostředí) 
-- 12/2018 členka majetkové komise Rady městské části Praha 15
-- 10/2018 zastupitelka městské části Praha 15 a členka finančního výboru Zastupitelstva městské části Praha 15
-- 04/2018 registrovaný příznivec Pirátů
-- 10/2017 členka Patnáctka – náš domov, z.s. 
+od 12/2019 členka České pirátské strany (členka Krajských expertních týmů Finance, Územní rozvoj, Životní prostředí)
+od 12/2018 členka majetkové komise Rady městské části Praha 15
+od 10/2018 zastupitelka městské části Praha 15 a členka finančního výboru Zastupitelstva městské části Praha 15
+od 04/2018 registrovaná příznivkyně Pirátů
+od 10/2017 členka Patnáctka – náš domov, z.s.
 
-*„Přála bych si, aby Piráti jako nováček na místní politické scéně byli sebevědomým a kompetentním partnerem, zároveň také tmelícím elementem občansko - politické kultury v Praze 15, a to prostřednictvím naplňování pirátských tezí: rovnoprávné a svobodné konání, sdílení informací a informační otevřenost, transparentní hospodaření i jednání.“ (2018)*
+politické kultury v Praze 15, a to prostřednictvím naplňování pirátských tezí: rovnoprávné a svobodné konání, sdílení informací a informační otevřenost, transparentní hospodaření i jednání.“ (2018)*
