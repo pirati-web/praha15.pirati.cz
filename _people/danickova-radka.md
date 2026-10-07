@@ -29,8 +29,8 @@ Její motivací jsou situace, které se mohou zdát marné a ztrácející smysl
 Svůj volný čas věnuje rodině a přátelům. Ráda jej vyplňuje poznáváním a sportem. Organizuje letní amatérský volejbal. Po celý rok ji můžete potkat při procházkách a na cyklistických vyjížďkách, v zimě na běžkařských tratích. Ráda též relaxuje při různých kulturních příležitostech, tanci a četbě.
 
 ## Aktivity:
-od 12/2019 členka České pirátské strany (členka Krajských expertních týmů Finance, Územní rozvoj, Životní prostředí)
-od 12/2018 členka majetkové komise Rady městské části Praha 15
-od 10/2018 zastupitelka městské části Praha 15 a členka finančního výboru Zastupitelstva městské části Praha 15
-od 04/2018 registrovaná příznivkyně Pirátů
-od 10/2017 členka Patnáctka – náš domov, z.s.
+- od 12/2019 členka České pirátské strany (členka Krajských expertních týmů Finance, Územní rozvoj, Životní prostředí)
+- od 12/2018 členka majetkové komise Rady městské části Praha 15
+- od 10/2018 zastupitelka městské části Praha 15 a členka finančního výboru Zastupitelstva městské části Praha 15
+- od 04/2018 registrovaná příznivkyně Pirátů
+- od 10/2017 členka Patnáctka – náš domov, z.s.
