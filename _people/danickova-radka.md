@@ -8,7 +8,7 @@ category:
   - kandidat-obec
   - zastupitel
 ordpms: 1
-description: Ekonom, Finance a majetek, územní rozvoj a životní prostředí, Hostivař
+description: Finance a majetek, územní rozvoj a životní prostředí, Hostivař
 img: people/danickova-radka.png
 heroImg: praha-15.jpg
 mail:
