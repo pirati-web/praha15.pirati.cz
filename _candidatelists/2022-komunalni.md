@@ -66,10 +66,10 @@ tail: # zbytek kandidatky  # jediná povinná položka je name zbytek můžete v
     profession: pracovník ve výzkumu, botanik
     partyUid: bezpp
 # 13.
-  - uid: 
-    age: 
-    profession: 
-    partyUid: 
+  - uid: smetanova.kristyna
+    age: 26
+    profession: studentka Právnické fakulty UK
+    partyUid: bezpp
 # 14.
   - uid: ostadalova.alexandra
     age: 42
