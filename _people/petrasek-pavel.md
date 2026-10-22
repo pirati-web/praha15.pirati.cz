@@ -14,7 +14,7 @@ img: people/petrasek-pavel2.png
 heroImg: praha-15.jpg
 mob: +420 723 716 541
 mail:
-  - pavel.petrasek@atlas.cz 
+  - pavel.petrasek@pirati.cz 
 profiles:
   #facebook:
   #calendar:
